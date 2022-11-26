@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>VictoriaThree</artifactId>
+    <artifactId>VictoriaThreeWorldShatterer</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>org.example VictoriaThree</name>
+    <name>org.victoriaThreeShatterer VictoriaThree</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
