@@ -1,0 +1,3 @@
+NDiplomacy = {
+	BASE_YEARLY_INFAMY_DECAY_RATE = 8.0 	# Decay rate of infamy per year
+}
