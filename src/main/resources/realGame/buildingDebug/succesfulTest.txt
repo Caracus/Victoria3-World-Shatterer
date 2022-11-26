@@ -1,0 +1,77 @@
+﻿the holy grail (?<=s:STATE_)(.*?)=\{(.*?).(?=s:STATE|\Z) msg
+BUILDINGS={
+	s:STATE_IVORY_COAST={
+		region_state:FRA={
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_anchorage" }
+			}
+		}
+		region_state:ITA={
+			create_building={
+				building="building_livestock_ranch"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_anchorage" }
+			}
+		}
+		region_state:NET={
+			create_building={
+				building="building_livestock_ranch"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_anchorage" }
+			}
+		}
+		region_state:BLE={
+		}
+		region_state:KNG={
+		}
+		region_state:AYI={
+		}
+	}
+	s:STATE_NORTHERN_CAPE={
+		region_state:SAF={
+			create_building={
+				building="building_livestock_ranch"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_privately_owned" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated" "pm_open_air_stockyards" }
+			}
+		}
+		region_state:TSW={
+		}
+		region_state:WBL={
+		}
+	}
+	s:STATE_BOTSWANA={
+		region_state:TSW={
+		}
+		region_state:LZO={
+		}
+	}
+	s:STATE_LOURENCO_MARQUES={
+		region_state:POR={
+			create_building={
+				building="building_millet_farm"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_no_secondary" "pm_tools_disabled" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_coffee_plantation"
+				level=3
+				reserves=1
+				activate_production_methods={ "default_building_coffee_plantation" "pm_road_carts" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_dye_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_dye_plantation" "pm_road_carts" "pm_privately_owned" }
+			}
+		}
+	}
+}
