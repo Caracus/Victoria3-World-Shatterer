@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:LOS_RIOS = {
+	effect_starting_technology_tier_5_tech = yes
+	}
+}

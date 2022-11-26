@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:BADAJOZ = {
+	effect_starting_technology_tier_2_tech = yes
+	}
+}

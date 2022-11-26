@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:CENTRAL_HUNGARY = {
+	effect_starting_technology_tier_3_tech = yes
+	}
+}

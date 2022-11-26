@@ -1,0 +1,7 @@
+﻿POPULATION = {
+	c:KUBAN = {
+
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+}

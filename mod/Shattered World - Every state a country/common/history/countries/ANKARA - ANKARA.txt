@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:ANKARA = {
+	effect_starting_technology_tier_4_tech = yes
+	}
+}

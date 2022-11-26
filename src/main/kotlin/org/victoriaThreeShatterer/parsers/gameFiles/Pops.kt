@@ -4,33 +4,33 @@ import org.victoriaThreeShatterer.models.PopulationData
 import org.victoriaThreeShatterer.utils.RegionalMapping
 import org.victoriaThreeShatterer.utils.readFileAsText
 
-fun getConsolidatedPopMap(): MutableMap<String, List<PopulationData>> {
+fun getConsolidatedPopMap(patchVersion: String): MutableMap<String, List<PopulationData>> {
     var westEuropePops =
-        readPopsFile("src/main/resources/realGame/pops/00_west_europe.txt", RegionalMapping.WEST_EUROPE)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/00_west_europe.txt", RegionalMapping.WEST_EUROPE)
     var southEuropePops =
-        readPopsFile("src/main/resources/realGame/pops/01_south_europe.txt", RegionalMapping.SOUTH_EUROPE)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/01_south_europe.txt", RegionalMapping.SOUTH_EUROPE)
     var eastEuropePops =
-        readPopsFile("src/main/resources/realGame/pops/02_east_europe.txt", RegionalMapping.EAST_EUROPE)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/02_east_europe.txt", RegionalMapping.EAST_EUROPE)
     var northAfricaPops =
-        readPopsFile("src/main/resources/realGame/pops/03_north_africa.txt", RegionalMapping.NORTH_AFRICA)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/03_north_africa.txt", RegionalMapping.NORTH_AFRICA)
     var subsaharanAfricaPops =
-        readPopsFile("src/main/resources/realGame/pops/04_subsaharan_africa.txt", RegionalMapping.SUBSAHARAN_AFRICA)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/04_subsaharan_africa.txt", RegionalMapping.SUBSAHARAN_AFRICA)
     var northAmericaPops =
-        readPopsFile("src/main/resources/realGame/pops/05_north_america.txt", RegionalMapping.NORTH_AMERICAN)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/05_north_america.txt", RegionalMapping.NORTH_AMERICAN)
     var centralAmericaPops =
-        readPopsFile("src/main/resources/realGame/pops/06_central_america.txt", RegionalMapping.CENTRAL_AMERICAN)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/06_central_america.txt", RegionalMapping.CENTRAL_AMERICAN)
     var southAmericaPops =
-        readPopsFile("src/main/resources/realGame/pops/07_south_america.txt", RegionalMapping.SOUTH_AMERICAN)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/07_south_america.txt", RegionalMapping.SOUTH_AMERICAN)
     var middleEastPops =
-        readPopsFile("src/main/resources/realGame/pops/08_middle_east.txt", RegionalMapping.MIDDLE_EAST)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/08_middle_east.txt", RegionalMapping.MIDDLE_EAST)
     var centralAsiaPops =
-        readPopsFile("src/main/resources/realGame/pops/09_central_asia.txt", RegionalMapping.CENTRAL_ASIA)
-    var indiaPops = readPopsFile("src/main/resources/realGame/pops/10_india.txt", RegionalMapping.INDIA)
-    var eastAsiaPops = readPopsFile("src/main/resources/realGame/pops/11_east_asia.txt", RegionalMapping.EAST_ASIA)
-    var indonesiaPops = readPopsFile("src/main/resources/realGame/pops/12_indonesia.txt", RegionalMapping.INDONESIA)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/09_central_asia.txt", RegionalMapping.CENTRAL_ASIA)
+    var indiaPops = readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/10_india.txt", RegionalMapping.INDIA)
+    var eastAsiaPops = readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/11_east_asia.txt", RegionalMapping.EAST_ASIA)
+    var indonesiaPops = readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/12_indonesia.txt", RegionalMapping.INDONESIA)
     var australasiaPops =
-        readPopsFile("src/main/resources/realGame/pops/13_australasia.txt", RegionalMapping.AUSTRALASIA)
-    var siberiaPops = readPopsFile("src/main/resources/realGame/pops/14_siberia.txt", RegionalMapping.SIBERIA)
+        readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/13_australasia.txt", RegionalMapping.AUSTRALASIA)
+    var siberiaPops = readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/14_siberia.txt", RegionalMapping.SIBERIA)
 
     return (
             westEuropePops + southEuropePops + eastEuropePops + northAfricaPops + subsaharanAfricaPops + northAmericaPops +

@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:NIGER_DELTA = {
+	effect_starting_technology_tier_6_tech = yes
+	}
+}

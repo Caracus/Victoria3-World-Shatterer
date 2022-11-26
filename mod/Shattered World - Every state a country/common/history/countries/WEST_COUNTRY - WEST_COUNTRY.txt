@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:WEST_COUNTRY = {
+	effect_starting_technology_tier_1_tech = yes
+	}
+}

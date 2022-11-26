@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:RIFT_VALLEY = {
+	effect_starting_technology_tier_6_tech = yes
+	}
+}

@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:SENEGAL = {
+	effect_starting_technology_tier_6_tech = yes
+	}
+}

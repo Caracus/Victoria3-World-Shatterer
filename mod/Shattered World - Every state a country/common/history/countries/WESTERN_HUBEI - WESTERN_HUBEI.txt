@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:WESTERN_HUBEI = {
+	effect_starting_technology_tier_5_tech = yes
+	}
+}

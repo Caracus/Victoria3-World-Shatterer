@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:JIANGXI = {
+	effect_starting_technology_tier_5_tech = yes
+	}
+}

@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:HAWAIIAN_ISLANDS = {
+	effect_starting_technology_tier_3_tech = yes
+	}
+}

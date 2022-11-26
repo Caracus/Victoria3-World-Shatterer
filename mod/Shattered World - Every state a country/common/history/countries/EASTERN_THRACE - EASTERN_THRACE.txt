@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:EASTERN_THRACE = {
+	effect_starting_technology_tier_2_tech = yes
+	}
+}

@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:WINDWARD_COAST = {
+	effect_starting_technology_tier_6_tech = yes
+	}
+}

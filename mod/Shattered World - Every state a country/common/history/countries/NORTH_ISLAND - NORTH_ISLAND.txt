@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:NORTH_ISLAND = {
+	effect_starting_technology_tier_3_tech = yes
+	}
+}

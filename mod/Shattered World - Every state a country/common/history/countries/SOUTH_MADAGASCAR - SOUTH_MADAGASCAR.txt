@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:SOUTH_MADAGASCAR = {
+	effect_starting_technology_tier_6_tech = yes
+	}
+}

@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:RIO_GRANDE_DO_NORTE = {
+	effect_starting_technology_tier_5_tech = yes
+	}
+}

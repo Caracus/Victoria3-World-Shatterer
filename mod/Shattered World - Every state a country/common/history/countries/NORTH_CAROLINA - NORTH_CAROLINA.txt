@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:NORTH_CAROLINA = {
+	effect_starting_technology_tier_3_tech = yes
+	}
+}

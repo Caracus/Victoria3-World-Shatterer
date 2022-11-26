@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:CENTRAL_INDIA = {
+	effect_starting_technology_tier_5_tech = yes
+	}
+}

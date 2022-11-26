@@ -3,22 +3,22 @@ package org.victoriaThreeShatterer.parsers.gameFiles
 import org.victoriaThreeShatterer.models.BuildingData
 import org.victoriaThreeShatterer.utils.readFileAsText
 
-fun getConsolidatedBuildingsMap(): MutableMap<String, MutableList<BuildingData>> {
-    var westEuropeBuildings = readBuildingsFile("src/main/resources/realGame/buildings/00_west_europe.txt")
-    var southEuropeBuildings = readBuildingsFile("src/main/resources/realGame/buildings/01_south_europe.txt")
-    var eastEuropeBuildings = readBuildingsFile("src/main/resources/realGame/buildings/02_east_europe.txt")
-    var northAfricaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/03_north_africa.txt")
-    var subsaharanAfricaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/04_subsaharan_africa.txt")
-    var northAmericaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/05_north_america.txt")
-    var centralAmericaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/06_central_america.txt")
-    var southAmericaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/07_south_america.txt")
-    var middleEastBuildings = readBuildingsFile("src/main/resources/realGame/buildings/08_middle_east.txt")
-    var centralAsiaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/09_central_asia.txt")
-    var indiaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/10_india.txt")
-    var eastAsiaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/11_east_asia.txt")
-    var indonesiaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/12_indonesia.txt")
-    var australasiaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/13_australasia.txt")
-    var siberiaBuildings = readBuildingsFile("src/main/resources/realGame/buildings/14_siberia.txt")
+fun getConsolidatedBuildingsMap(patchVersion: String): MutableMap<String, MutableList<BuildingData>> {
+    var westEuropeBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/00_west_europe.txt")
+    var southEuropeBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/01_south_europe.txt")
+    var eastEuropeBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/02_east_europe.txt")
+    var northAfricaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/03_north_africa.txt")
+    var subsaharanAfricaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/04_subsaharan_africa.txt")
+    var northAmericaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/05_north_america.txt")
+    var centralAmericaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/06_central_america.txt")
+    var southAmericaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/07_south_america.txt")
+    var middleEastBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/08_middle_east.txt")
+    var centralAsiaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/09_central_asia.txt")
+    var indiaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/10_india.txt")
+    var eastAsiaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/11_east_asia.txt")
+    var indonesiaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/12_indonesia.txt")
+    var australasiaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/13_australasia.txt")
+    var siberiaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/14_siberia.txt")
 
     return (
             westEuropeBuildings + southEuropeBuildings + eastEuropeBuildings + northAfricaBuildings + subsaharanAfricaBuildings + northAmericaBuildings +
@@ -39,7 +39,6 @@ fun readBuildingsFile(path: String): MutableMap<String, MutableList<BuildingData
     ).findAll(
         textOfFile
     ).toSet()
-
 
     stateInformationSet.forEach {
         var stateName = it.groupValues[1]

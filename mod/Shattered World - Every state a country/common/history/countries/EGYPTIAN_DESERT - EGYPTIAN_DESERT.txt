@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:EGYPTIAN_DESERT = {
+	effect_starting_technology_tier_5_tech = yes
+	}
+}

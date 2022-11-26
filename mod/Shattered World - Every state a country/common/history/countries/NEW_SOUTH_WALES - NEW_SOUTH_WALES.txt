@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:NEW_SOUTH_WALES = {
+	effect_starting_technology_tier_3_tech = yes
+	}
+}

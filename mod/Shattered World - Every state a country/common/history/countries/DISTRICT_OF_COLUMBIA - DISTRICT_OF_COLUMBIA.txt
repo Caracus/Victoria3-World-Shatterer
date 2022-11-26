@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:DISTRICT_OF_COLUMBIA = {
+	effect_starting_technology_tier_3_tech = yes
+	}
+}

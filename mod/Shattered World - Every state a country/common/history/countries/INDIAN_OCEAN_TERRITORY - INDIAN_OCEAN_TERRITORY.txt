@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:INDIAN_OCEAN_TERRITORY = {
+	effect_starting_technology_tier_5_tech = yes
+	}
+}

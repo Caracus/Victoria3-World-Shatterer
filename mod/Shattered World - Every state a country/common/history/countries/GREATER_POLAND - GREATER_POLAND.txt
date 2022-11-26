@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:GREATER_POLAND = {
+	effect_starting_technology_tier_3_tech = yes
+	}
+}

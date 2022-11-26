@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:NORTHERN_TERRITORY = {
+	effect_starting_technology_tier_3_tech = yes
+	}
+}

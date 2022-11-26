@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:BOTSWANA = {
+	effect_starting_technology_tier_6_tech = yes
+	}
+}

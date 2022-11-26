@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:LANGUEDOC = {
+	effect_starting_technology_tier_1_tech = yes
+	}
+}

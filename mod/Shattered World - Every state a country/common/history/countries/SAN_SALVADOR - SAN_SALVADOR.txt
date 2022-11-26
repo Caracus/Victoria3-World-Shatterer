@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:SAN_SALVADOR = {
+	effect_starting_technology_tier_4_tech = yes
+	}
+}

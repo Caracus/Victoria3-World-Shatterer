@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:EAST_SAHARA = {
+	effect_starting_technology_tier_5_tech = yes
+	}
+}

@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:BURGUNDY = {
+	effect_starting_technology_tier_1_tech = yes
+	}
+}
