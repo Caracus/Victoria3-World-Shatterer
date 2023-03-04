@@ -4473,8 +4473,8 @@
 				religion = jewish
 			}
 			create_pop = {
-				culture = kikuyu 
-				size = 83734
+				culture = kikuyu
+				size = 218421
 			}
 			create_pop = {
 				culture = afar
@@ -4488,10 +4488,6 @@
 			create_pop = {
 				culture = tigray
 				size = 300432
-			}
-			create_pop = {
-				culture = kikuyu
-				size = 134687
 			}
 			create_pop = {
 				culture = oromo
@@ -11025,11 +11021,11 @@
 		region_state:HOKKAIDO = {
 			create_pop = {
 				culture = ainu
-				size = 767520
+				size = 58520
 			}
 			create_pop = {
 				culture = japanese
-				size = 67862
+				size = 9862
 			}
 		}
 	}
@@ -11144,7 +11140,7 @@
 		region_state:SEOUL = {
 			create_pop = {
 				culture = korean
-				size = 2800004
+				size = 2818978
 			}
 		}
 	}
@@ -11152,7 +11148,7 @@
 		region_state:BUSAN = {
 			create_pop = {
 				culture = korean
-				size = 1372002
+				size = 3596627
 			}
 		}
 	}
@@ -11160,7 +11156,7 @@
 		region_state:YANGHO = {
 			create_pop = {
 				culture = korean
-				size = 1372002
+				size = 4552487
 			}
 		}
 	}
@@ -11168,7 +11164,7 @@
 		region_state:SARIWON = {
 			create_pop = {
 				culture = korean
-				size = 1260704
+				size = 1620102
 			}
 		}
 	}
@@ -11176,7 +11172,7 @@
 		region_state:PYONGYANG = {
 			create_pop = {
 				culture = korean
-				size = 2479992
+				size = 3612828
 			}
 		}
 	}

@@ -8,13 +8,13 @@ import org.victoriaThreeShatterer.parsers.gameFiles.getConsolidatedPopMap
 import org.victoriaThreeShatterer.parsers.gameFiles.readStatesFile
 import org.victoriaThreeShatterer.utils.setBarracksToAtLeast
 
-const val patchVersion = "1-0-6"
+const val patchVersion = "1-1-2"
 
-fun main(args: Array<String>) {
+fun main() {
     println("Start parsing files")
-    var colorPalette = readColorPalette("src/main/resources/colorPalette.json")
-    var stateMap = readStatesFile("src/main/resources/GameFiles/$patchVersion/00_states.txt")
-    var compactPopMap = getConsolidatedPopMap(patchVersion)
+    val colorPalette = readColorPalette("src/main/resources/colorPalette.json")
+    val stateMap = readStatesFile("src/main/resources/GameFiles/$patchVersion/00_states.txt")
+    val compactPopMap = getConsolidatedPopMap(patchVersion)
     var buildingsMap = getConsolidatedBuildingsMap(patchVersion)
     println("Done parsing files")
 
