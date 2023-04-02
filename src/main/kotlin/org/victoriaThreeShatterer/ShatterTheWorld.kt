@@ -36,7 +36,7 @@ fun main() {
 
     println("Start creating new files")
     createBuildingsFile(buildingsMap)
-    createBuildingsOnlyBarracks(stateMap)
+    //createBuildingsOnlyBarracks(stateMap) only enable this if you want a blank building map
     createPopsFile(compactPopMap)
     createStatesFile(stateMap)
     createPopulationsFiles(compactPopMap)
