@@ -1,5 +1,6 @@
 package org.victoriaThreeShatterer.utils
 
+import org.victoriaThreeShatterer.gameFilesFolderPath
 import java.io.File
 
 //even tho the game engine does not need formatting it is here to prevent eye cancer
@@ -29,3 +30,46 @@ fun printFile(path: String, fileName: String, content: String) {
 }
 
 fun readFileAsText(fileName: String): String = File(fileName).readText(Charsets.UTF_8)
+
+fun updateModFolderFromTarget() {
+
+    //delete countries and population folder (these have files for each country)
+    val historyCountries = File("mod/Shattered World - Every state a country/common/history/countries")
+    val historyPopulation = File("mod/Shattered World - Every state a country/common/history/population")
+    historyCountries.deleteRecursively()
+    historyPopulation.deleteRecursively()
+
+    //copy all files from target to mod
+    val targetCommon = File("target/generatedModFiles/game/common")
+    val modCommon = File("mod/Shattered World - Every state a country/common")
+    val targetLocalization = File("target/generatedModFiles/game/localization")
+    val modLocalization = File("mod/Shattered World - Every state a country/localization")
+    targetCommon.copyRecursively(modCommon,true)
+    targetLocalization.copyRecursively(modLocalization,true)
+
+}
+
+fun copyFormablesToMod(){
+    val gameCountryFormation = File(org.victoriaThreeShatterer.installedGameFolderPath.plus("common/country_formation"))
+    val modCountryFormation = File("mod/Shattered World - Every state a country/common/country_formation")
+    gameCountryFormation.copyRecursively(modCountryFormation, true)
+}
+
+fun copyOriginalFilesFromGameToGameFiles (){
+    //Buildings
+    val gameBuildings = File(org.victoriaThreeShatterer.installedGameFolderPath.plus("common/history/buildings"))
+    val gameFilesBuildings = File(gameFilesFolderPath.plus("buildings"))
+    gameFilesBuildings.deleteRecursively()
+    gameBuildings.copyRecursively(gameFilesBuildings, true)
+
+    //Pops
+    val gamePops = File(org.victoriaThreeShatterer.installedGameFolderPath.plus("common/history/pops"))
+    val gameFilesPops = File(gameFilesFolderPath.plus("pops"))
+    gameFilesPops.deleteRecursively()
+    gamePops.copyRecursively(gameFilesPops, true)
+
+    //States
+    val gameStates = File(org.victoriaThreeShatterer.installedGameFolderPath.plus("common/history/states/00_states.txt"))
+    val gameFilesStates = File(gameFilesFolderPath.plus("00_states.txt"))
+    gameStates.copyTo(gameFilesStates, true)
+}

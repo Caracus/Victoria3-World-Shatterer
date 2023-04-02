@@ -657,15 +657,29 @@
 		region_state:HOLLAND = {
 			create_pop = {
 				culture = dutch
-				size = 1096204
+				size = 842331
+			}
+			create_pop = {
+				culture = dutch
+				size = 327009
+				religion = catholic
 			}
 			create_pop = {
 				culture = flemish
-				size = 21400
+				size = 26531
+			}
+			create_pop = {
+				culture = wallonian
+				size = 6542
+				religion = protestant
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 34004
+				size = 34143
+			}
+			create_pop = {
+				culture = sephardic
+				size = 2908
 			}
 		}
 	}
@@ -673,15 +687,21 @@
 		region_state:FRIESLAND = {
 			create_pop = {
 				culture = dutch
-				size = 672400
+				size = 528678
 			}
 			create_pop = {
-				culture = north_german
-				size = 12800
+				culture = dutch
+				size = 134022
+				religion = catholic
+			}
+			create_pop = {
+				culture = wallonian
+				size = 425
+				religion = protestant
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 1000
+				size = 10947
 			}
 		}
 	}
@@ -689,19 +709,26 @@
 		region_state:GELRE = {
 			create_pop = {
 				culture = dutch
-				size = 975800
+				size = 192091
+			}
+			create_pop = {
+				culture = dutch
+				size = 673889
+				religion = catholic
+			}
+			create_pop = {
+				culture = wallonian
+				size = 774
+				religion = protestant
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 3000
-			}
-			create_pop = {
-				culture = flemish
-				size = 17200
+				size = 6705
 			}
 			create_pop = {
 				culture = north_german
-				size = 14000
+				size = 19201
+				religion = catholic
 			}
 		}
 	}
@@ -4473,8 +4500,8 @@
 				religion = jewish
 			}
 			create_pop = {
-				culture = kikuyu 
-				size = 83734
+				culture = kikuyu
+				size = 218421
 			}
 			create_pop = {
 				culture = afar
@@ -4488,10 +4515,6 @@
 			create_pop = {
 				culture = tigray
 				size = 300432
-			}
-			create_pop = {
-				culture = kikuyu
-				size = 134687
 			}
 			create_pop = {
 				culture = oromo
@@ -6127,6 +6150,10 @@
 	}
 	s:STATE_SASKATCHEWAN = {
 		region_state:SASKATCHEWAN = {
+			create_pop = {
+				culture = anglo_canadian
+				size = 3000
+			}
 			create_pop = {
 				culture = siouan
 				size = 12200
@@ -8845,8 +8872,12 @@
 	s:STATE_KUBAN = {
 		region_state:KUBAN = {
 			create_pop = {
+				culture = circassian
+				size = 859804
+			}
+			create_pop = {
 				culture = north_caucasian
-				size = 849804
+				size = 250944
 			}
 			create_pop = {
 				culture = greek
@@ -8966,16 +8997,20 @@
 		region_state:SAMARA = {
 			create_pop = {
 				culture = russian
-				size = 1977196
+				size = 2057196
 			}
 			create_pop = {
 				culture = tatar
-				size = 60000
+				size = 55000
 				religion = orthodox
 			}
 			create_pop = {
 				culture = tatar
-				size = 352000
+				size = 397000
+			}
+			create_pop = {
+				culture = kazak
+				size = 40000
 			}
 		}
 	}
@@ -9046,11 +9081,15 @@
 		region_state:URALSK = {
 			create_pop = {
 				culture = kazak
-				size = 92000
+				size = 77500
 			}
 			create_pop = {
 				culture = russian
-				size = 7996
+				size = 8996
+			}
+			create_pop = {
+				culture = uzbek
+				size = 3500
 			}
 		}
 	}
@@ -9200,15 +9239,19 @@
 		region_state:SEMIRECHE = {
 			create_pop = {
 				culture = kazak
-				size = 164162
+				size = 166362
 			}
 			create_pop = {
 				culture = uighur
-				size = 11000
+				size = 12100
 			}
 			create_pop = {
 				culture = kirgiz
 				size = 4000
+			}
+			create_pop = {
+				culture = russian
+				size = 3700
 			}
 		}
 	}
@@ -9232,15 +9275,15 @@
 		region_state:AKMOLINSK = {
 			create_pop = {
 				culture = kazak
-				size = 260000
+				size = 256000
 			}
 			create_pop = {
 				culture = russian
-				size = 11992
+				size = 13992
 			}
 			create_pop = {
 				culture = uzbek
-				size = 56000
+				size = 70000
 			}
 		}
 	}
@@ -11025,11 +11068,11 @@
 		region_state:HOKKAIDO = {
 			create_pop = {
 				culture = ainu
-				size = 767520
+				size = 58520
 			}
 			create_pop = {
 				culture = japanese
-				size = 67862
+				size = 9862
 			}
 		}
 	}
@@ -11144,7 +11187,7 @@
 		region_state:SEOUL = {
 			create_pop = {
 				culture = korean
-				size = 2800004
+				size = 2818978
 			}
 		}
 	}
@@ -11152,7 +11195,7 @@
 		region_state:BUSAN = {
 			create_pop = {
 				culture = korean
-				size = 1372002
+				size = 3596627
 			}
 		}
 	}
@@ -11160,7 +11203,7 @@
 		region_state:YANGHO = {
 			create_pop = {
 				culture = korean
-				size = 1372002
+				size = 4552487
 			}
 		}
 	}
@@ -11168,7 +11211,7 @@
 		region_state:SARIWON = {
 			create_pop = {
 				culture = korean
-				size = 1260704
+				size = 1620102
 			}
 		}
 	}
@@ -11176,7 +11219,7 @@
 		region_state:PYONGYANG = {
 			create_pop = {
 				culture = korean
-				size = 2479992
+				size = 3612828
 			}
 		}
 	}
