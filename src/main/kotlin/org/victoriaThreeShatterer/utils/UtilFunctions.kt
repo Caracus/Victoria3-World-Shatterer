@@ -49,27 +49,27 @@ fun updateModFolderFromTarget() {
 
 }
 
-fun copyFormablesToMod(){
-    val gameCountryFormation = File(org.victoriaThreeShatterer.installedGameFolderPath.plus("common/country_formation"))
+fun copyFormablesToMod(gamePath: String){
+    val gameCountryFormation = File(gamePath.plus("common/country_formation"))
     val modCountryFormation = File("mod/Shattered World - Every state a country/common/country_formation")
     gameCountryFormation.copyRecursively(modCountryFormation, true)
 }
 
-fun copyOriginalFilesFromGameToGameFiles (){
+fun copyOriginalFilesFromGameToGameFiles (gamePath: String){
     //Buildings
-    val gameBuildings = File(org.victoriaThreeShatterer.installedGameFolderPath.plus("common/history/buildings"))
+    val gameBuildings = File(gamePath.plus("common/history/buildings"))
     val gameFilesBuildings = File(gameFilesFolderPath.plus("buildings"))
     gameFilesBuildings.deleteRecursively()
     gameBuildings.copyRecursively(gameFilesBuildings, true)
 
     //Pops
-    val gamePops = File(org.victoriaThreeShatterer.installedGameFolderPath.plus("common/history/pops"))
+    val gamePops = File(gamePath.plus("common/history/pops"))
     val gameFilesPops = File(gameFilesFolderPath.plus("pops"))
     gameFilesPops.deleteRecursively()
     gamePops.copyRecursively(gameFilesPops, true)
 
     //States
-    val gameStates = File(org.victoriaThreeShatterer.installedGameFolderPath.plus("common/history/states/00_states.txt"))
+    val gameStates = File(gamePath.plus("common/history/states/00_states.txt"))
     val gameFilesStates = File(gameFilesFolderPath.plus("00_states.txt"))
     gameStates.copyTo(gameFilesStates, true)
 }

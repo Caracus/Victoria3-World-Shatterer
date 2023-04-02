@@ -5012,7 +5012,6 @@
 
 		add_homeland = croat
 		add_homeland = serb
-		add_homeland = hungarian
 	}
 	s:STATE_CROATIA = {
 		create_state = {
@@ -5022,7 +5021,6 @@
 
 		add_homeland = croat
 		add_homeland = serb
-		add_homeland = hungarian
 	}
 	s:STATE_SLAVONIA = {
 		create_state = {
@@ -5032,7 +5030,6 @@
 
 		add_homeland = croat
 		add_homeland = serb
-		add_homeland = hungarian
 	}
 	s:STATE_BEKES = {
 		create_state = {
