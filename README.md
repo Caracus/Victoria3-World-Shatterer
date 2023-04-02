@@ -32,7 +32,3 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2879990706
 
 ### Contributors
 - Thanks to andrasmining for the update to 1.2.4 aswell as adding back vanilla formables
-- 
-
-- Forked from Caracus - thanks man for the great work!
-- Updated to 1.2.4
