@@ -1,11 +1,5 @@
 # Victoria 3 Parser / World Shatterer
 
-- Forked from Caracus - thanks man for the great work!
-- Updated to 1.2.4
-- Added all possible standard formable nations
-- Also added hungary as formable (not the KUK, but HUN, added 3 croatian nations as well to their states as hungarian homeland)
-- For easy usage, just download the latest release to your mod folder, typically under `C:/Users/<username>/Documents/Paradox Interactive/Victoria 3/mod/`
-
 <!-- ABOUT THE PROJECT -->
 ## What does this do?
 
@@ -35,3 +29,6 @@ Can be found under the mod folder. You can also copy and rename the mod if you w
 ### How to contribute
 Best to hit me up via Steam, just leave a comment on my profile page or the mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2879990706
+
+### Contributors
+- Thanks to andrasmining for the update to 1.2.4 aswell as adding back vanilla formables

@@ -1,3 +1,4 @@
 .idea
 target/
 /mod/*.zip
+src/main/resources/configuration/configuration.json
