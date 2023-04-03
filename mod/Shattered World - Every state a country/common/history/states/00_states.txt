@@ -5010,6 +5010,7 @@
 			owned_provinces = { xF9421B xEFA0C0 x11A0E0 x90A0E0 }
 		}
 
+		add_homeland = hungarian
 		add_homeland = croat
 		add_homeland = serb
 	}
@@ -5019,6 +5020,7 @@
 			owned_provinces = { x71A041 x70DF00 x6D8BC6 xF021C0 x71A0C0 xB39050 xB339EC x458E4C }
 		}
 
+		add_homeland = hungarian
 		add_homeland = croat
 		add_homeland = serb
 	}
@@ -5028,6 +5030,7 @@
 			owned_provinces = { x51A021 x106020 x13318D x906121 x80CF00 x902161 x1A4DF9 }
 		}
 
+		add_homeland = hungarian
 		add_homeland = croat
 		add_homeland = serb
 	}
