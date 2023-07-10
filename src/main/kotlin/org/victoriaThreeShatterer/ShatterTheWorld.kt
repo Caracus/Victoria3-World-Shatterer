@@ -9,7 +9,7 @@ import org.victoriaThreeShatterer.parsers.gameFiles.getConsolidatedPopMap
 import org.victoriaThreeShatterer.parsers.gameFiles.readStatesFile
 import org.victoriaThreeShatterer.utils.*
 
-const val patchVersion = "1-2-4"
+const val patchVersion = "1-3-6"
 const val gameFilesFolderPath = "src/main/resources/GameFiles/$patchVersion/"
 
 fun main() {
@@ -30,6 +30,8 @@ fun main() {
     var buildingsMap = getConsolidatedBuildingsMap(patchVersion)
     println("Done parsing files")
 
+    val cultureSet = createFormables(stateMap, colorPalette)
+
     println("Start modifying parsed data")
     buildingsMap = setBarracksToAtLeast(10, buildingsMap)
     println("Done modifying parsed data")
@@ -42,13 +44,15 @@ fun main() {
     createPopulationsFiles(compactPopMap)
     createCountryDefinitionsFile(stateMap, compactPopMap, colorPalette, gamePath)
     createCountriesFiles(compactPopMap)
-    createLocalization(stateMap)
+    createAiStartingStrategies(stateMap)
+    createLocalization(stateMap, cultureSet)
     println("Done creating new files")
 
-    println("Start updating mod folder")
-    updateModFolderFromTarget()
-    copyFormablesToMod(gamePath)
-    println("Done updating mod folder")
+    //no longer needed, add dynamic formables instead
+    //println("Start updating mod folder")
+    //updateModFolderFromTarget()
+    //copyFormablesToMod(gamePath)
+    //println("Done updating mod folder")
 
     println("Program done")
 }

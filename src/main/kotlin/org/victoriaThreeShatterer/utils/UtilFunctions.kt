@@ -29,7 +29,9 @@ fun printFile(path: String, fileName: String, content: String) {
     File(savePath.plus(fileName)).writeText("\uFEFF" + content, Charsets.UTF_8)
 }
 
-fun readFileAsText(fileName: String): String = File(fileName).readText(Charsets.UTF_8)
+fun readFileAsText(fileName: String): String = removeComments(
+    File(fileName).readText(Charsets.UTF_8)
+)
 
 fun updateModFolderFromTarget() {
 
@@ -72,4 +74,9 @@ fun copyOriginalFilesFromGameToGameFiles (gamePath: String){
     val gameStates = File(gamePath.plus("common/history/states/00_states.txt"))
     val gameFilesStates = File(gameFilesFolderPath.plus("00_states.txt"))
     gameStates.copyTo(gameFilesStates, true)
+}
+
+fun removeComments(string: String): String {
+    val regex = Regex("\\s*#.*?\n")
+    return string.replace(regex, "\n")
 }

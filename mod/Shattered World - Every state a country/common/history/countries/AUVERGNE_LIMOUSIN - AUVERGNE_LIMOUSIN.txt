@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:AUVERGNE_LIMOUSIN = {
+	effect_starting_technology_tier_1_tech = yes
+	}
+}

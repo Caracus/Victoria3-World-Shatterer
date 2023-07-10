@@ -1,0 +1,3097 @@
+﻿AI = {
+	c:MINSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LOUISIANA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NEW_YORK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VIRGINIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LOWER_EGYPT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HOME_COUNTIES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LANCASHIRE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PROVENCE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORMANDY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ANDALUSIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HOLLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BALUCHISTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_BENGAL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DOBRUDJA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BASRA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EASTERN_THRACE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MEKONG = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SHANDONG = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SUZHOU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ROSTOV = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VENETIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:POMERANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:INGRIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALASKA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WASHINGTON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OREGON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:IDAHO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:COLORADO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WYOMING = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MONTANA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_DAKOTA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_DAKOTA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NEBRASKA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KANSAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OKLAHOMA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ARKANSAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MISSOURI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:IOWA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MINNESOTA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WISCONSIN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:INDIANA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MICHIGAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OHIO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KENTUCKY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TENNESSEE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MISSISSIPPI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALABAMA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FLORIDA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GEORGIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DISTRICT_OF_COLUMBIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_VIRGINIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MARYLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DELAWARE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PENNSYLVANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NEW_JERSEY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ILLINOIS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CONNECTICUT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RHODE_ISLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MASSACHUSETTS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VERMONT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NEW_HAMPSHIRE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MAINE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_CAROLINA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TEXAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:YUKON_TERRITORY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTHWEST_TERRITORIES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NUNAVUT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BRITISH_COLUMBIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALBERTA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SASKATCHEWAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MANITOBA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ONTARIO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:QUEBEC = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NEWFOUNDLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GUATEMALA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HONDURAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NICARAGUA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:COSTA_RICA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PANAMA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CUBA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:URUGUAY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ECUADOR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SANTO_DOMINGO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HAITI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GOTLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GOTALAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SCANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORRLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SVEALAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SICILY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:IONIAN_ISLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PELOPONNESE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALBANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BOSNIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTHERN_TRANSYLVANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HAWAIIAN_ISLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTHERN_TRANSYLVANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MOLDAVIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WALLACHIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GALICIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ASTURIAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CASTILE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ARAGON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NAVARRA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CATALONIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BALEARES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NEW_SOUTH_WALES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VICTORIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TASMANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:QUEENSLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_AUSTRALIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WESTERN_AUSTRALIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTHERN_TERRITORY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_ISLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_ISLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_MICRONESIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_MICRONESIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_JAVA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_JAVA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CENTRAL_JAVA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CEYLON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:URGA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ULIASTAI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OMAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ABU_DHABI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:YEMEN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HEDJAZ = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TUNISIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GUINEA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GHANA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TOGO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DAHOMEY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GABON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BOTSWANA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ZAMBIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CAMBODIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SAVOY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LIBERIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EMILIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TUSCANY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ROMAGNA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LAZIO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NEVADA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ARIZONA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NEW_MEXICO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CALIFORNIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SONORA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHIHUAHUA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RIO_GRANDE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DURANGO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SINALOA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BAJIO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:YUCATAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MEXICO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VERACRUZ = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GUERRERO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OAXACA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:JALISCO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ZACATECAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GUAYANA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ZULIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MIRANDA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BOLIVAR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ANTIOQUIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GUAVIARE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CUNDINAMARCA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CAUCA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PASTAZA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CAJAMARCA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LIMA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ICA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AREQUIPA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PARA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MARANHAO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AMAZONAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ACRE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GOIAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MATO_GROSSO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RIO_GRANDE_DO_SUL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PARANA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SANTA_CATARINA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SAO_PAULO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MINAS_GERAIS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RIO_DE_JANEIRO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BAHIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RIO_GRANDE_DO_NORTE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CEARA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PIAUI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PERNAMBUCO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PARAIBA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALTO_PARAGUAY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BAJO_PARAGUAY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BUENOS_AIRES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PATAGONIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RIO_NEGRO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LA_PAMPA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SANTA_FE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CORRIENTES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TUCUMAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHACO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:JUJUY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SANTA_CRUZ = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LA_PAZ = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:POTOSI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SANTIAGO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LOS_RIOS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ARAUCANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_ATLANTIC_ISLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ICELAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GREENLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_SAHARA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MARRAKECH = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FEZ = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AL_RIF = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:INNER_MOROCCO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ORAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SAHARA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_SAHARA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALGIERS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CONSTANTINE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TRIPOLI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LIBYAN_DESERT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LIBYA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:UPPER_EGYPT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EGYPTIAN_DESERT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MIDDLE_EGYPT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MATRUH = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SINAI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DONGOLA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KORDOFAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DARFUR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BLUE_NILE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NEW_BRUNSWICK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_ANGOLA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_ANGOLA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_ANGOLA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:INDIAN_OCEAN_TERRITORY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LOURENCO_MARQUES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MOCAMBIQUE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ZAMBEZIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EASTERN_CAPE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CAPE_COLONY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTHERN_CAPE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WALES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:YORKSHIRE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HIGHLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MIDLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_ANGLIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_COUNTRY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LOWLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ULSTER = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MUNSTER = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LEINSTER = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LANGUEDOC = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RHONE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FRENCH_LOW_COUNTRIES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PICARDY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALSACE_LORRAINE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:POITOU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GUYENNE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AUVERGNE_LIMOUSIN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BRITTANY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BURGUNDY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHAMPAGNE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FRANCHE_COMTE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LORRAINE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AQUITAINE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MAINE_ANJOU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ORLEANS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ILE_DE_FRANCE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ELBE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BEIRA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ESTREMADURA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALENTEJO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MADEIRA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CAPE_VERDE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AZORES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CANARY_ISLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GRANADA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BADAJOZ = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VALENCIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TOLEDO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WALLONIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FLANDERS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FRIESLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GELRE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:JUTLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ZEALAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WESTERN_NORWAY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTHERN_NORWAY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EASTERN_NORWAY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_SWITZERLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_SWITZERLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PUERTO_RICO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BAHAMAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BERMUDA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_INDIES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:JAMAICA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ORISSA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SINDH = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RAJPUTANA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CIRCARS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PUNJAB = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NAGPUR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MYSORE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TRAVANCORE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MADRAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KASHMIR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HYDERABAD = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GUJARAT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CENTRAL_INDIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BOMBAY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BIHAR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_BENGAL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ASSAM = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AWADH = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DELHI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TENASSERIM = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KACHIN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SHAN_STATES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BURMA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PEGU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_SUMATRA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_SUMATRA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ACEH = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WESTERN_NEW_GUINEA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MOLUCCAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CELEBES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_BORNEO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_BORNEO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SUNDA_ISLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MALAYA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_BORNEO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MINDANAO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LUZON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VISAYAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ATTICA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SKOPIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MACEDONIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:THESSALIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WESTERN_THRACE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTHERN_THRACE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BULGARIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_MADAGASCAR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_MADAGASCAR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OROMIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AMHARA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GONDER = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KAZEMBE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ERITREA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOMALILAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NAMAQUALAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HEREROLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ZAMBEZI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KENYA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RIFT_VALLEY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHAD = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WADDAI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LINDI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ZANZIBAR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TANGANYIKA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MAURITANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:INNER_MAURITANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EASTERN_MALI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WESTERN_MALI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TIMBUKTU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HAUSALAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BENIN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:YORUBA_STATES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NIGER_DELTA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OUTER_HAUSALAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NIGER = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BORNU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NIGERIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_HAUSALAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KATANGA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CONGO_ORIENTALE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KASAI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BAS_CONGO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EQUATEUR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:UGANDA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EQUATORIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VOLTA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_CAMEROON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_CAMEROON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:UBANGI_SHARI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CONGO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:IVORY_COAST = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WINDWARD_COAST = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SENEGAL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GAMBIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SIERRA_LEONE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ZULULAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VRYSTAAT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TRANSVAAL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EASTERN_NEW_GUINEA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOLOMON_ISLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BOUGAINVILLE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NAURU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FIJI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VANUATU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KANAK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TAHITI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TONGA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HAIL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NEJD = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TRANSJORDAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PALESTINE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LEBANON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SYRIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALEPPO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BAGHDAD = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MOSUL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LARISTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SISTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KHORASAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KHUZESTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FARS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ISFAHAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MAZANDARAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:IRAKAJEMI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TABRIZ = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LURISTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ARMENIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AZERBAIJAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GREATER_CAUCASUS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MONTENEGRO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTHERN_SERBIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTHERN_SERBIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HUDAVENDIGAR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AYDIN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KONYA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KASTAMONU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CYPRUS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TRABZON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ERZURUM = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KARS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CRETE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_AEGEAN_ISLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_AEGEAN_ISLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ANKARA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WESTERN_AFGHANISTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DIYARBAKIR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EASTERN_AFGHANISTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BANGKOK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TONKIN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ANNAM = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LAOS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHIANG_MAI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NAKHON_RATCHASIMA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SEOUL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BUSAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:YANGHO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SARIWON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PYONGYANG = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SAKHALIN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HOKKAIDO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TOHOKU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KANTO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHUBU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KANSAI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KYUSHU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RYUKYU_ISLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHUGOKU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SHIKOKU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LHASA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NGARI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HIMALAYAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DZUNGARIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TIANSHAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SICHUAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:YUNNAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GUIZHOU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SHAOZHOU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALXA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HINGGAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GUANGXI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BEIJING = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SHENGJING = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OUTER_MANCHURIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTHERN_MANCHURIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTHERN_MANCHURIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SHANXI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NINGXIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GANSU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:XIAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:QINGHAI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHONGQING = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GUANGDONG = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FUJIAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ZHEJIANG = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NANJING = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:JIANGSU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HENAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ZHILI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:JIANGXI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTHERN_ANHUI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTHERN_ANHUI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WESTERN_HUBEI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EASTERN_HUBEI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HUNAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FORMOSA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTHERN_FINLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_KARELIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OSTROBOTHNIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ESTONIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LATVIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LITHUANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHUKOTKA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NENETSIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_KARELIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ARKHANGELSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TARTARIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KHIVA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:UZBEKIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TAJIKISTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KIRGHIZIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:URALSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TURKMENIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SEMIRECHE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:JETISY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AKMOLINSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KAMCHATKA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OKHOTSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:YAKUTSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TRANS_BAIKAL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:IRKUTSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TOMSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TUVA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TOBOLSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:UPPER_YENISEYSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:OB = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:URAL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SAMARA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KAZAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PERM = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GALICH = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TVER = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MOSCOW = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DAGESTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KUBAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ASTRAKHAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CRIMEA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LUHANSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KURSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NOVGOROD = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHERSON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BESSARABIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BRYANSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SMOLENSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ORSHA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CAMPANIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ABRUZZO = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CALABRIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:APULIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_GALICIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_GALICIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_SLOVAKIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_SLOVAKIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DALMATIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CROATIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SLAVONIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BEKES = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TRANSDANUBIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ISTRIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LOMBARDY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BOHEMIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MORAVIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CENTRAL_HUNGARY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:STYRIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TYROL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AUSTRIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_TYROL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SLOVENIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DELVIDEK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:POSEN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WESTPHALIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ANHALT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WEST_PRUSSIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EAST_PRUSSIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RHINELAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_RHINE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RUHR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SILESIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BRANDENBURG = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SCHLESWIG_HOLSTEIN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:WURTTEMBERG = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BADEN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HANNOVER = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BAVARIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FRANCONIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SAXONY = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BRUNSWICK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HESSE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PIEDMONT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SARDINIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TARAPACA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ANTOFAGASTA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BREST = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:GREATER_POLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LESSER_POLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MAZOVIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VOLHYNIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KIEV = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MECKLENBURG = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MALTA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:UMBRIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BANAT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CORSICA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PASHTUNISTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:UTAH = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SOUTH_CAROLINA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHIAPAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SAN_SALVADOR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ADANA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:DEIR_EZ_ZOR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BAJA_CALIFORNIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CONNAUGHT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+}

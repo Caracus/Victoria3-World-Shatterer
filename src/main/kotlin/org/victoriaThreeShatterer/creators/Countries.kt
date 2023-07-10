@@ -64,12 +64,14 @@ fun createCountryDefinitionsFile(
     }
 
     //add all possible countries to the end of file, so they are formable
+    /**
     File(pathToVictoria3GameFolder.plus("common/country_definitions/")).walk().forEach {
         if (it.isFile){
             val textOfFile = it.readText(Charsets.UTF_8)
             text += textOfFile
         }
     }
+    */
 
     printFile("game/common/country_definitions/", "00_countries.txt", text)
 }

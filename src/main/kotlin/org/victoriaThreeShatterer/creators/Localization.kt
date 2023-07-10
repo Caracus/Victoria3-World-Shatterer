@@ -5,7 +5,8 @@ import org.victoriaThreeShatterer.utils.format
 import org.victoriaThreeShatterer.utils.printFile
 
 fun createLocalization(
-    stateMap: MutableMap<String, State>
+    stateMap: MutableMap<String, State>,
+    cultureSet: Set<String>
 ) {
 
     var text = ""
@@ -22,6 +23,11 @@ fun createLocalization(
 
         text += format(0, " ${it.stateName}:0 \"${displayName}\"", 1)
         text += format(0, " ${it.stateName}_ADJ:0 \"${displayName}ian\"", 1)
+    }
+
+    cultureSet.forEach { cultureName ->
+        text += format(0, "NAT_${cultureName.toUpperCase()}:0 \"\$$cultureName\$ National State\"", 1)
+        text += format(0, "NAT_${cultureName.toUpperCase()}_ADJ:0 \"\$$cultureName\$\"", 1)
     }
 
     printFile("game/localization/history/english/", "custom_countries_l_english.yml", text)

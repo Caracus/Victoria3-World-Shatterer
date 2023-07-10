@@ -1,0 +1,5 @@
+﻿COUNTRIES = {
+	c:MAINE_ANJOU = {
+	effect_starting_technology_tier_1_tech = yes
+	}
+}

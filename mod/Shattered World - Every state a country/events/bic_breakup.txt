@@ -1,0 +1,22 @@
+﻿namespace = bic_breakup
+
+# Independent British East India Company decides how to proceed
+bic_breakup.1 = {
+	type = country_event
+	placement = root
+	
+	title = bic_breakup.1.t
+	desc = bic_breakup.1.d
+	flavor = bic_breakup.1.f
+	
+	event_image = {
+		video = "asia_sepoy_mutiny"
+	}
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+
+	icon = "gfx/interface/icons/event_icons/event_protest.dds"
+	
+	duration = 3
+
+}

@@ -278,6 +278,10 @@
 				level = 1
 			}
 			create_building = {
+				building = "building_government_administration"
+				level = 1
+			}
+			create_building = {
 				building = "building_barracks"
 				level = 10
 			}
@@ -491,7 +495,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				level = 6
+				level = 8
 			}
 		}
 	}
@@ -551,7 +555,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				level = 5
+				level = 7
 			}
 		}
 	}
@@ -987,7 +991,7 @@
 			}
 			create_building = {
 				building = "building_construction_sector"
-				level = 3
+				level = 5
 			}
 			create_building = {
 				building = "building_university"
@@ -1011,7 +1015,7 @@
 			}
 			create_building = {
 				building = "building_livestock_ranch"
-				level = 3
+				level = 4
 			}
 			create_building = {
 				building = "building_railway"
@@ -1070,10 +1074,6 @@
 				level = 8
 			}
 			create_building = {
-				building = "building_railway"
-				level = 1
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				level = 3
 			}
@@ -1101,6 +1101,10 @@
 	}
 	s:STATE_LANGUEDOC = {
 		region_state:LANGUEDOC = {
+			create_building = {
+				building = "building_government_administration"
+				level = 3
+			}
 			create_building = {
 				building = "building_university"
 				level = 2
@@ -1175,8 +1179,8 @@
 			}
 		}
 	}
-	s:STATE_LOIRE = {
-		region_state:LOIRE = {
+	s:STATE_FRENCH_LOW_COUNTRIES = {
+		region_state:FRENCH_LOW_COUNTRIES = {
 			create_building = {
 				building = "building_arms_industry"
 				level = 4
@@ -1202,8 +1206,16 @@
 				level = 20
 			}
 			create_building = {
+				building = "building_naval_base"
+				level = 25
+			}
+			create_building = {
 				building = "building_port"
-				level = 1
+				level = 2
+			}
+			create_building = {
+				building = "building_coal_mine"
+				level = 6
 			}
 		}
 	}
@@ -1218,28 +1230,12 @@
 				level = 5
 			}
 			create_building = {
-				building = "building_coal_mine"
-				level = 6
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				level = 7
 			}
 			create_building = {
 				building = "building_livestock_ranch"
 				level = 2
-			}
-			create_building = {
-				building = "building_naval_base"
-				level = 20
-			}
-			create_building = {
-				building = "building_port"
-				level = 2
-			}
-			create_building = {
-				building = "building_railway"
-				level = 1
 			}
 			create_building = {
 				building = "building_barracks"
@@ -1259,7 +1255,7 @@
 			}
 			create_building = {
 				building = "building_iron_mine"
-				level = 1
+				level = 6
 			}
 			create_building = {
 				building = "building_logging_camp"
@@ -1279,7 +1275,11 @@
 		region_state:POITOU = {
 			create_building = {
 				building = "building_paper_mills"
-				level = 2
+				level = 4
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				level = 3
 			}
 			create_building = {
 				building = "building_fishing_wharf"
@@ -1295,8 +1295,28 @@
 			}
 		}
 	}
-	s:STATE_ARMAGNAC = {
-		region_state:ARMAGNAC = {
+	s:STATE_MAINE_ANJOU = {
+		region_state:MAINE_ANJOU = {
+			create_building = {
+				building = "building_wheat_farm"
+				level = 4
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				level = 1
+			}
+			create_building = {
+				building = "building_logging_camp"
+				level = 1
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 10
+			}
+		}
+	}
+	s:STATE_GUYENNE = {
+		region_state:GUYENNE = {
 			create_building = {
 				building = "building_textile_mills"
 				level = 3
@@ -1315,8 +1335,12 @@
 			}
 		}
 	}
-	s:STATE_LIMOUSIN = {
-		region_state:LIMOUSIN = {
+	s:STATE_AUVERGNE_LIMOUSIN = {
+		region_state:AUVERGNE_LIMOUSIN = {
+			create_building = {
+				building = "building_government_administration"
+				level = 3
+			}
 			create_building = {
 				building = "building_textile_mills"
 				level = 3
@@ -1331,7 +1355,7 @@
 			}
 			create_building = {
 				building = "building_wheat_farm"
-				level = 5
+				level = 7
 			}
 			create_building = {
 				building = "building_barracks"
@@ -1447,7 +1471,11 @@
 			}
 			create_building = {
 				building = "building_iron_mine"
-				level = 4
+				level = 1
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				level = 2
 			}
 			create_building = {
 				building = "building_barracks"
@@ -1455,11 +1483,15 @@
 			}
 		}
 	}
-	s:STATE_AUVERGNE = {
-		region_state:AUVERGNE = {
+	s:STATE_LORRAINE = {
+		region_state:LORRAINE = {
 			create_building = {
 				building = "building_tooling_workshops"
 				level = 4
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				level = 2
 			}
 			create_building = {
 				building = "building_lead_mine"
@@ -1472,10 +1504,6 @@
 			create_building = {
 				building = "building_logging_camp"
 				level = 5
-			}
-			create_building = {
-				building = "building_railway"
-				level = 1
 			}
 			create_building = {
 				building = "building_barracks"
@@ -2155,11 +2183,11 @@
 		region_state:NORTH_RHINE = {
 			create_building = {
 				building = "building_arms_industry"
-				level = 8
+				level = 2
 			}
 			create_building = {
 				building = "building_munition_plants"
-				level = 3
+				level = 1
 			}
 			create_building = {
 				building = "building_textile_mills"
@@ -2167,11 +2195,11 @@
 			}
 			create_building = {
 				building = "building_coal_mine"
-				level = 3
+				level = 1
 			}
 			create_building = {
 				building = "building_wheat_farm"
-				level = 8
+				level = 5
 			}
 			create_building = {
 				building = "building_logging_camp"
@@ -2179,7 +2207,31 @@
 			}
 			create_building = {
 				building = "building_barracks"
-				level = 25
+				level = 10
+			}
+		}
+	}
+	s:STATE_RUHR = {
+		region_state:RUHR = {
+			create_building = {
+				building = "building_arms_industry"
+				level = 6
+			}
+			create_building = {
+				building = "building_munition_plants"
+				level = 2
+			}
+			create_building = {
+				building = "building_coal_mine"
+				level = 2
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				level = 3
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 15
 			}
 		}
 	}
@@ -3957,6 +4009,14 @@
 				building = "building_barracks"
 				level = 10
 			}
+			create_building = {
+				building = "building_naval_base"
+				level = 5
+			}
+			create_building = {
+				building = "building_port"
+				level = 2
+			}
 		}
 	}
 	s:STATE_NORTHERN_SERBIA = {
@@ -5490,51 +5550,11 @@
 				level = 1
 			}
 			create_building = {
-				building = "building_lead_mine"
-				level = 1
-			}
-			create_building = {
-				building = "building_wheat_farm"
-				level = 2
-			}
-			create_building = {
-				building = "building_livestock_ranch"
-				level = 1
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 10
-			}
-			create_building = {
 				building = "building_port"
-				level = 1
-			}
-		}
-	}
-	s:STATE_CONSTANTINE = {
-		region_state:CONSTANTINE = {
-			create_building = {
-				building = "building_government_administration"
-				level = 1
+				level = 3
 			}
 			create_building = {
-				building = "building_wheat_farm"
-				level = 2
-			}
-			create_building = {
-				building = "building_livestock_ranch"
-				level = 1
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 10
-			}
-		}
-	}
-	s:STATE_TLEMCEN = {
-		region_state:TLEMCEN = {
-			create_building = {
-				building = "building_fishing_wharf"
+				building = "building_lead_mine"
 				level = 1
 			}
 			create_building = {
@@ -5543,6 +5563,62 @@
 			}
 			create_building = {
 				building = "building_livestock_ranch"
+				level = 2
+			}
+			create_building = {
+				building = "building_logging_camp"
+				level = 1
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 12
+			}
+			create_building = {
+				building = "building_government_administration"
+				level = 1
+			}
+		}
+	}
+	s:STATE_CONSTANTINE = {
+		region_state:CONSTANTINE = {
+			create_building = {
+				building = "building_government_administration"
+				level = 3
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				level = 4
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				level = 3
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 10
+			}
+			create_building = {
+				building = "building_logging_camp"
+				level = 1
+			}
+			create_building = {
+				building = "building_port"
+				level = 1
+			}
+		}
+	}
+	s:STATE_ORAN = {
+		region_state:ORAN = {
+			create_building = {
+				building = "building_wheat_farm"
+				level = 4
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				level = 1
+			}
+			create_building = {
+				building = "building_government_administration"
 				level = 1
 			}
 			create_building = {
@@ -5551,6 +5627,10 @@
 			}
 			create_building = {
 				building = "building_port"
+				level = 1
+			}
+			create_building = {
+				building = "building_fishing_wharf"
 				level = 1
 			}
 		}
@@ -5642,6 +5722,14 @@
 	s:STATE_EAST_SAHARA = {
 		region_state:EAST_SAHARA = {
 			create_building = {
+				building = "building_government_administration"
+				level = 1
+			}
+			create_building = {
+				building = "building_livestock_ranch"
+				level = 1
+			}
+			create_building = {
 				building = "building_barracks"
 				level = 10
 			}
@@ -5723,7 +5811,7 @@
 		region_state:CHAD = {
 			create_building = {
 				building = "building_livestock_ranch"
-				level = 1
+				level = 2
 			}
 			create_building = {
 				building = "building_barracks"
@@ -5847,7 +5935,7 @@
 			}
 			create_building = {
 				building = "building_millet_farm"
-				level = 2
+				level = 3
 			}
 			create_building = {
 				building = "building_livestock_ranch"
@@ -5903,7 +5991,7 @@
 		region_state:OUTER_HAUSALAND = {
 			create_building = {
 				building = "building_livestock_ranch"
-				level = 3
+				level = 4
 			}
 			create_building = {
 				building = "building_barracks"
@@ -6011,7 +6099,7 @@
 		region_state:DAHOMEY = {
 			create_building = {
 				building = "building_millet_farm"
-				level = 1
+				level = 2
 			}
 			create_building = {
 				building = "building_fishing_wharf"
@@ -6575,7 +6663,7 @@
 		region_state:LOURENCO_MARQUES = {
 			create_building = {
 				building = "building_millet_farm"
-				level = 1
+				level = 2
 			}
 			create_building = {
 				building = "building_coffee_plantation"
@@ -8230,6 +8318,10 @@
 			create_building = {
 				building = "building_barracks"
 				level = 10
+			}
+			create_building = {
+				building = "building_port"
+				level = 1
 			}
 		}
 	}
@@ -13472,6 +13564,14 @@
 	s:STATE_TAHITI = {
 		region_state:TAHITI = {
 			create_building = {
+				building = "building_rice_farm"
+				level = 1
+			}
+			create_building = {
+				building = "building_fishing_wharf"
+				level = 1
+			}
+			create_building = {
 				building = "building_barracks"
 				level = 10
 			}
@@ -13541,11 +13641,15 @@
 		region_state:SOUTH_AUSTRALIA = {
 			create_building = {
 				building = "building_wheat_farm"
-				level = 1
+				level = 2
 			}
 			create_building = {
 				building = "building_barracks"
 				level = 10
+			}
+			create_building = {
+				building = "building_fishing_wharf"
+				level = 1
 			}
 		}
 	}
