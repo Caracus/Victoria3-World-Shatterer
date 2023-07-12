@@ -33,7 +33,8 @@ fun main() {
     val cultureSet = createFormables(stateMap, colorPalette)
 
     println("Start modifying parsed data")
-    buildingsMap = setBarracksToAtLeast(10, buildingsMap)
+    buildingsMap = setBarracksToAtLeast(25, buildingsMap)
+    buildingsMap = setConstructionSectorsToAtLeast(3, buildingsMap)
     println("Done modifying parsed data")
 
     println("Start creating new files")
