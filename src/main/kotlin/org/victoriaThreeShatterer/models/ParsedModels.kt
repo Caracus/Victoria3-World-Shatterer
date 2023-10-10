@@ -37,3 +37,10 @@ data class StateDetails(
     val technologyPreset: Int?,
     val literacyPreset: Int?
 )
+
+data class CombinedStateData(
+    val stateName: String,
+    val populationList: List<PopulationData>,
+    val homelands: List<String>,
+    val provinces: List<String>
+)
