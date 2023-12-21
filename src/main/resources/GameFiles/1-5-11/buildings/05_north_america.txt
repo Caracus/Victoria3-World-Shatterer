@@ -14,19 +14,6 @@
 			}
 		}
 	}
-	if = {
-		limit = {
-			has_american_buildings_dlc_trigger = yes
-		}
-		s:STATE_DISTRICT_OF_COLUMBIA={
-			region_state:USA={
-				create_building={
-					building="building_capitol_hill"
-					level=1
-				}
-			}
-		}
-	}
 	s:STATE_LOUISIANA={
 		region_state:USA={
 			create_building={
@@ -128,19 +115,6 @@
 				level=3
 				reserves=1
 				activate_production_methods={ "pm_basic_port" }
-			}
-		}
-	}
-	if = {
-		limit = {
-			has_american_buildings_dlc_trigger = yes
-		}
-		s:STATE_NEW_YORK={
-			region_state:USA={
-				create_building={
-					building="building_central_park"
-					level=1
-				}
 			}
 		}
 	}

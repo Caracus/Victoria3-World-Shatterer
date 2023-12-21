@@ -57,7 +57,7 @@ fun readBuildingsFile(path: String): MutableMap<String, MutableList<BuildingData
             var buildingText = it.groupValues[1]
 
             var buildingName = Regex("building=\\\"(.*?)\\\"").find(buildingText)!!.groupValues[1]
-            var buildingLevel = Regex("level=(.*?)\\n").find(buildingText)!!.groupValues[1].toInt()
+            var buildingLevel = Regex("level=(.*?)\\n").find(buildingText)!!.groupValues[1].trim().toInt()
 
             var existingLevels = buildingsInTheStateMap.get(buildingName) ?: 0
             var totalLevels = existingLevels + buildingLevel

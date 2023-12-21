@@ -26,8 +26,10 @@ fun createLocalization(
     }
 
     cultureSet.forEach { cultureName ->
-        text += format(0, "NAT_${cultureName.toUpperCase()}:0 \"\$$cultureName\$ National State\"", 1)
-        text += format(0, "NAT_${cultureName.toUpperCase()}_ADJ:0 \"\$$cultureName\$\"", 1)
+        val cleanedCultureName = cultureName.replace("cu:", "")
+
+        text += format(0, "NAT_${cleanedCultureName.toUpperCase()}:0 \"\$$cleanedCultureName\$ National State\"", 1)
+        text += format(0, "NAT_${cleanedCultureName.toUpperCase()}_ADJ:0 \"\$$cleanedCultureName\$\"", 1)
     }
 
     printFile("game/localization/history/english/", "custom_countries_l_english.yml", text)

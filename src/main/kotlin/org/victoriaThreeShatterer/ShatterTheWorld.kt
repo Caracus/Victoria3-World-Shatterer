@@ -10,7 +10,7 @@ import org.victoriaThreeShatterer.parsers.gameFiles.getConsolidatedPopMap
 import org.victoriaThreeShatterer.parsers.gameFiles.readStatesFile
 import org.victoriaThreeShatterer.utils.*
 
-const val patchVersion = "1-3-6"
+const val patchVersion = "1-5-11"
 const val gameFilesFolderPath = "src/main/resources/GameFiles/$patchVersion/"
 
 fun main() {
@@ -20,9 +20,9 @@ fun main() {
     val gamePath = generalConfiguration.victoriaThreeFolderPath
 
     //be careful with this as you might have to manually adjust bad formatting or comments that brick the parser in these files, so consider turning this off after you got the initial files
-    println("Start copying original files")
-    copyOriginalFilesFromGameToGameFiles(gamePath)
-    println("Done copying original files")
+    //println("Start copying original files")
+    //copyOriginalFilesFromGameToGameFiles(gamePath)
+    //println("Done copying original files")
 
     println("Start parsing files")
     val colorPalette = readColorPalette("src/main/resources/colorPalette.json")
@@ -59,6 +59,8 @@ fun main() {
     println("Program done")
 }
 
+// while this works it breaks the game as it cant load that much and just times out
+// anyhow: part of the functions used in here are smarter than the base creator and could be used for the main one after a refactor
 fun mainEveryProvinceACountryLol() {
 
     //set up the general configuration, create a copy of the resources/configuration/configurationSkeleton.json as that one will be ignored via gitignore

@@ -21,7 +21,8 @@
       "common/history/trade_routes",
       "common/country_definitions",
       "common/country_formation",
-      "common/character_templates"
+      "common/character_templates",
+      "events/brazil"
     ],
     "multiplayer_synchronized" : true
   }
