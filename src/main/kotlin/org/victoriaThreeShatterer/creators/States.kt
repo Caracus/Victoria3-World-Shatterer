@@ -22,7 +22,7 @@ fun createStatesFile(stateMap: MutableMap<String, State>) {
         text += format(0, "", 1)
 
         it.homelands.forEach {
-            text += format(2, "add_homeland = ${it}", 1)
+            text += format(2, "add_homeland = cu:${it}", 1)
         }
         text += format(1, "}", 1)
     }
@@ -52,7 +52,7 @@ fun createStatesFileProvinceMode(stateMap: MutableMap<String, State>) {
 
         text += format(0, "", 1)
         it.homelands.forEach {
-            text += format(2, "add_homeland = ${it}", 1)
+            text += format(2, "add_homeland = cu:${it}", 1)
         }
         text += format(1, "}", 1)
     }
