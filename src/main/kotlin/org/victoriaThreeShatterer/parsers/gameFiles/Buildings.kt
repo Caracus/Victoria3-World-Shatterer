@@ -74,3 +74,10 @@ fun readBuildingsFile(path: String): MutableMap<String, MutableList<BuildingData
 
     return buildingMap
 }
+
+fun dropAllBuildingData(buildingMap: MutableMap<String, MutableList<BuildingData>>): MutableMap<String, MutableList<BuildingData>> {
+    for (key in buildingMap.keys) {
+        buildingMap[key] = mutableListOf()
+    }
+    return buildingMap
+}
