@@ -13,17 +13,23 @@ fun createBuildingsFile(
     text += format(0, "BUILDINGS = {", 1)
 
 
-    buildingMap.keys.forEach {
+    buildingMap.keys.forEach { stateName ->
 
-        text += format(1, "s:STATE_${it} = {", 1)
-        text += format(2, "region_state:${it} = {", 1)
+        text += format(1, "s:STATE_${stateName} = {", 1)
+        text += format(2, "region_state:${stateName} = {", 1)
 
-        var buildings = buildingMap.get(it)
+        var buildings = buildingMap.get(stateName)
 
         buildings!!.forEach {
             text += format(3, "create_building = {", 1)
             text += format(4, "building = \"${it.buildingName}\"", 1)
-            text += format(4, "level = ${it.level}", 1)
+            text += format(4, "add_ownership = {", 1)
+            text += format(5, "country = {", 1)
+            text += format(6, "country = \"c:$stateName\"", 1)
+            text += format(6, "levels =  ${it.level}", 1)
+            text += format(5, "}", 1)
+            text += format(4, "}", 1)
+            text += format(4, "reserves = 1", 1)
             text += format(3, "}", 1)
         }
 

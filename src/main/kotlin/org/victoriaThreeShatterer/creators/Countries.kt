@@ -9,9 +9,10 @@ import java.io.File
 
 fun createCountriesFiles(compactPopMap: MutableMap<String, List<PopulationData>>) {
 
+
+    var text = ""
+    text += format(0, "COUNTRIES = {", 1)
     compactPopMap.keys.forEach {
-        var text = ""
-        text += format(0, "COUNTRIES = {", 1)
         text += format(1, "c:${it} = {", 1)
         text += format(1, "${compactPopMap.get(it)!!.first().regionalMapping.technologyBase} = yes", 1)
 
@@ -29,10 +30,9 @@ fun createCountriesFiles(compactPopMap: MutableMap<String, List<PopulationData>>
         text += format(1, "activate_law = law_type:law_censorship", 1)
         text += format(1, "activate_law = law_type:law_migration_controls", 1)
         text += format(1, "}", 1)
-        text += format(0, "}", 1)
-
-        printFile("game/common/history/countries/", "${it} - ${it}.txt", text)
     }
+    text += format(0, "}", 1)
+    printFile("game/common/history/countries/", "allCountries.txt", text)
 }
 
 fun createCountriesFilesProvincesMode(combinedStateData: MutableMap<String, CombinedStateData>) {
@@ -44,7 +44,11 @@ fun createCountriesFilesProvincesMode(combinedStateData: MutableMap<String, Comb
             var text = ""
             text += format(0, "COUNTRIES = {", 1)
             text += format(1, "c:${it}land = {", 1)
-            text += format(1, "${combinedStateData.value.populationList.first().regionalMapping.technologyBase} = yes", 1)
+            text += format(
+                1,
+                "${combinedStateData.value.populationList.first().regionalMapping.technologyBase} = yes",
+                1
+            )
             text += format(1, "}", 1)
             text += format(0, "}", 1)
 
@@ -66,11 +70,16 @@ fun createCountryDefinitionsFile(
     stateMap.values.forEach {
         val cultureNumberMap = mutableMapOf<String, Int>()
         var totalPops = 0
-        compactPopMap.get(it.stateName)!!.forEach {
-            val existingPops = cultureNumberMap.get(it.culture) ?: 0
-            cultureNumberMap.set(it.culture, it.popNumber + existingPops)
-            totalPops += it.popNumber
+        try {
+            compactPopMap.get(it.stateName)!!.forEach {
+                val existingPops = cultureNumberMap.get(it.culture) ?: 0
+                cultureNumberMap.set(it.culture, it.popNumber + existingPops)
+                totalPops += it.popNumber
+            }
+        } catch (e: Exception){
+            println(e)
         }
+
 
         val sortedMap = cultureNumberMap.toList()
             .sortedByDescending { (_, value) -> value }
@@ -101,12 +110,12 @@ fun createCountryDefinitionsFile(
     //add all possible countries to the end of file, so they are formable
     /**
     File(pathToVictoria3GameFolder.plus("common/country_definitions/")).walk().forEach {
-        if (it.isFile){
-            val textOfFile = it.readText(Charsets.UTF_8)
-            text += textOfFile
-        }
+    if (it.isFile){
+    val textOfFile = it.readText(Charsets.UTF_8)
+    text += textOfFile
     }
-    */
+    }
+     */
 
     printFile("game/common/country_definitions/", "00_countries.txt", text)
 }
@@ -132,7 +141,7 @@ fun createCountryDefinitionsFileProvinceMode(
             .sortedByDescending { (_, value) -> value }
             .toMap()
 
-        it.provinces.forEach{ province ->
+        it.provinces.forEach { province ->
             val color = colorPalette[(1..colorPalette.size).random() - 1].toRange(5)
 
             text += format(0, "${province}land = {", 1)

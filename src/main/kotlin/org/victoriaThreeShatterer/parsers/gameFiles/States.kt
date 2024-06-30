@@ -33,7 +33,7 @@ fun readStatesFile(path: String): MutableMap<String, State> {
 
         provincesMatchSet.forEach {
             //filter random lines breaks and replace with space for split
-            var cleanedupProvincesString = it.groupValues[1].replace("\n", " ").replace("\\t+".toRegex(), "")
+            var cleanedupProvincesString = it.groupValues[1].replace("\n", " ").replace("\\t+".toRegex(), " ")
 
             cleanedupProvincesString.split(" ").forEach {
                 if (!it.isEmpty())

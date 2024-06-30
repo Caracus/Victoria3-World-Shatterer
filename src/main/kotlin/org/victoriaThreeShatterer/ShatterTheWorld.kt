@@ -11,7 +11,7 @@ import org.victoriaThreeShatterer.parsers.gameFiles.getConsolidatedPopMap
 import org.victoriaThreeShatterer.parsers.gameFiles.readStatesFile
 import org.victoriaThreeShatterer.utils.*
 
-const val patchVersion = "1-5-11"
+const val patchVersion = "1-7-1"
 const val gameFilesFolderPath = "src/main/resources/GameFiles/$patchVersion/"
 
 fun main() {
@@ -36,9 +36,9 @@ fun main() {
 
     println("Start modifying parsed data")
     //only use this if you want no basic buildings
-    //buildingsMap = dropAllBuildingData(buildingsMap)
+    buildingsMap = dropAllBuildingData(buildingsMap)
     buildingsMap = setBarracksToAtLeast(25, buildingsMap)
-    buildingsMap = setConstructionSectorsToAtLeast(3, buildingsMap)
+    //buildingsMap = setConstructionSectorsToAtLeast(3, buildingsMap) //this cause issues in 1.7 as they ai wont build if it has negative balance
     println("Done modifying parsed data")
 
     println("Start creating new files")

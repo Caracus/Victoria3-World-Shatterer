@@ -19,11 +19,12 @@ fun getConsolidatedBuildingsMap(patchVersion: String): MutableMap<String, Mutabl
     var indonesiaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/12_indonesia.txt")
     var australasiaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/13_australasia.txt")
     var siberiaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/14_siberia.txt")
+    var russiaBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/15_russia.txt")
 
     return (
             westEuropeBuildings + southEuropeBuildings + eastEuropeBuildings + northAfricaBuildings + subsaharanAfricaBuildings + northAmericaBuildings +
                     centralAmericaBuildings + southAmericaBuildings + middleEastBuildings + centralAsiaBuildings + indiaBuildings + eastAsiaBuildings +
-                    indonesiaBuildings + australasiaBuildings + siberiaBuildings
+                    indonesiaBuildings + australasiaBuildings + siberiaBuildings + russiaBuildings
             ) as MutableMap<String, MutableList<BuildingData>>
 }
 
@@ -44,6 +45,7 @@ fun readBuildingsFile(path: String): MutableMap<String, MutableList<BuildingData
         var stateName = it.groupValues[1]
         var createBuildingsText = it.groupValues[2]
 
+        /** this still uses the old simple level system instead of the old more complex ownership, would have to see a bigger rework
         //get all buildings texts within a state itself
         var buildingTextSet = Regex(
             "(?<=create_building=\\{)(.*?).(?=activate)",
@@ -70,6 +72,8 @@ fun readBuildingsFile(path: String): MutableMap<String, MutableList<BuildingData
             buildingsInTheState.add(BuildingData(it, buildingsInTheStateMap.get(it)!!.toInt()))
         }
         buildingMap.set(stateName, buildingsInTheState)
+        */
+        buildingMap[stateName] = mutableListOf()
     }
 
     return buildingMap

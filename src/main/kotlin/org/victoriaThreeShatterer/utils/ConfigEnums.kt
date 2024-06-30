@@ -75,5 +75,10 @@ enum class RegionalMapping(val literacy: String, val wealth: String, val technol
         "effect_starting_pop_literacy_very_low",
         "effect_starting_pop_wealth_low",
         "effect_starting_technology_tier_5_tech"
+    ),
+    RUSSIA(
+    "effect_starting_pop_literacy_very_low",
+    "effect_starting_pop_wealth_low",
+    "effect_starting_technology_tier_5_tech"
     )
 }

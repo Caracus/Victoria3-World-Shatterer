@@ -31,11 +31,12 @@ fun getConsolidatedPopMap(patchVersion: String): MutableMap<String, List<Populat
     val australasiaPops =
         readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/13_australasia.txt", RegionalMapping.AUSTRALASIA)
     val siberiaPops = readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/14_siberia.txt", RegionalMapping.SIBERIA)
+    val russiaPops = readPopsFile("src/main/resources/GameFiles/$patchVersion/pops/15_russia.txt", RegionalMapping.RUSSIA)
 
     return (
             westEuropePops + southEuropePops + eastEuropePops + northAfricaPops + subsaharanAfricaPops + northAmericaPops +
                     centralAmericaPops + southAmericaPops + middleEastPops + centralAsiaPops + indiaPops + eastAsiaPops +
-                    indonesiaPops + australasiaPops + siberiaPops
+                    indonesiaPops + australasiaPops + siberiaPops + russiaPops
             ) as MutableMap<String, List<PopulationData>>
 }
 

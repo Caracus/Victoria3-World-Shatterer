@@ -15,7 +15,12 @@ fun createStatesFile(stateMap: MutableMap<String, State>) {
 
         var provinces = ""
         it.provinces.forEach {
-            provinces += "${it} "
+            val normalizedProvince = it.replace("\"","").trim()
+
+            if(normalizedProvince.length > 7){
+                println("Broken province parsing: $normalizedProvince")
+            }
+            provinces += "${normalizedProvince} "
         }
         text += format(3, "owned_provinces = { ${provinces}}", 1)
         text += format(2, "}", 1)
