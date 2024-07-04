@@ -2069,6 +2069,11 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
+	c:KERMAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
 	c:SISTAN = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
@@ -2104,7 +2109,22 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
+	c:SEMNAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
 	c:TABRIZ = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:URMIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PERSIAN_KURDISTAN = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2120,6 +2140,11 @@
 		set_strategy = ai_strategy_nationalist_agenda
 	}
 	c:AZERBAIJAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ELIZAVETPOL = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2204,17 +2229,47 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:WESTERN_AFGHANISTAN = {
+	c:KANDAHAR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KABUL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HERAT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTHERN_BALUCHISTAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BALKH = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:QUETTA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CENTRAL_HIGHLANDS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PASHTUNISTAN = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
 	c:DIYARBAKIR = {
-		set_strategy = ai_strategy_industrial_expansion
-		set_strategy = ai_strategy_territorial_expansion 
-		set_strategy = ai_strategy_nationalist_agenda
-	}
-	c:EASTERN_AFGHANISTAN = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2509,7 +2564,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:SOUTHERN_FINLAND = {
+	c:UUSIMAA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2529,17 +2584,42 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:ESTONIA = {
+	c:KUOPIO = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:LATVIA = {
+	c:OULU = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:LITHUANIA = {
+	c:TALINN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TARTU = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RIGA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:COURLAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KAUNAS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VILNIUS = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2555,6 +2635,11 @@
 		set_strategy = ai_strategy_nationalist_agenda
 	}
 	c:EAST_KARELIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KOLA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2689,7 +2774,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:TVER = {
+	c:NOVGOROD = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2709,6 +2794,11 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
+	c:STAVROPOL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
 	c:ASTRAKHAN = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
@@ -2719,7 +2809,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:LUHANSK = {
+	c:KHARKOV = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2729,7 +2819,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:NOVGOROD = {
+	c:TVER = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2744,7 +2834,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:BRYANSK = {
+	c:ORYOL = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2754,7 +2844,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:ORSHA = {
+	c:MOGILEV = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -3049,11 +3139,6 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:PASHTUNISTAN = {
-		set_strategy = ai_strategy_industrial_expansion
-		set_strategy = ai_strategy_territorial_expansion 
-		set_strategy = ai_strategy_nationalist_agenda
-	}
 	c:UTAH = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
@@ -3090,6 +3175,126 @@
 		set_strategy = ai_strategy_nationalist_agenda
 	}
 	c:CONNAUGHT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:FERGANA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MERZ = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SYRDARYA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AKTOBE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KALMYKIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NORTH_CAUCASUS = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TAURIDA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHERNIHIV = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:TAMBOV = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:RYAZAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VITEBSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:PSKOV = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:YAROSLAVL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:NIZHNY_NOVGOROD = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHUVASHIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:VYATKA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:UFA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:SURGUT = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KRASNOYARSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ALTAI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BURYATIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KOLYMA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AMUR = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CHELYABINSK = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda

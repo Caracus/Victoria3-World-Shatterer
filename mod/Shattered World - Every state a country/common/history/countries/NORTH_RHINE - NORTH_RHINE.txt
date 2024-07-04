@@ -1,5 +1,0 @@
-﻿COUNTRIES = {
-	c:NORTH_RHINE = {
-	effect_starting_technology_tier_1_tech = yes
-	}
-}

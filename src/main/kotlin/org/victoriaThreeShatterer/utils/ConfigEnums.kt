@@ -1,6 +1,11 @@
 package org.victoriaThreeShatterer.utils
 
 enum class RegionalMapping(val literacy: String, val wealth: String, val technologyBase: String) {
+    GENERIC_PRESET(
+        "effect_starting_pop_literacy_low",
+        "effect_starting_pop_wealth_medium",
+        "effect_starting_technology_tier_2_tech"
+    ),
     WEST_EUROPE(
         "effect_starting_pop_literacy_middling",
         "effect_starting_pop_wealth_medium",

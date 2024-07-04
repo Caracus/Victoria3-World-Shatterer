@@ -1,5 +1,0 @@
-﻿COUNTRIES = {
-	c:NAURU = {
-	effect_starting_technology_tier_6_tech = yes
-	}
-}

@@ -6,38 +6,38 @@ import org.victoriaThreeShatterer.utils.format
 import org.victoriaThreeShatterer.utils.printFile
 
 fun createPopulationsFiles(compactPopMap: MutableMap<String, List<PopulationData>>) {
+    var text = ""
+    text += format(0, "POPULATION = {", 1)
 
     compactPopMap.keys.forEach {
-        var text = ""
-        text += format(0, "POPULATION = {", 1)
         text += format(1, "c:${it} = {", 1)
-        text += format(0, "", 1)
         text += format(2, "${compactPopMap.get(it)!!.first().regionalMapping.wealth} = yes", 1)
         text += format(2, "${compactPopMap.get(it)!!.first().regionalMapping.literacy} = yes", 1)
         text += format(1, "}", 1)
-        text += format(0, "}", 0)
-
-        printFile("game/common/history/population/", "${it} - ${it}.txt", text)
     }
+
+    text += format(0, "}", 0)
+
+    printFile("game/common/history/population/", "00_population.txt", text)
 }
 
 fun createPopulationsFilesProvinceMode(combinedStateData: MutableMap<String, CombinedStateData>) {
     println("start createPopulationsFilesProvinceMod")
 
+    var text = ""
+    text += format(0, "POPULATION = {", 1)
+
     combinedStateData.forEach { combinedData ->
         combinedData.value.provinces.forEach {
-            var text = ""
-            text += format(0, "POPULATION = {", 1)
             text += format(1, "c:${it}land = {", 1)
             text += format(0, "", 1)
             text += format(2, "${combinedData.value.populationList.first().regionalMapping.wealth} = yes", 1)
             text += format(2, "${combinedData.value.populationList.first().regionalMapping.literacy} = yes", 1)
             text += format(1, "}", 1)
-            text += format(0, "}", 0)
-
-            printFile("game/common/history/population/", "${it}land - ${it}land.txt", text)
         }
     }
+    text += format(0, "}", 0)
+    printFile("game/common/history/population/", "00_all_population.txt", text)
 
     println("finished createPopulationsFilesProvinceMod")
 }

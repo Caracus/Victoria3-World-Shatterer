@@ -1,5 +1,0 @@
-﻿COUNTRIES = {
-	c:KACHIN = {
-	effect_starting_technology_tier_5_tech = yes
-	}
-}

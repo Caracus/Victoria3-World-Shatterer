@@ -1,4333 +1,4620 @@
 ﻿MINSK = {
-	color = { 0 208 207 }
+	color = { 142 122 96 }
 	country_type = recognized
 	tier = principality
 	cultures = { byelorussian }
 	capital = STATE_MINSK
 }
 LOUISIANA = {
-	color = { 177 23 36 }
+	color = { 240 218 207 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_american dixie }
 	capital = STATE_LOUISIANA
 }
 NEW_YORK = {
-	color = { 200 192 190 }
+	color = { 190 233 104 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_NEW_YORK
 }
 VIRGINIA = {
-	color = { 198 98 20 }
+	color = { 235 229 237 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie afro_american }
 	capital = STATE_VIRGINIA
 }
 LOWER_EGYPT = {
-	color = { 227 255 255 }
+	color = { 200 228 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { misri }
 	capital = STATE_LOWER_EGYPT
 }
 HOME_COUNTIES = {
-	color = { 178 226 255 }
+	color = { 145 235 241 }
 	country_type = recognized
 	tier = principality
 	cultures = { british }
 	capital = STATE_HOME_COUNTIES
 }
 LANCASHIRE = {
-	color = { 148 243 250 }
+	color = { 1 240 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { british }
 	capital = STATE_LANCASHIRE
 }
 PROVENCE = {
-	color = { 233 205 158 }
+	color = { 138 66 37 }
 	country_type = recognized
 	tier = principality
 	cultures = { occitan }
 	capital = STATE_PROVENCE
 }
 NORMANDY = {
-	color = { 87 140 139 }
+	color = { 238 205 175 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_NORMANDY
 }
 ANDALUSIA = {
-	color = { 124 252 0 }
+	color = { 2 252 5 }
 	country_type = recognized
 	tier = principality
 	cultures = { spanish }
 	capital = STATE_ANDALUSIA
 }
 HOLLAND = {
-	color = { 207 175 136 }
+	color = { 254 62 62 }
 	country_type = recognized
 	tier = principality
 	cultures = { dutch }
 	capital = STATE_HOLLAND
 }
 BALUCHISTAN = {
-	color = { 234 124 66 }
+	color = { 236 175 9 }
 	country_type = recognized
 	tier = principality
 	cultures = { baluchi }
 	capital = STATE_BALUCHISTAN
 }
 SOUTH_BENGAL = {
-	color = { 255 234 140 }
+	color = { 0 251 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { bengali }
 	capital = STATE_SOUTH_BENGAL
 }
 DOBRUDJA = {
-	color = { 159 104 34 }
+	color = { 233 240 205 }
 	country_type = recognized
 	tier = principality
 	cultures = { bulgarian romanian }
 	capital = STATE_DOBRUDJA
 }
 BASRA = {
-	color = { 253 189 17 }
+	color = { 208 185 153 }
 	country_type = recognized
 	tier = principality
 	cultures = { mashriqi }
 	capital = STATE_BASRA
 }
 EASTERN_THRACE = {
-	color = { 245 253 254 }
+	color = { 144 24 29 }
 	country_type = recognized
 	tier = principality
 	cultures = { turkish }
 	capital = STATE_EASTERN_THRACE
 }
 MEKONG = {
-	color = { 252 250 252 }
+	color = { 210 195 110 }
 	country_type = recognized
 	tier = principality
 	cultures = { vietnamese }
 	capital = STATE_MEKONG
 }
 SHANDONG = {
-	color = { 138 137 5 }
+	color = { 255 127 81 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_SHANDONG
 }
 SUZHOU = {
-	color = { 153 210 50 }
+	color = { 200 197 172 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_SUZHOU
 }
 ROSTOV = {
-	color = { 186 187 112 }
+	color = { 157 179 205 }
 	country_type = recognized
 	tier = principality
-	cultures = { ukrainian }
+	cultures = { russian }
 	capital = STATE_ROSTOV
 }
 VENETIA = {
-	color = { 255 0 0 }
+	color = { 181 202 204 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_italian }
 	capital = STATE_VENETIA
 }
 POMERANIA = {
-	color = { 209 200 192 }
+	color = { 255 166 83 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_POMERANIA
 }
 INGRIA = {
-	color = { 236 222 129 }
+	color = { 21 116 205 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_INGRIA
 }
 ALASKA = {
-	color = { 253 131 75 }
+	color = { 31 141 254 }
 	country_type = recognized
 	tier = principality
 	cultures = { athabaskan }
 	capital = STATE_ALASKA
 }
 WASHINGTON = {
-	color = { 255 95 68 }
+	color = { 203 131 102 }
 	country_type = recognized
 	tier = principality
 	cultures = { nez_perce salish }
 	capital = STATE_WASHINGTON
 }
 OREGON = {
-	color = { 237 141 36 }
+	color = { 236 44 46 }
 	country_type = recognized
 	tier = principality
 	cultures = { salish paiute }
 	capital = STATE_OREGON
 }
 IDAHO = {
-	color = { 243 43 49 }
+	color = { 123 141 148 }
 	country_type = recognized
 	tier = principality
 	cultures = { nez_perce paiute }
 	capital = STATE_IDAHO
 }
 COLORADO = {
-	color = { 181 28 29 }
+	color = { 234 65 3 }
 	country_type = recognized
 	tier = principality
 	cultures = { siouan }
 	capital = STATE_COLORADO
 }
 WYOMING = {
-	color = { 255 224 193 }
+	color = { 131 130 4 }
 	country_type = recognized
 	tier = principality
 	cultures = { siouan paiute }
 	capital = STATE_WYOMING
 }
 MONTANA = {
-	color = { 100 127 136 }
+	color = { 204 107 83 }
 	country_type = recognized
 	tier = principality
 	cultures = { siouan }
 	capital = STATE_MONTANA
 }
 NORTH_DAKOTA = {
-	color = { 2 237 233 }
+	color = { 251 244 236 }
 	country_type = recognized
 	tier = principality
 	cultures = { dakota }
 	capital = STATE_NORTH_DAKOTA
 }
 SOUTH_DAKOTA = {
-	color = { 138 226 233 }
+	color = { 135 207 252 }
 	country_type = recognized
 	tier = principality
 	cultures = { dakota }
 	capital = STATE_SOUTH_DAKOTA
 }
 NEBRASKA = {
-	color = { 244 255 250 }
+	color = { 168 216 227 }
 	country_type = recognized
 	tier = principality
 	cultures = { caddoan }
 	capital = STATE_NEBRASKA
 }
 KANSAS = {
-	color = { 184 249 200 }
+	color = { 183 243 108 }
 	country_type = recognized
 	tier = principality
 	cultures = { siouan caddoan }
 	capital = STATE_KANSAS
 }
 OKLAHOMA = {
-	color = { 164 203 85 }
+	color = { 234 103 94 }
 	country_type = recognized
 	tier = principality
 	cultures = { cherokee }
 	capital = STATE_OKLAHOMA
 }
 ARKANSAS = {
-	color = { 124 123 107 }
+	color = { 159 216 242 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie cherokee }
 	capital = STATE_ARKANSAS
 }
 MISSOURI = {
-	color = { 255 65 0 }
+	color = { 141 233 236 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee dixie }
 	capital = STATE_MISSOURI
 }
 IOWA = {
-	color = { 184 202 204 }
+	color = { 207 194 172 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_IOWA
 }
 MINNESOTA = {
-	color = { 72 117 252 }
+	color = { 2 124 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { dakota algonquian }
 	capital = STATE_MINNESOTA
 }
 WISCONSIN = {
-	color = { 125 200 123 }
+	color = { 234 111 79 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_WISCONSIN
 }
 INDIANA = {
-	color = { 137 25 26 }
+	color = { 255 247 205 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_INDIANA
 }
 MICHIGAN = {
-	color = { 67 143 0 }
+	color = { 248 159 95 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_MICHIGAN
 }
 OHIO = {
-	color = { 71 137 117 }
+	color = { 210 195 186 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_OHIO
 }
 KENTUCKY = {
-	color = { 30 140 29 }
+	color = { 156 248 250 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee dixie }
 	capital = STATE_KENTUCKY
 }
 TENNESSEE = {
-	color = { 233 234 226 }
+	color = { 189 235 104 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie }
 	capital = STATE_TENNESSEE
 }
 MISSISSIPPI = {
-	color = { 244 254 236 }
+	color = { 82 137 88 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie afro_american }
 	capital = STATE_MISSISSIPPI
 }
 ALABAMA = {
-	color = { 254 127 72 }
+	color = { 240 158 75 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie afro_american }
 	capital = STATE_ALABAMA
 }
 FLORIDA = {
-	color = { 207 198 203 }
+	color = { 133 208 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie afro_american }
 	capital = STATE_FLORIDA
 }
 GEORGIA = {
-	color = { 0 211 204 }
+	color = { 239 239 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie afro_american }
 	capital = STATE_GEORGIA
 }
 DISTRICT_OF_COLUMBIA = {
-	color = { 2 99 5 }
+	color = { 251 240 218 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie }
 	capital = STATE_DISTRICT_OF_COLUMBIA
 }
 WEST_VIRGINIA = {
-	color = { 80 255 159 }
+	color = { 108 134 61 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie }
 	capital = STATE_WEST_VIRGINIA
 }
 MARYLAND = {
-	color = { 255 135 4 }
+	color = { 92 36 17 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie }
 	capital = STATE_MARYLAND
 }
 DELAWARE = {
-	color = { 0 133 0 }
+	color = { 121 210 123 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie }
 	capital = STATE_DELAWARE
 }
 PENNSYLVANIA = {
-	color = { 64 141 0 }
+	color = { 186 208 241 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_PENNSYLVANIA
 }
 NEW_JERSEY = {
-	color = { 255 96 66 }
+	color = { 44 129 19 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_NEW_JERSEY
 }
 ILLINOIS = {
-	color = { 138 234 233 }
+	color = { 199 229 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_ILLINOIS
 }
 CONNECTICUT = {
-	color = { 207 128 103 }
+	color = { 250 122 36 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_CONNECTICUT
 }
 RHODE_ISLAND = {
-	color = { 55 147 138 }
+	color = { 164 181 203 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_RHODE_ISLAND
 }
 MASSACHUSETTS = {
-	color = { 132 211 253 }
+	color = { 255 253 1 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_MASSACHUSETTS
 }
 VERMONT = {
-	color = { 255 111 109 }
+	color = { 125 247 2 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_VERMONT
 }
 NEW_HAMPSHIRE = {
-	color = { 206 186 177 }
+	color = { 253 123 75 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_NEW_HAMPSHIRE
 }
 MAINE = {
-	color = { 255 223 224 }
+	color = { 133 201 253 }
 	country_type = recognized
 	tier = principality
 	cultures = { yankee }
 	capital = STATE_MAINE
 }
 NORTH_CAROLINA = {
-	color = { 255 248 237 }
+	color = { 225 240 239 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie afro_american }
 	capital = STATE_NORTH_CAROLINA
 }
 TEXAS = {
-	color = { 192 198 171 }
+	color = { 248 249 219 }
 	country_type = recognized
 	tier = principality
 	cultures = { dixie }
 	capital = STATE_TEXAS
 }
 YUKON_TERRITORY = {
-	color = { 164 205 94 }
+	color = { 4 137 1 }
 	country_type = recognized
 	tier = principality
 	cultures = { athabaskan }
 	capital = STATE_YUKON_TERRITORY
 }
 NORTHWEST_TERRITORIES = {
-	color = { 229 237 239 }
+	color = { 141 75 40 }
 	country_type = recognized
 	tier = principality
 	cultures = { athabaskan }
 	capital = STATE_NORTHWEST_TERRITORIES
 }
 NUNAVUT = {
-	color = { 255 163 0 }
+	color = { 203 96 64 }
 	country_type = recognized
 	tier = principality
 	cultures = { inuit }
 	capital = STATE_NUNAVUT
 }
 BRITISH_COLUMBIA = {
-	color = { 158 204 47 }
+	color = { 250 229 196 }
 	country_type = recognized
 	tier = principality
 	cultures = { athabaskan salish }
 	capital = STATE_BRITISH_COLUMBIA
 }
 ALBERTA = {
-	color = { 191 205 241 }
+	color = { 106 166 204 }
 	country_type = recognized
 	tier = principality
 	cultures = { siouan }
 	capital = STATE_ALBERTA
 }
 SASKATCHEWAN = {
-	color = { 163 178 201 }
+	color = { 255 254 200 }
 	country_type = recognized
 	tier = principality
 	cultures = { cree }
 	capital = STATE_SASKATCHEWAN
 }
 MANITOBA = {
-	color = { 208 181 161 }
+	color = { 240 252 251 }
 	country_type = recognized
 	tier = principality
 	cultures = { metis }
 	capital = STATE_MANITOBA
 }
 ONTARIO = {
-	color = { 111 197 116 }
+	color = { 121 203 204 }
 	country_type = recognized
 	tier = principality
 	cultures = { anglo_canadian }
 	capital = STATE_ONTARIO
 }
 QUEBEC = {
-	color = { 236 227 201 }
+	color = { 251 97 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { franco_canadian }
 	capital = STATE_QUEBEC
 }
 NEWFOUNDLAND = {
-	color = { 255 105 105 }
+	color = { 139 53 63 }
 	country_type = recognized
 	tier = principality
 	cultures = { irish anglo_canadian }
 	capital = STATE_NEWFOUNDLAND
 }
 GUATEMALA = {
-	color = { 242 5 4 }
+	color = { 239 220 126 }
 	country_type = recognized
 	tier = principality
 	cultures = { mayan central_american }
 	capital = STATE_GUATEMALA
 }
 HONDURAS = {
-	color = { 130 208 232 }
+	color = { 0 193 201 }
 	country_type = recognized
 	tier = principality
 	cultures = { central_american }
 	capital = STATE_HONDURAS
 }
 NICARAGUA = {
-	color = { 141 115 84 }
+	color = { 234 235 220 }
 	country_type = recognized
 	tier = principality
 	cultures = { central_american }
 	capital = STATE_NICARAGUA
 }
 COSTA_RICA = {
-	color = { 109 171 203 }
+	color = { 178 197 219 }
 	country_type = recognized
 	tier = principality
 	cultures = { central_american }
 	capital = STATE_COSTA_RICA
 }
 PANAMA = {
-	color = { 144 134 110 }
+	color = { 97 123 140 }
 	country_type = recognized
 	tier = principality
 	cultures = { central_american }
 	capital = STATE_PANAMA
 }
 CUBA = {
-	color = { 158 78 43 }
+	color = { 242 219 129 }
 	country_type = recognized
 	tier = principality
 	cultures = { caribeno afro_caribeno }
 	capital = STATE_CUBA
 }
 URUGUAY = {
-	color = { 137 68 0 }
+	color = { 236 235 231 }
 	country_type = recognized
 	tier = principality
 	cultures = { platinean }
 	capital = STATE_URUGUAY
 }
 ECUADOR = {
-	color = { 252 193 37 }
+	color = { 196 255 197 }
 	country_type = recognized
 	tier = principality
 	cultures = { quechua north_andean }
 	capital = STATE_ECUADOR
 }
 SANTO_DOMINGO = {
-	color = { 130 157 190 }
+	color = { 138 119 89 }
 	country_type = recognized
 	tier = principality
 	cultures = { caribeno }
 	capital = STATE_SANTO_DOMINGO
 }
 HAITI = {
-	color = { 251 128 78 }
+	color = { 240 238 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_antillean }
 	capital = STATE_HAITI
 }
 GOTLAND = {
-	color = { 238 89 62 }
+	color = { 144 141 113 }
 	country_type = recognized
 	tier = principality
 	cultures = { swedish }
 	capital = STATE_GOTLAND
 }
 GOTALAND = {
-	color = { 182 31 38 }
+	color = { 87 169 236 }
 	country_type = recognized
 	tier = principality
 	cultures = { swedish }
 	capital = STATE_GOTALAND
 }
 SCANIA = {
-	color = { 96 186 255 }
+	color = { 242 217 177 }
 	country_type = recognized
 	tier = principality
 	cultures = { swedish }
 	capital = STATE_SCANIA
 }
 NORRLAND = {
-	color = { 192 207 205 }
+	color = { 116 132 145 }
 	country_type = recognized
 	tier = principality
 	cultures = { swedish }
 	capital = STATE_NORRLAND
 }
 SVEALAND = {
-	color = { 134 120 88 }
+	color = { 243 237 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { swedish }
 	capital = STATE_SVEALAND
 }
 SICILY = {
-	color = { 48 163 199 }
+	color = { 201 187 181 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_italian }
 	capital = STATE_SICILY
 }
 IONIAN_ISLANDS = {
-	color = { 60 137 139 }
+	color = { 186 183 106 }
 	country_type = recognized
 	tier = principality
 	cultures = { greek }
 	capital = STATE_IONIAN_ISLANDS
 }
 PELOPONNESE = {
-	color = { 80 234 145 }
+	color = { 151 206 50 }
 	country_type = recognized
 	tier = principality
 	cultures = { greek }
 	capital = STATE_PELOPONNESE
 }
 ALBANIA = {
-	color = { 126 196 201 }
+	color = { 241 201 3 }
 	country_type = recognized
 	tier = principality
 	cultures = { albanian }
 	capital = STATE_ALBANIA
 }
 BOSNIA = {
-	color = { 57 137 146 }
+	color = { 118 199 117 }
 	country_type = recognized
 	tier = principality
 	cultures = { serb bosniak }
 	capital = STATE_BOSNIA
 }
 SOUTHERN_TRANSYLVANIA = {
-	color = { 32 142 31 }
+	color = { 110 123 137 }
 	country_type = recognized
 	tier = principality
 	cultures = { romanian }
 	capital = STATE_SOUTHERN_TRANSYLVANIA
 }
 HAWAIIAN_ISLANDS = {
-	color = { 243 217 127 }
+	color = { 198 209 194 }
 	country_type = recognized
 	tier = principality
 	cultures = { hawaiian }
 	capital = STATE_HAWAIIAN_ISLANDS
 }
 NORTHERN_TRANSYLVANIA = {
-	color = { 251 189 18 }
+	color = { 185 209 243 }
 	country_type = recognized
 	tier = principality
 	cultures = { hungarian romanian }
 	capital = STATE_NORTHERN_TRANSYLVANIA
 }
 MOLDAVIA = {
-	color = { 254 213 190 }
+	color = { 241 215 212 }
 	country_type = recognized
 	tier = principality
 	cultures = { romanian }
 	capital = STATE_MOLDAVIA
 }
 WALLACHIA = {
-	color = { 186 141 146 }
+	color = { 213 161 35 }
 	country_type = recognized
 	tier = principality
 	cultures = { romanian }
 	capital = STATE_WALLACHIA
 }
 GALICIA = {
-	color = { 205 184 136 }
+	color = { 142 135 134 }
 	country_type = recognized
 	tier = principality
 	cultures = { galician }
 	capital = STATE_GALICIA
 }
 ASTURIAS = {
-	color = { 68 203 124 }
+	color = { 203 95 74 }
 	country_type = recognized
 	tier = principality
 	cultures = { spanish }
 	capital = STATE_ASTURIAS
 }
 CASTILE = {
-	color = { 122 250 217 }
+	color = { 71 115 253 }
 	country_type = recognized
 	tier = principality
 	cultures = { spanish }
 	capital = STATE_CASTILE
 }
 ARAGON = {
-	color = { 222 172 105 }
+	color = { 94 158 160 }
 	country_type = recognized
 	tier = principality
 	cultures = { spanish }
 	capital = STATE_ARAGON
 }
 NAVARRA = {
-	color = { 134 117 3 }
+	color = { 210 153 7 }
 	country_type = recognized
 	tier = principality
 	cultures = { basque spanish }
 	capital = STATE_NAVARRA
 }
 CATALONIA = {
-	color = { 208 135 0 }
+	color = { 203 195 115 }
 	country_type = recognized
 	tier = principality
 	cultures = { catalan spanish }
 	capital = STATE_CATALONIA
 }
 BALEARES = {
-	color = { 202 83 81 }
+	color = { 248 252 208 }
 	country_type = recognized
 	tier = principality
 	cultures = { catalan spanish }
 	capital = STATE_BALEARES
 }
 NEW_SOUTH_WALES = {
-	color = { 142 36 0 }
+	color = { 208 54 55 }
 	country_type = recognized
 	tier = principality
 	cultures = { australian aborigine }
 	capital = STATE_NEW_SOUTH_WALES
 }
 VICTORIA = {
-	color = { 140 132 130 }
+	color = { 183 208 233 }
 	country_type = recognized
 	tier = principality
 	cultures = { aborigine australian }
 	capital = STATE_VICTORIA
 }
 TASMANIA = {
-	color = { 141 75 39 }
+	color = { 242 231 195 }
 	country_type = recognized
 	tier = principality
-	cultures = { aborigine australian }
+	cultures = { australian }
 	capital = STATE_TASMANIA
 }
 QUEENSLAND = {
-	color = { 239 255 242 }
+	color = { 3 255 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { aborigine }
 	capital = STATE_QUEENSLAND
 }
 SOUTH_AUSTRALIA = {
-	color = { 255 198 198 }
+	color = { 159 77 47 }
 	country_type = recognized
 	tier = principality
 	cultures = { aborigine }
 	capital = STATE_SOUTH_AUSTRALIA
 }
 WESTERN_AUSTRALIA = {
-	color = { 240 229 139 }
+	color = { 207 43 36 }
 	country_type = recognized
 	tier = principality
 	cultures = { aborigine }
 	capital = STATE_WESTERN_AUSTRALIA
 }
 NORTHERN_TERRITORY = {
-	color = { 140 125 126 }
+	color = { 158 104 30 }
 	country_type = recognized
 	tier = principality
 	cultures = { aborigine }
 	capital = STATE_NORTHERN_TERRITORY
 }
 NORTH_ISLAND = {
-	color = { 3 205 214 }
+	color = { 222 162 35 }
 	country_type = recognized
 	tier = principality
 	cultures = { maori }
 	capital = STATE_NORTH_ISLAND
 }
 SOUTH_ISLAND = {
-	color = { 193 255 197 }
+	color = { 154 183 207 }
 	country_type = recognized
 	tier = principality
 	cultures = { maori }
 	capital = STATE_SOUTH_ISLAND
 }
 EAST_MICRONESIA = {
-	color = { 255 244 220 }
+	color = { 255 64 2 }
 	country_type = recognized
 	tier = principality
 	cultures = { micronesian }
 	capital = STATE_EAST_MICRONESIA
 }
 WEST_MICRONESIA = {
-	color = { 240 126 68 }
+	color = { 100 159 165 }
 	country_type = recognized
 	tier = principality
 	cultures = { micronesian }
 	capital = STATE_WEST_MICRONESIA
 }
 WEST_JAVA = {
-	color = { 4 208 1 }
+	color = { 254 196 42 }
 	country_type = recognized
 	tier = principality
 	cultures = { javan }
 	capital = STATE_WEST_JAVA
 }
 EAST_JAVA = {
-	color = { 141 142 135 }
+	color = { 65 229 211 }
 	country_type = recognized
 	tier = principality
 	cultures = { javan }
 	capital = STATE_EAST_JAVA
 }
 CENTRAL_JAVA = {
-	color = { 172 213 229 }
+	color = { 234 232 250 }
 	country_type = recognized
 	tier = principality
 	cultures = { javan }
 	capital = STATE_CENTRAL_JAVA
 }
 CEYLON = {
-	color = { 5 131 126 }
+	color = { 77 237 150 }
 	country_type = recognized
 	tier = principality
 	cultures = { sinhala }
 	capital = STATE_CEYLON
 }
 URGA = {
-	color = { 247 165 96 }
+	color = { 0 97 4 }
 	country_type = recognized
 	tier = principality
 	cultures = { mongol }
 	capital = STATE_URGA
 }
 ULIASTAI = {
-	color = { 236 125 68 }
+	color = { 252 141 3 }
 	country_type = recognized
 	tier = principality
 	cultures = { mongol }
 	capital = STATE_ULIASTAI
 }
 OMAN = {
-	color = { 246 255 250 }
+	color = { 33 149 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { bedouin }
 	capital = STATE_OMAN
 }
 ABU_DHABI = {
-	color = { 137 76 54 }
+	color = { 206 108 81 }
 	country_type = recognized
 	tier = principality
 	cultures = { bedouin }
 	capital = STATE_ABU_DHABI
 }
 YEMEN = {
-	color = { 159 200 151 }
+	color = { 107 171 202 }
 	country_type = recognized
 	tier = principality
 	cultures = { yemenite }
 	capital = STATE_YEMEN
 }
 HEDJAZ = {
-	color = { 161 97 29 }
+	color = { 20 79 136 }
 	country_type = recognized
 	tier = principality
 	cultures = { mashriqi bedouin }
 	capital = STATE_HEDJAZ
 }
 TUNISIA = {
-	color = { 255 232 178 }
+	color = { 139 235 240 }
 	country_type = recognized
 	tier = principality
 	cultures = { maghrebi }
 	capital = STATE_TUNISIA
 }
 GUINEA = {
-	color = { 105 167 203 }
+	color = { 0 198 84 }
 	country_type = recognized
 	tier = principality
 	cultures = { mande fulbe }
 	capital = STATE_GUINEA
 }
 GHANA = {
-	color = { 250 161 0 }
+	color = { 134 135 133 }
 	country_type = recognized
 	tier = principality
 	cultures = { akan }
 	capital = STATE_GHANA
 }
 TOGO = {
-	color = { 206 84 62 }
+	color = { 235 184 29 }
 	country_type = recognized
 	tier = principality
 	cultures = { akan ewe }
 	capital = STATE_TOGO
 }
 DAHOMEY = {
-	color = { 206 0 2 }
+	color = { 128 189 236 }
 	country_type = recognized
 	tier = principality
 	cultures = { fon }
 	capital = STATE_DAHOMEY
 }
 GABON = {
-	color = { 241 243 251 }
+	color = { 206 52 47 }
 	country_type = recognized
 	tier = principality
 	cultures = { equatorial_bantu }
 	capital = STATE_GABON
 }
 BOTSWANA = {
-	color = { 0 203 85 }
+	color = { 66 125 184 }
 	country_type = recognized
 	tier = principality
 	cultures = { tswana }
 	capital = STATE_BOTSWANA
 }
 ZAMBIA = {
-	color = { 126 0 1 }
+	color = { 255 0 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { lacustrine_bantu lunda }
 	capital = STATE_ZAMBIA
 }
 CAMBODIA = {
-	color = { 143 182 200 }
+	color = { 14 75 143 }
 	country_type = recognized
 	tier = principality
 	cultures = { khmer }
 	capital = STATE_CAMBODIA
 }
 SAVOY = {
-	color = { 255 206 155 }
+	color = { 250 226 206 }
 	country_type = recognized
 	tier = principality
 	cultures = { francoprovencal north_italian }
 	capital = STATE_SAVOY
 }
 LIBERIA = {
-	color = { 241 58 59 }
+	color = { 138 102 105 }
 	country_type = recognized
 	tier = principality
 	cultures = { kru }
 	capital = STATE_LIBERIA
 }
 EMILIA = {
-	color = { 243 235 225 }
+	color = { 144 88 48 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_italian }
 	capital = STATE_EMILIA
 }
 TUSCANY = {
-	color = { 200 96 97 }
+	color = { 205 205 206 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_italian }
 	capital = STATE_TUSCANY
 }
 ROMAGNA = {
-	color = { 0 208 209 }
+	color = { 214 110 30 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_italian }
 	capital = STATE_ROMAGNA
 }
 LAZIO = {
-	color = { 99 203 0 }
+	color = { 5 171 154 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_italian }
 	capital = STATE_LAZIO
 }
 NEVADA = {
-	color = { 139 39 0 }
+	color = { 254 233 144 }
 	country_type = recognized
 	tier = principality
 	cultures = { paiute }
 	capital = STATE_NEVADA
 }
 ARIZONA = {
-	color = { 255 104 74 }
+	color = { 213 164 33 }
 	country_type = recognized
 	tier = principality
 	cultures = { navajo }
 	capital = STATE_ARIZONA
 }
 NEW_MEXICO = {
-	color = { 249 250 229 }
+	color = { 238 176 37 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican }
 	capital = STATE_NEW_MEXICO
 }
 CALIFORNIA = {
-	color = { 255 230 225 }
+	color = { 0 135 136 }
 	country_type = recognized
 	tier = principality
 	cultures = { hokan }
 	capital = STATE_CALIFORNIA
 }
 SONORA = {
-	color = { 242 135 100 }
+	color = { 239 248 254 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican oodham }
 	capital = STATE_SONORA
 }
 CHIHUAHUA = {
-	color = { 141 116 92 }
+	color = { 177 227 227 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican }
 	capital = STATE_CHIHUAHUA
 }
 RIO_GRANDE = {
-	color = { 255 59 65 }
+	color = { 232 163 102 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican oodham }
 	capital = STATE_RIO_GRANDE
 }
 DURANGO = {
-	color = { 49 210 55 }
+	color = { 242 228 137 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican }
 	capital = STATE_DURANGO
 }
 SINALOA = {
-	color = { 1 127 123 }
+	color = { 241 233 130 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican }
 	capital = STATE_SINALOA
 }
 BAJIO = {
-	color = { 201 98 18 }
+	color = { 243 254 250 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican }
 	capital = STATE_BAJIO
 }
 YUCATAN = {
-	color = { 15 83 134 }
+	color = { 255 252 229 }
 	country_type = recognized
 	tier = principality
 	cultures = { mayan mexican }
 	capital = STATE_YUCATAN
 }
 MEXICO = {
-	color = { 250 142 1 }
+	color = { 239 64 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican nahua }
 	capital = STATE_MEXICO
 }
 VERACRUZ = {
-	color = { 111 114 198 }
+	color = { 233 217 131 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican }
 	capital = STATE_VERACRUZ
 }
 GUERRERO = {
-	color = { 24 133 240 }
+	color = { 142 130 121 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican }
 	capital = STATE_GUERRERO
 }
 OAXACA = {
-	color = { 2 255 0 }
+	color = { 4 226 242 }
 	country_type = recognized
 	tier = principality
 	cultures = { tarascan mexican }
 	capital = STATE_OAXACA
 }
 JALISCO = {
-	color = { 143 67 44 }
+	color = { 0 139 142 }
 	country_type = recognized
 	tier = principality
 	cultures = { mexican }
 	capital = STATE_JALISCO
 }
 ZACATECAS = {
-	color = { 242 219 176 }
+	color = { 252 134 76 }
 	country_type = recognized
 	tier = principality
 	cultures = { nahua mexican }
 	capital = STATE_ZACATECAS
 }
 GUAYANA = {
-	color = { 207 97 2 }
+	color = { 202 97 24 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_caribbean }
 	capital = STATE_GUAYANA
 }
 ZULIA = {
-	color = { 150 209 204 }
+	color = { 135 66 41 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_andean }
 	capital = STATE_ZULIA
 }
 MIRANDA = {
-	color = { 202 170 151 }
+	color = { 255 255 238 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_andean }
 	capital = STATE_MIRANDA
 }
 BOLIVAR = {
-	color = { 35 139 255 }
+	color = { 122 237 3 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_andean }
 	capital = STATE_BOLIVAR
 }
 ANTIOQUIA = {
-	color = { 210 196 119 }
+	color = { 153 255 252 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_andean afro_caribeno }
 	capital = STATE_ANTIOQUIA
 }
 GUAVIARE = {
-	color = { 189 252 189 }
+	color = { 255 121 66 }
 	country_type = recognized
 	tier = principality
 	cultures = { amazonian }
 	capital = STATE_GUAVIARE
 }
 CUNDINAMARCA = {
-	color = { 255 62 69 }
+	color = { 235 109 80 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_andean }
 	capital = STATE_CUNDINAMARCA
 }
 CAUCA = {
-	color = { 252 44 48 }
+	color = { 203 208 3 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_andean }
 	capital = STATE_CAUCA
 }
 PASTAZA = {
-	color = { 234 119 1 }
+	color = { 63 84 169 }
 	country_type = recognized
 	tier = principality
 	cultures = { amazonian }
 	capital = STATE_PASTAZA
 }
 CAJAMARCA = {
-	color = { 238 175 10 }
+	color = { 175 18 32 }
 	country_type = recognized
 	tier = principality
 	cultures = { quechua }
 	capital = STATE_CAJAMARCA
 }
 LIMA = {
-	color = { 234 177 14 }
+	color = { 144 111 84 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_andean quechua }
 	capital = STATE_LIMA
 }
 ICA = {
-	color = { 241 237 226 }
+	color = { 6 167 158 }
 	country_type = recognized
 	tier = principality
 	cultures = { quechua }
 	capital = STATE_ICA
 }
 AREQUIPA = {
-	color = { 203 188 176 }
+	color = { 3 200 98 }
 	country_type = recognized
 	tier = principality
 	cultures = { quechua }
 	capital = STATE_AREQUIPA
 }
 PARA = {
-	color = { 0 136 143 }
+	color = { 141 67 39 }
 	country_type = recognized
 	tier = principality
-	cultures = { afro_brazilian brazilian }
+	cultures = { afro_brazilian amazonic }
 	capital = STATE_PARA
 }
 MARANHAO = {
-	color = { 245 254 213 }
+	color = { 43 133 18 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_brazilian }
 	capital = STATE_MARANHAO
 }
 AMAZONAS = {
-	color = { 157 240 253 }
+	color = { 1 200 142 }
 	country_type = recognized
 	tier = principality
 	cultures = { amazonian }
 	capital = STATE_AMAZONAS
 }
 ACRE = {
-	color = { 255 127 69 }
+	color = { 243 220 201 }
 	country_type = recognized
 	tier = principality
 	cultures = { amazonian }
 	capital = STATE_ACRE
 }
 GOIAS = {
-	color = { 255 126 75 }
+	color = { 234 151 122 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_brazilian }
 	capital = STATE_GOIAS
 }
 MATO_GROSSO = {
-	color = { 126 254 0 }
+	color = { 236 237 165 }
 	country_type = recognized
 	tier = principality
 	cultures = { guarani amazonian }
 	capital = STATE_MATO_GROSSO
 }
 RIO_GRANDE_DO_SUL = {
-	color = { 201 153 16 }
+	color = { 123 193 241 }
 	country_type = recognized
 	tier = principality
-	cultures = { brazilian }
+	cultures = { sulista }
 	capital = STATE_RIO_GRANDE_DO_SUL
 }
 PARANA = {
-	color = { 152 251 156 }
+	color = { 1 126 5 }
 	country_type = recognized
 	tier = principality
-	cultures = { brazilian afro_brazilian }
+	cultures = { afro_brazilian }
 	capital = STATE_PARANA
 }
 SANTA_CATARINA = {
-	color = { 210 197 117 }
+	color = { 206 255 113 }
 	country_type = recognized
 	tier = principality
-	cultures = { brazilian afro_brazilian }
+	cultures = { sulista afro_brazilian }
 	capital = STATE_SANTA_CATARINA
 }
 SAO_PAULO = {
-	color = { 199 102 18 }
+	color = { 248 255 245 }
 	country_type = recognized
 	tier = principality
-	cultures = { brazilian afro_brazilian }
+	cultures = { paulista afro_brazilian }
 	capital = STATE_SAO_PAULO
 }
 MINAS_GERAIS = {
-	color = { 14 73 137 }
+	color = { 5 130 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { brazilian afro_brazilian }
 	capital = STATE_MINAS_GERAIS
 }
 RIO_DE_JANEIRO = {
-	color = { 140 51 43 }
+	color = { 89 41 13 }
 	country_type = recognized
 	tier = principality
-	cultures = { brazilian afro_brazilian }
+	cultures = { afro_brazilian brazilian }
 	capital = STATE_RIO_DE_JANEIRO
 }
 BAHIA = {
-	color = { 202 137 0 }
+	color = { 242 95 101 }
 	country_type = recognized
 	tier = principality
-	cultures = { afro_brazilian brazilian }
+	cultures = { afro_brazilian nordestino }
 	capital = STATE_BAHIA
 }
 RIO_GRANDE_DO_NORTE = {
-	color = { 141 52 33 }
+	color = { 254 250 217 }
 	country_type = recognized
 	tier = principality
-	cultures = { afro_brazilian brazilian }
+	cultures = { afro_brazilian nordestino }
 	capital = STATE_RIO_GRANDE_DO_NORTE
 }
 CEARA = {
-	color = { 142 135 122 }
+	color = { 2 206 3 }
 	country_type = recognized
 	tier = principality
-	cultures = { afro_brazilian brazilian }
+	cultures = { afro_brazilian nordestino }
 	capital = STATE_CEARA
 }
 PIAUI = {
-	color = { 201 87 71 }
+	color = { 250 131 84 }
 	country_type = recognized
 	tier = principality
-	cultures = { afro_brazilian brazilian }
+	cultures = { afro_brazilian nordestino }
 	capital = STATE_PIAUI
 }
 PERNAMBUCO = {
-	color = { 35 64 144 }
+	color = { 188 254 200 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_brazilian }
 	capital = STATE_PERNAMBUCO
 }
 PARAIBA = {
-	color = { 137 4 5 }
+	color = { 1 245 255 }
 	country_type = recognized
 	tier = principality
-	cultures = { afro_brazilian brazilian }
+	cultures = { afro_brazilian nordestino }
 	capital = STATE_PARAIBA
 }
 ALTO_PARAGUAY = {
-	color = { 248 217 176 }
+	color = { 155 255 253 }
 	country_type = recognized
 	tier = principality
 	cultures = { guarani }
 	capital = STATE_ALTO_PARAGUAY
 }
 BAJO_PARAGUAY = {
-	color = { 208 102 58 }
+	color = { 48 129 17 }
 	country_type = recognized
 	tier = principality
 	cultures = { platinean guarani }
 	capital = STATE_BAJO_PARAGUAY
 }
 BUENOS_AIRES = {
-	color = { 203 91 67 }
+	color = { 233 224 203 }
 	country_type = recognized
 	tier = principality
 	cultures = { platinean }
 	capital = STATE_BUENOS_AIRES
 }
 PATAGONIA = {
-	color = { 37 179 169 }
+	color = { 207 205 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { patagonian }
 	capital = STATE_PATAGONIA
 }
 RIO_NEGRO = {
-	color = { 250 233 137 }
+	color = { 151 203 205 }
 	country_type = recognized
 	tier = principality
 	cultures = { patagonian platinean }
 	capital = STATE_RIO_NEGRO
 }
 LA_PAMPA = {
-	color = { 246 222 174 }
+	color = { 134 124 106 }
 	country_type = recognized
 	tier = principality
 	cultures = { platinean }
 	capital = STATE_LA_PAMPA
 }
 SANTA_FE = {
-	color = { 143 99 5 }
+	color = { 54 156 197 }
 	country_type = recognized
 	tier = principality
 	cultures = { platinean }
 	capital = STATE_SANTA_FE
 }
 CORRIENTES = {
-	color = { 32 138 236 }
+	color = { 143 127 125 }
 	country_type = recognized
 	tier = principality
 	cultures = { platinean }
 	capital = STATE_CORRIENTES
 }
 TUCUMAN = {
-	color = { 67 116 251 }
+	color = { 137 70 4 }
 	country_type = recognized
 	tier = principality
 	cultures = { platinean }
 	capital = STATE_TUCUMAN
 }
 CHACO = {
-	color = { 142 67 48 }
+	color = { 135 91 4 }
 	country_type = recognized
 	tier = principality
 	cultures = { platinean }
 	capital = STATE_CHACO
 }
 JUJUY = {
-	color = { 0 0 242 }
+	color = { 0 194 137 }
 	country_type = recognized
 	tier = principality
-	cultures = { quechua platinean }
+	cultures = { quechua }
 	capital = STATE_JUJUY
 }
 SANTA_CRUZ = {
-	color = { 206 199 162 }
+	color = { 210 43 38 }
 	country_type = recognized
 	tier = principality
 	cultures = { quechua }
 	capital = STATE_SANTA_CRUZ
 }
 LA_PAZ = {
-	color = { 238 201 0 }
+	color = { 143 65 24 }
 	country_type = recognized
 	tier = principality
 	cultures = { quechua aimara }
 	capital = STATE_LA_PAZ
 }
 POTOSI = {
-	color = { 247 243 220 }
+	color = { 0 206 87 }
 	country_type = recognized
 	tier = principality
 	cultures = { aimara }
 	capital = STATE_POTOSI
 }
 SANTIAGO = {
-	color = { 118 192 205 }
+	color = { 142 26 21 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_andean }
 	capital = STATE_SANTIAGO
 }
 LOS_RIOS = {
-	color = { 165 209 88 }
+	color = { 122 141 153 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_andean }
 	capital = STATE_LOS_RIOS
 }
 ARAUCANIA = {
-	color = { 251 237 234 }
+	color = { 201 194 116 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_andean patagonian }
 	capital = STATE_ARAUCANIA
 }
 SOUTH_ATLANTIC_ISLANDS = {
-	color = { 251 159 123 }
+	color = { 235 120 31 }
 	country_type = recognized
 	tier = principality
 	cultures = { british }
 	capital = STATE_SOUTH_ATLANTIC_ISLANDS
 }
 ICELAND = {
-	color = { 245 255 236 }
+	color = { 223 209 88 }
 	country_type = recognized
 	tier = principality
 	cultures = { icelandic }
 	capital = STATE_ICELAND
 }
 GREENLAND = {
-	color = { 119 251 0 }
+	color = { 208 180 142 }
 	country_type = recognized
 	tier = principality
 	cultures = { inuit }
 	capital = STATE_GREENLAND
 }
 WEST_SAHARA = {
-	color = { 140 110 80 }
+	color = { 147 234 234 }
 	country_type = recognized
 	tier = principality
 	cultures = { berber bedouin }
 	capital = STATE_WEST_SAHARA
 }
 MARRAKECH = {
-	color = { 205 255 116 }
+	color = { 194 207 208 }
 	country_type = recognized
 	tier = principality
 	cultures = { maghrebi }
 	capital = STATE_MARRAKECH
 }
 FEZ = {
-	color = { 34 141 29 }
+	color = { 203 199 112 }
 	country_type = recognized
 	tier = principality
 	cultures = { maghrebi }
 	capital = STATE_FEZ
 }
 AL_RIF = {
-	color = { 203 255 112 }
+	color = { 0 195 138 }
 	country_type = recognized
 	tier = principality
 	cultures = { maghrebi }
 	capital = STATE_AL_RIF
 }
 INNER_MOROCCO = {
-	color = { 143 62 42 }
+	color = { 142 74 18 }
 	country_type = recognized
 	tier = principality
 	cultures = { berber maghrebi }
 	capital = STATE_INNER_MOROCCO
 }
 ORAN = {
-	color = { 80 136 83 }
+	color = { 228 255 250 }
 	country_type = recognized
 	tier = principality
 	cultures = { maghrebi }
 	capital = STATE_ORAN
 }
 SAHARA = {
-	color = { 139 243 243 }
+	color = { 0 125 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { tuareg }
 	capital = STATE_SAHARA
 }
 EAST_SAHARA = {
-	color = { 236 253 255 }
+	color = { 4 3 239 }
 	country_type = recognized
 	tier = principality
 	cultures = { tuareg berber }
 	capital = STATE_EAST_SAHARA
 }
 ALGIERS = {
-	color = { 0 255 125 }
+	color = { 139 140 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { berber maghrebi }
 	capital = STATE_ALGIERS
 }
 CONSTANTINE = {
-	color = { 0 255 3 }
+	color = { 145 234 142 }
 	country_type = recognized
 	tier = principality
 	cultures = { berber }
 	capital = STATE_CONSTANTINE
 }
 TRIPOLI = {
-	color = { 123 133 0 }
+	color = { 0 225 234 }
 	country_type = recognized
 	tier = principality
 	cultures = { bedouin maghrebi }
 	capital = STATE_TRIPOLI
 }
 LIBYAN_DESERT = {
-	color = { 241 158 0 }
+	color = { 253 69 61 }
 	country_type = recognized
 	tier = principality
 	cultures = { bedouin }
 	capital = STATE_LIBYAN_DESERT
 }
 LIBYA = {
-	color = { 240 41 43 }
+	color = { 242 236 222 }
 	country_type = recognized
 	tier = principality
 	cultures = { maghrebi bedouin }
 	capital = STATE_LIBYA
 }
 UPPER_EGYPT = {
-	color = { 243 150 68 }
+	color = { 110 195 117 }
 	country_type = recognized
 	tier = principality
 	cultures = { misri }
 	capital = STATE_UPPER_EGYPT
 }
 EGYPTIAN_DESERT = {
-	color = { 104 139 39 }
+	color = { 208 181 144 }
 	country_type = recognized
 	tier = principality
 	cultures = { misri bedouin }
 	capital = STATE_EGYPTIAN_DESERT
 }
 MIDDLE_EGYPT = {
-	color = { 253 126 80 }
+	color = { 126 2 5 }
 	country_type = recognized
 	tier = principality
 	cultures = { misri }
 	capital = STATE_MIDDLE_EGYPT
 }
 MATRUH = {
-	color = { 255 226 193 }
+	color = { 189 236 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { misri bedouin }
 	capital = STATE_MATRUH
 }
 SINAI = {
-	color = { 0 136 139 }
+	color = { 139 142 114 }
 	country_type = recognized
 	tier = principality
 	cultures = { bedouin misri }
 	capital = STATE_SINAI
 }
 DONGOLA = {
-	color = { 100 143 140 }
+	color = { 139 50 17 }
 	country_type = recognized
 	tier = principality
 	cultures = { bedouin beja }
 	capital = STATE_DONGOLA
 }
 KORDOFAN = {
-	color = { 101 138 35 }
+	color = { 237 237 237 }
 	country_type = recognized
 	tier = principality
 	cultures = { sudanese }
 	capital = STATE_KORDOFAN
 }
 DARFUR = {
-	color = { 141 105 20 }
+	color = { 0 206 107 }
 	country_type = recognized
 	tier = principality
 	cultures = { fur }
 	capital = STATE_DARFUR
 }
 BLUE_NILE = {
-	color = { 57 143 61 }
+	color = { 139 141 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { sudanese }
 	capital = STATE_BLUE_NILE
 }
 NEW_BRUNSWICK = {
-	color = { 209 99 57 }
+	color = { 253 249 225 }
 	country_type = recognized
 	tier = principality
 	cultures = { anglo_canadian }
 	capital = STATE_NEW_BRUNSWICK
 }
 NORTH_ANGOLA = {
-	color = { 167 212 237 }
+	color = { 69 108 221 }
 	country_type = recognized
 	tier = principality
 	cultures = { bakongo }
 	capital = STATE_NORTH_ANGOLA
 }
 SOUTH_ANGOLA = {
-	color = { 233 226 219 }
+	color = { 63 206 127 }
 	country_type = recognized
 	tier = principality
 	cultures = { ovimbundu }
 	capital = STATE_SOUTH_ANGOLA
 }
 EAST_ANGOLA = {
-	color = { 255 244 232 }
+	color = { 1 194 209 }
 	country_type = recognized
 	tier = principality
 	cultures = { ovimbundu }
 	capital = STATE_EAST_ANGOLA
 }
 INDIAN_OCEAN_TERRITORY = {
-	color = { 0 189 255 }
+	color = { 137 101 19 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_antillean }
 	capital = STATE_INDIAN_OCEAN_TERRITORY
 }
 LOURENCO_MARQUES = {
-	color = { 101 126 142 }
+	color = { 255 211 5 }
 	country_type = recognized
 	tier = principality
 	cultures = { tonga nguni }
 	capital = STATE_LOURENCO_MARQUES
 }
 MOCAMBIQUE = {
-	color = { 189 143 145 }
+	color = { 255 164 4 }
 	country_type = recognized
 	tier = principality
 	cultures = { makua }
 	capital = STATE_MOCAMBIQUE
 }
 ZAMBEZIA = {
-	color = { 56 94 205 }
+	color = { 242 196 140 }
 	country_type = recognized
 	tier = principality
 	cultures = { shona }
 	capital = STATE_ZAMBEZIA
 }
 EASTERN_CAPE = {
-	color = { 173 255 51 }
+	color = { 31 137 35 }
 	country_type = recognized
 	tier = principality
 	cultures = { xhosa }
 	capital = STATE_EASTERN_CAPE
 }
 CAPE_COLONY = {
-	color = { 3 228 233 }
+	color = { 124 138 134 }
 	country_type = recognized
 	tier = principality
 	cultures = { khoisan }
 	capital = STATE_CAPE_COLONY
 }
 NORTHERN_CAPE = {
-	color = { 122 202 210 }
+	color = { 118 236 198 }
 	country_type = recognized
 	tier = principality
 	cultures = { tswana }
 	capital = STATE_NORTHERN_CAPE
 }
 WALES = {
-	color = { 74 125 181 }
+	color = { 124 136 131 }
 	country_type = recognized
 	tier = principality
 	cultures = { welsh }
 	capital = STATE_WALES
 }
 YORKSHIRE = {
-	color = { 240 235 131 }
+	color = { 101 150 234 }
 	country_type = recognized
 	tier = principality
 	cultures = { british }
 	capital = STATE_YORKSHIRE
 }
 HIGHLANDS = {
-	color = { 203 84 52 }
+	color = { 0 201 139 }
 	country_type = recognized
 	tier = principality
 	cultures = { scottish }
 	capital = STATE_HIGHLANDS
 }
 MIDLANDS = {
-	color = { 123 207 202 }
+	color = { 140 141 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { british }
 	capital = STATE_MIDLANDS
 }
 EAST_ANGLIA = {
-	color = { 207 184 140 }
+	color = { 179 197 221 }
 	country_type = recognized
 	tier = principality
 	cultures = { british }
 	capital = STATE_EAST_ANGLIA
 }
 WEST_COUNTRY = {
-	color = { 254 230 226 }
+	color = { 2 228 234 }
 	country_type = recognized
 	tier = principality
 	cultures = { british }
 	capital = STATE_WEST_COUNTRY
 }
 LOWLANDS = {
-	color = { 251 237 224 }
+	color = { 222 243 228 }
 	country_type = recognized
 	tier = principality
 	cultures = { scottish }
 	capital = STATE_LOWLANDS
 }
 ULSTER = {
-	color = { 209 199 195 }
+	color = { 208 175 149 }
 	country_type = recognized
 	tier = principality
 	cultures = { irish }
 	capital = STATE_ULSTER
 }
 MUNSTER = {
-	color = { 255 246 251 }
+	color = { 1 241 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { irish }
 	capital = STATE_MUNSTER
 }
 LEINSTER = {
-	color = { 191 139 140 }
+	color = { 193 255 64 }
 	country_type = recognized
 	tier = principality
 	cultures = { irish }
 	capital = STATE_LEINSTER
 }
 LANGUEDOC = {
-	color = { 201 125 95 }
+	color = { 144 103 6 }
 	country_type = recognized
 	tier = principality
 	cultures = { occitan }
 	capital = STATE_LANGUEDOC
 }
 RHONE = {
-	color = { 142 52 35 }
+	color = { 34 175 173 }
 	country_type = recognized
 	tier = principality
 	cultures = { francoprovencal occitan }
 	capital = STATE_RHONE
 }
 FRENCH_LOW_COUNTRIES = {
-	color = { 0 132 0 }
+	color = { 144 42 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_FRENCH_LOW_COUNTRIES
 }
 PICARDY = {
-	color = { 137 109 18 }
+	color = { 242 242 224 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_PICARDY
 }
 ALSACE_LORRAINE = {
-	color = { 210 176 139 }
+	color = { 30 138 239 }
 	country_type = recognized
 	tier = principality
 	cultures = { alemannic }
 	capital = STATE_ALSACE_LORRAINE
 }
 POITOU = {
-	color = { 138 66 5 }
+	color = { 228 243 242 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_POITOU
 }
 GUYENNE = {
-	color = { 178 196 227 }
+	color = { 181 215 237 }
 	country_type = recognized
 	tier = principality
 	cultures = { occitan }
 	capital = STATE_GUYENNE
 }
 AUVERGNE_LIMOUSIN = {
-	color = { 201 102 0 }
+	color = { 101 200 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { occitan }
 	capital = STATE_AUVERGNE_LIMOUSIN
 }
 BRITTANY = {
-	color = { 76 213 207 }
+	color = { 35 69 137 }
 	country_type = recognized
 	tier = principality
 	cultures = { breton french }
 	capital = STATE_BRITTANY
 }
 BURGUNDY = {
-	color = { 0 255 0 }
+	color = { 183 206 200 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_BURGUNDY
 }
 CHAMPAGNE = {
-	color = { 250 252 250 }
+	color = { 204 170 1 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_CHAMPAGNE
 }
 FRANCHE_COMTE = {
-	color = { 2 208 0 }
+	color = { 0 193 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_FRANCHE_COMTE
 }
 LORRAINE = {
-	color = { 61 93 206 }
+	color = { 205 85 81 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_LORRAINE
 }
 AQUITAINE = {
-	color = { 252 225 198 }
+	color = { 140 134 123 }
 	country_type = recognized
 	tier = principality
 	cultures = { occitan }
 	capital = STATE_AQUITAINE
 }
 MAINE_ANJOU = {
-	color = { 0 195 136 }
+	color = { 204 255 115 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_MAINE_ANJOU
 }
 ORLEANS = {
-	color = { 255 255 229 }
+	color = { 236 235 236 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_ORLEANS
 }
 ILE_DE_FRANCE = {
-	color = { 233 151 4 }
+	color = { 236 208 160 }
 	country_type = recognized
 	tier = principality
 	cultures = { french }
 	capital = STATE_ILE_DE_FRANCE
 }
 ELBE = {
-	color = { 205 204 173 }
+	color = { 251 124 68 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_ELBE
 }
 BEIRA = {
-	color = { 255 248 223 }
+	color = { 128 142 131 }
 	country_type = recognized
 	tier = principality
 	cultures = { portuguese }
 	capital = STATE_BEIRA
 }
 ESTREMADURA = {
-	color = { 251 230 215 }
+	color = { 0 236 121 }
 	country_type = recognized
 	tier = principality
 	cultures = { portuguese }
 	capital = STATE_ESTREMADURA
 }
 ALENTEJO = {
-	color = { 4 208 203 }
+	color = { 1 210 201 }
 	country_type = recognized
 	tier = principality
 	cultures = { portuguese }
 	capital = STATE_ALENTEJO
 }
 MADEIRA = {
-	color = { 255 164 118 }
+	color = { 242 248 252 }
 	country_type = recognized
 	tier = principality
 	cultures = { portuguese }
 	capital = STATE_MADEIRA
 }
 CAPE_VERDE = {
-	color = { 142 0 5 }
+	color = { 251 197 190 }
 	country_type = recognized
 	tier = principality
 	cultures = { portuguese }
 	capital = STATE_CAPE_VERDE
 }
 AZORES = {
-	color = { 255 125 39 }
+	color = { 202 113 80 }
 	country_type = recognized
 	tier = principality
 	cultures = { portuguese }
 	capital = STATE_AZORES
 }
 CANARY_ISLANDS = {
-	color = { 26 111 205 }
+	color = { 126 127 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { spanish }
 	capital = STATE_CANARY_ISLANDS
 }
 GRANADA = {
-	color = { 135 85 48 }
+	color = { 255 164 75 }
 	country_type = recognized
 	tier = principality
 	cultures = { spanish }
 	capital = STATE_GRANADA
 }
 BADAJOZ = {
-	color = { 188 139 9 }
+	color = { 202 175 149 }
 	country_type = recognized
 	tier = principality
 	cultures = { spanish }
 	capital = STATE_BADAJOZ
 }
 VALENCIA = {
-	color = { 181 33 39 }
+	color = { 123 139 151 }
 	country_type = recognized
 	tier = principality
 	cultures = { spanish catalan }
 	capital = STATE_VALENCIA
 }
 TOLEDO = {
-	color = { 177 231 255 }
+	color = { 215 183 140 }
 	country_type = recognized
 	tier = principality
 	cultures = { spanish }
 	capital = STATE_TOLEDO
 }
 WALLONIA = {
-	color = { 201 108 89 }
+	color = { 122 142 138 }
 	country_type = recognized
 	tier = principality
 	cultures = { wallonian }
 	capital = STATE_WALLONIA
 }
 FLANDERS = {
-	color = { 241 221 135 }
+	color = { 188 143 147 }
 	country_type = recognized
 	tier = principality
 	cultures = { flemish }
 	capital = STATE_FLANDERS
 }
 FRIESLAND = {
-	color = { 0 99 135 }
+	color = { 201 197 113 }
 	country_type = recognized
 	tier = principality
 	cultures = { dutch }
 	capital = STATE_FRIESLAND
 }
 GELRE = {
-	color = { 141 134 4 }
+	color = { 50 144 87 }
 	country_type = recognized
 	tier = principality
 	cultures = { dutch }
 	capital = STATE_GELRE
 }
 JUTLAND = {
-	color = { 252 226 178 }
+	color = { 198 101 18 }
 	country_type = recognized
 	tier = principality
 	cultures = { danish }
 	capital = STATE_JUTLAND
 }
 ZEALAND = {
-	color = { 16 81 144 }
+	color = { 107 142 32 }
 	country_type = recognized
 	tier = principality
 	cultures = { danish }
 	capital = STATE_ZEALAND
 }
 WESTERN_NORWAY = {
-	color = { 238 233 132 }
+	color = { 207 152 28 }
 	country_type = recognized
 	tier = principality
 	cultures = { norwegian }
 	capital = STATE_WESTERN_NORWAY
 }
 NORTHERN_NORWAY = {
-	color = { 183 214 242 }
+	color = { 209 199 196 }
 	country_type = recognized
 	tier = principality
 	cultures = { norwegian }
 	capital = STATE_NORTHERN_NORWAY
 }
 EASTERN_NORWAY = {
-	color = { 209 106 59 }
+	color = { 151 204 210 }
 	country_type = recognized
 	tier = principality
 	cultures = { norwegian }
 	capital = STATE_EASTERN_NORWAY
 }
 EAST_SWITZERLAND = {
-	color = { 251 112 84 }
+	color = { 255 105 105 }
 	country_type = recognized
 	tier = principality
 	cultures = { alemannic }
 	capital = STATE_EAST_SWITZERLAND
 }
 WEST_SWITZERLAND = {
-	color = { 208 176 138 }
+	color = { 206 59 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { alemannic francoprovencal }
 	capital = STATE_WEST_SWITZERLAND
 }
 PUERTO_RICO = {
-	color = { 33 129 237 }
+	color = { 53 96 200 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_caribeno caribeno }
 	capital = STATE_PUERTO_RICO
 }
 BAHAMAS = {
-	color = { 134 135 83 }
+	color = { 170 255 44 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_caribbean }
 	capital = STATE_BAHAMAS
 }
 BERMUDA = {
-	color = { 173 225 241 }
+	color = { 142 132 73 }
 	country_type = recognized
 	tier = principality
 	cultures = { british afro_caribbean }
 	capital = STATE_BERMUDA
 }
 WEST_INDIES = {
-	color = { 239 208 175 }
+	color = { 251 98 5 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_caribbean afro_antillean }
 	capital = STATE_WEST_INDIES
 }
 JAMAICA = {
-	color = { 50 157 204 }
+	color = { 253 124 66 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_caribbean }
 	capital = STATE_JAMAICA
 }
 ORISSA = {
-	color = { 235 221 202 }
+	color = { 255 158 122 }
 	country_type = recognized
 	tier = principality
 	cultures = { oriya }
 	capital = STATE_ORISSA
 }
 SINDH = {
-	color = { 140 34 35 }
+	color = { 207 168 130 }
 	country_type = recognized
 	tier = principality
 	cultures = { sindi }
 	capital = STATE_SINDH
 }
 RAJPUTANA = {
-	color = { 209 200 181 }
+	color = { 143 123 103 }
 	country_type = recognized
 	tier = principality
 	cultures = { rajput }
 	capital = STATE_RAJPUTANA
 }
 CIRCARS = {
-	color = { 243 153 5 }
+	color = { 253 243 220 }
 	country_type = recognized
 	tier = principality
 	cultures = { telegu }
 	capital = STATE_CIRCARS
 }
 PUNJAB = {
-	color = { 175 237 61 }
+	color = { 182 212 242 }
 	country_type = recognized
 	tier = principality
 	cultures = { panjabi }
 	capital = STATE_PUNJAB
 }
 NAGPUR = {
-	color = { 250 234 184 }
+	color = { 204 197 117 }
 	country_type = recognized
 	tier = principality
 	cultures = { marathi }
 	capital = STATE_NAGPUR
 }
 MYSORE = {
-	color = { 255 184 14 }
+	color = { 245 246 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { kannada }
 	capital = STATE_MYSORE
 }
 TRAVANCORE = {
-	color = { 155 255 251 }
+	color = { 141 35 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { malayalam }
 	capital = STATE_TRAVANCORE
 }
 MADRAS = {
-	color = { 202 154 34 }
+	color = { 207 5 1 }
 	country_type = recognized
 	tier = principality
 	cultures = { tamil }
 	capital = STATE_MADRAS
 }
 KASHMIR = {
-	color = { 157 79 48 }
+	color = { 0 164 158 }
 	country_type = recognized
 	tier = principality
 	cultures = { kashmiri }
 	capital = STATE_KASHMIR
 }
 HYDERABAD = {
-	color = { 210 179 153 }
+	color = { 141 117 93 }
 	country_type = recognized
 	tier = principality
 	cultures = { telegu marathi }
 	capital = STATE_HYDERABAD
 }
 GUJARAT = {
-	color = { 66 92 170 }
+	color = { 210 196 175 }
 	country_type = recognized
 	tier = principality
 	cultures = { gujarati }
 	capital = STATE_GUJARAT
 }
 CENTRAL_INDIA = {
-	color = { 136 187 208 }
+	color = { 142 66 43 }
 	country_type = recognized
 	tier = principality
 	cultures = { marathi }
 	capital = STATE_CENTRAL_INDIA
 }
 BOMBAY = {
-	color = { 199 196 167 }
+	color = { 63 179 108 }
 	country_type = recognized
 	tier = principality
 	cultures = { marathi }
 	capital = STATE_BOMBAY
 }
 BIHAR = {
-	color = { 233 214 188 }
+	color = { 227 204 91 }
 	country_type = recognized
 	tier = principality
 	cultures = { bihari }
 	capital = STATE_BIHAR
 }
 NORTH_BENGAL = {
-	color = { 135 58 43 }
+	color = { 239 218 129 }
 	country_type = recognized
 	tier = principality
 	cultures = { bengali }
 	capital = STATE_NORTH_BENGAL
 }
 ASSAM = {
-	color = { 255 164 76 }
+	color = { 4 255 125 }
 	country_type = recognized
 	tier = principality
 	cultures = { assamese }
 	capital = STATE_ASSAM
 }
 AWADH = {
-	color = { 142 189 138 }
+	color = { 3 250 155 }
 	country_type = recognized
 	tier = principality
 	cultures = { avadhi }
 	capital = STATE_AWADH
 }
 DELHI = {
-	color = { 243 128 95 }
+	color = { 154 197 210 }
 	country_type = recognized
 	tier = principality
 	cultures = { avadhi kanauji }
 	capital = STATE_DELHI
 }
 TENASSERIM = {
-	color = { 136 21 23 }
+	color = { 235 238 211 }
 	country_type = recognized
 	tier = principality
 	cultures = { karen }
 	capital = STATE_TENASSERIM
 }
 KACHIN = {
-	color = { 113 164 208 }
+	color = { 138 49 31 }
 	country_type = recognized
 	tier = principality
 	cultures = { kachin }
 	capital = STATE_KACHIN
 }
 SHAN_STATES = {
-	color = { 70 137 0 }
+	color = { 0 253 159 }
 	country_type = recognized
 	tier = principality
 	cultures = { shan }
 	capital = STATE_SHAN_STATES
 }
 BURMA = {
-	color = { 0 209 3 }
+	color = { 240 1 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { burmese }
 	capital = STATE_BURMA
 }
 PEGU = {
-	color = { 188 239 104 }
+	color = { 244 162 92 }
 	country_type = recognized
 	tier = principality
 	cultures = { burmese }
 	capital = STATE_PEGU
 }
 NORTH_SUMATRA = {
-	color = { 180 234 179 }
+	color = { 139 5 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { sumatran }
 	capital = STATE_NORTH_SUMATRA
 }
 SOUTH_SUMATRA = {
-	color = { 239 206 163 }
+	color = { 224 243 235 }
 	country_type = recognized
 	tier = principality
 	cultures = { sumatran }
 	capital = STATE_SOUTH_SUMATRA
 }
 ACEH = {
-	color = { 204 239 239 }
+	color = { 255 121 66 }
 	country_type = recognized
 	tier = principality
 	cultures = { sumatran }
 	capital = STATE_ACEH
 }
 WESTERN_NEW_GUINEA = {
-	color = { 101 203 0 }
+	color = { 207 58 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { melanesian }
 	capital = STATE_WESTERN_NEW_GUINEA
 }
 MOLUCCAS = {
-	color = { 200 0 4 }
+	color = { 252 228 178 }
 	country_type = recognized
 	tier = principality
 	cultures = { moluccan }
 	capital = STATE_MOLUCCAS
 }
 CELEBES = {
-	color = { 59 144 141 }
+	color = { 175 242 56 }
 	country_type = recognized
 	tier = principality
 	cultures = { moluccan }
 	capital = STATE_CELEBES
 }
 WEST_BORNEO = {
-	color = { 209 104 53 }
+	color = { 122 237 202 }
 	country_type = recognized
 	tier = principality
 	cultures = { bornean }
 	capital = STATE_WEST_BORNEO
 }
 EAST_BORNEO = {
-	color = { 137 21 29 }
+	color = { 0 138 71 }
 	country_type = recognized
 	tier = principality
 	cultures = { bornean dayak }
 	capital = STATE_EAST_BORNEO
 }
 SUNDA_ISLANDS = {
-	color = { 103 133 135 }
+	color = { 175 215 227 }
 	country_type = recognized
 	tier = principality
 	cultures = { moluccan balinese }
 	capital = STATE_SUNDA_ISLANDS
 }
 MALAYA = {
-	color = { 59 177 112 }
+	color = { 103 140 36 }
 	country_type = recognized
 	tier = principality
 	cultures = { malay }
 	capital = STATE_MALAYA
 }
 NORTH_BORNEO = {
-	color = { 255 255 225 }
+	color = { 131 206 250 }
 	country_type = recognized
 	tier = principality
 	cultures = { dayak bornean }
 	capital = STATE_NORTH_BORNEO
 }
 MINDANAO = {
-	color = { 15 80 139 }
+	color = { 209 241 238 }
 	country_type = recognized
 	tier = principality
 	cultures = { filipino moro }
 	capital = STATE_MINDANAO
 }
 LUZON = {
-	color = { 0 177 238 }
+	color = { 0 144 1 }
 	country_type = recognized
 	tier = principality
 	cultures = { filipino }
 	capital = STATE_LUZON
 }
 VISAYAS = {
-	color = { 249 128 118 }
+	color = { 169 206 242 }
 	country_type = recognized
 	tier = principality
 	cultures = { filipino }
 	capital = STATE_VISAYAS
 }
 ATTICA = {
-	color = { 205 203 190 }
+	color = { 255 95 2 }
 	country_type = recognized
 	tier = principality
 	cultures = { greek }
 	capital = STATE_ATTICA
 }
 SKOPIA = {
-	color = { 238 240 228 }
+	color = { 241 116 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { bulgarian }
 	capital = STATE_SKOPIA
 }
 MACEDONIA = {
-	color = { 87 111 51 }
+	color = { 184 255 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { greek }
 	capital = STATE_MACEDONIA
 }
 THESSALIA = {
-	color = { 221 236 239 }
+	color = { 240 143 35 }
 	country_type = recognized
 	tier = principality
 	cultures = { greek }
 	capital = STATE_THESSALIA
 }
 WESTERN_THRACE = {
-	color = { 0 225 238 }
+	color = { 143 53 32 }
 	country_type = recognized
 	tier = principality
 	cultures = { greek turkish }
 	capital = STATE_WESTERN_THRACE
 }
 NORTHERN_THRACE = {
-	color = { 251 223 178 }
+	color = { 63 105 236 }
 	country_type = recognized
 	tier = principality
 	cultures = { bulgarian turkish }
 	capital = STATE_NORTHERN_THRACE
 }
 BULGARIA = {
-	color = { 152 210 200 }
+	color = { 196 241 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { bulgarian }
 	capital = STATE_BULGARIA
 }
 SOUTH_MADAGASCAR = {
-	color = { 255 234 206 }
+	color = { 177 255 50 }
 	country_type = recognized
 	tier = principality
 	cultures = { malagasy }
 	capital = STATE_SOUTH_MADAGASCAR
 }
 NORTH_MADAGASCAR = {
-	color = { 191 207 208 }
+	color = { 0 201 201 }
 	country_type = recognized
 	tier = principality
 	cultures = { malagasy }
 	capital = STATE_NORTH_MADAGASCAR
 }
 OROMIA = {
-	color = { 145 234 238 }
+	color = { 152 203 154 }
 	country_type = recognized
 	tier = principality
 	cultures = { oromo somali }
 	capital = STATE_OROMIA
 }
 AMHARA = {
-	color = { 124 255 213 }
+	color = { 208 103 26 }
 	country_type = recognized
 	tier = principality
 	cultures = { oromo }
 	capital = STATE_AMHARA
 }
 GONDER = {
-	color = { 251 110 85 }
+	color = { 124 161 193 }
 	country_type = recognized
 	tier = principality
 	cultures = { amhara }
 	capital = STATE_GONDER
 }
 KAZEMBE = {
-	color = { 96 189 254 }
+	color = { 140 139 134 }
 	country_type = recognized
 	tier = principality
 	cultures = { lacustrine_bantu lunda }
 	capital = STATE_KAZEMBE
 }
 ERITREA = {
-	color = { 201 189 171 }
+	color = { 149 206 204 }
 	country_type = recognized
 	tier = principality
 	cultures = { tigray }
 	capital = STATE_ERITREA
 }
 SOMALILAND = {
-	color = { 239 205 176 }
+	color = { 239 155 78 }
 	country_type = recognized
 	tier = principality
 	cultures = { somali }
 	capital = STATE_SOMALILAND
 }
 NAMAQUALAND = {
-	color = { 255 229 224 }
+	color = { 144 134 109 }
 	country_type = recognized
 	tier = principality
 	cultures = { khoisan }
 	capital = STATE_NAMAQUALAND
 }
 HEREROLAND = {
-	color = { 45 140 92 }
+	color = { 242 231 201 }
 	country_type = recognized
 	tier = principality
 	cultures = { herero }
 	capital = STATE_HEREROLAND
 }
 ZAMBEZI = {
-	color = { 255 235 142 }
+	color = { 203 210 183 }
 	country_type = recognized
 	tier = principality
 	cultures = { shona }
 	capital = STATE_ZAMBEZI
 }
 KENYA = {
-	color = { 178 225 235 }
+	color = { 242 200 170 }
 	country_type = recognized
 	tier = principality
 	cultures = { lacustrine_bantu }
 	capital = STATE_KENYA
 }
 RIFT_VALLEY = {
-	color = { 200 187 171 }
+	color = { 166 183 205 }
 	country_type = recognized
 	tier = principality
 	cultures = { nilotic }
 	capital = STATE_RIFT_VALLEY
 }
 CHAD = {
-	color = { 98 208 166 }
+	color = { 109 203 114 }
 	country_type = recognized
 	tier = principality
 	cultures = { teda }
 	capital = STATE_CHAD
 }
 WADDAI = {
-	color = { 255 255 221 }
+	color = { 171 200 219 }
 	country_type = recognized
 	tier = principality
 	cultures = { equatorial_bantu fur }
 	capital = STATE_WADDAI
 }
 LINDI = {
-	color = { 255 195 36 }
+	color = { 189 252 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { lacustrine_bantu yao }
 	capital = STATE_LINDI
 }
 ZANZIBAR = {
-	color = { 243 233 168 }
+	color = { 142 143 118 }
 	country_type = recognized
 	tier = principality
 	cultures = { lacustrine_bantu swahili }
 	capital = STATE_ZANZIBAR
 }
 TANGANYIKA = {
-	color = { 189 131 14 }
+	color = { 0 134 135 }
 	country_type = recognized
 	tier = principality
 	cultures = { ruanda }
 	capital = STATE_TANGANYIKA
 }
 MAURITANIA = {
-	color = { 237 229 221 }
+	color = { 202 201 162 }
 	country_type = recognized
 	tier = principality
 	cultures = { bidan haratin }
 	capital = STATE_MAURITANIA
 }
 INNER_MAURITANIA = {
-	color = { 248 230 217 }
+	color = { 2 201 210 }
 	country_type = recognized
 	tier = principality
 	cultures = { bidan }
 	capital = STATE_INNER_MAURITANIA
 }
 EASTERN_MALI = {
-	color = { 210 85 81 }
+	color = { 67 113 243 }
 	country_type = recognized
 	tier = principality
 	cultures = { bambara mande }
 	capital = STATE_EASTERN_MALI
 }
 WESTERN_MALI = {
-	color = { 51 138 147 }
+	color = { 140 74 55 }
 	country_type = recognized
 	tier = principality
 	cultures = { fulbe mande }
 	capital = STATE_WESTERN_MALI
 }
 TIMBUKTU = {
-	color = { 97 202 0 }
+	color = { 5 205 204 }
 	country_type = recognized
 	tier = principality
 	cultures = { songhai }
 	capital = STATE_TIMBUKTU
 }
 HAUSALAND = {
-	color = { 140 67 4 }
+	color = { 236 202 146 }
 	country_type = recognized
 	tier = principality
 	cultures = { hausa }
 	capital = STATE_HAUSALAND
 }
 BENIN = {
-	color = { 246 251 209 }
+	color = { 181 201 201 }
 	country_type = recognized
 	tier = principality
 	cultures = { edo }
 	capital = STATE_BENIN
 }
 YORUBA_STATES = {
-	color = { 144 124 122 }
+	color = { 240 92 65 }
 	country_type = recognized
 	tier = principality
 	cultures = { yoruba }
 	capital = STATE_YORUBA_STATES
 }
 NIGER_DELTA = {
-	color = { 241 153 114 }
+	color = { 136 135 143 }
 	country_type = recognized
 	tier = principality
 	cultures = { ibo equatorial_bantu }
 	capital = STATE_NIGER_DELTA
 }
 OUTER_HAUSALAND = {
-	color = { 191 200 192 }
+	color = { 200 255 111 }
 	country_type = recognized
 	tier = principality
 	cultures = { equatorial_bantu }
 	capital = STATE_OUTER_HAUSALAND
 }
 NIGER = {
-	color = { 0 251 255 }
+	color = { 255 124 85 }
 	country_type = recognized
 	tier = principality
 	cultures = { tuareg }
 	capital = STATE_NIGER
 }
 BORNU = {
-	color = { 50 97 134 }
+	color = { 137 122 5 }
 	country_type = recognized
 	tier = principality
 	cultures = { kanuri }
 	capital = STATE_BORNU
 }
 NIGERIA = {
-	color = { 188 254 63 }
+	color = { 255 241 139 }
 	country_type = recognized
 	tier = principality
 	cultures = { equatorial_bantu tiv }
 	capital = STATE_NIGERIA
 }
 EAST_HAUSALAND = {
-	color = { 207 135 0 }
+	color = { 106 121 136 }
 	country_type = recognized
 	tier = principality
 	cultures = { hausa }
 	capital = STATE_EAST_HAUSALAND
 }
 KATANGA = {
-	color = { 253 122 3 }
+	color = { 5 236 121 }
 	country_type = recognized
 	tier = principality
 	cultures = { lunda fluvian_bantu }
 	capital = STATE_KATANGA
 }
 CONGO_ORIENTALE = {
-	color = { 233 95 67 }
+	color = { 255 107 103 }
 	country_type = recognized
 	tier = principality
 	cultures = { fluvian_bantu }
 	capital = STATE_CONGO_ORIENTALE
 }
 KASAI = {
-	color = { 137 121 97 }
+	color = { 202 159 28 }
 	country_type = recognized
 	tier = principality
 	cultures = { fluvian_bantu }
 	capital = STATE_KASAI
 }
 BAS_CONGO = {
-	color = { 159 177 205 }
+	color = { 247 255 248 }
 	country_type = recognized
 	tier = principality
 	cultures = { bakongo }
 	capital = STATE_BAS_CONGO
 }
 EQUATEUR = {
-	color = { 255 133 75 }
+	color = { 240 232 136 }
 	country_type = recognized
 	tier = principality
 	cultures = { mongo }
 	capital = STATE_EQUATEUR
 }
 UGANDA = {
-	color = { 161 177 208 }
+	color = { 122 197 241 }
 	country_type = recognized
 	tier = principality
 	cultures = { baganda lacustrine_bantu }
 	capital = STATE_UGANDA
 }
 EQUATORIA = {
-	color = { 141 241 233 }
+	color = { 139 134 113 }
 	country_type = recognized
 	tier = principality
 	cultures = { azande }
 	capital = STATE_EQUATORIA
 }
 VOLTA = {
-	color = { 196 93 25 }
+	color = { 209 203 181 }
 	country_type = recognized
 	tier = principality
 	cultures = { mossi mande }
 	capital = STATE_VOLTA
 }
 NORTH_CAMEROON = {
-	color = { 255 129 64 }
+	color = { 206 47 53 }
 	country_type = recognized
 	tier = principality
 	cultures = { equatorial_bantu }
 	capital = STATE_NORTH_CAMEROON
 }
 SOUTH_CAMEROON = {
-	color = { 205 52 0 }
+	color = { 2 95 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { equatorial_bantu fang }
 	capital = STATE_SOUTH_CAMEROON
 }
 UBANGI_SHARI = {
-	color = { 139 92 0 }
+	color = { 253 160 80 }
 	country_type = recognized
 	tier = principality
 	cultures = { equatorial_bantu }
 	capital = STATE_UBANGI_SHARI
 }
 CONGO = {
-	color = { 143 106 8 }
+	color = { 203 37 41 }
 	country_type = recognized
 	tier = principality
 	cultures = { bakongo fluvian_bantu }
 	capital = STATE_CONGO
 }
 IVORY_COAST = {
-	color = { 16 78 137 }
+	color = { 208 200 191 }
 	country_type = recognized
 	tier = principality
 	cultures = { akan }
 	capital = STATE_IVORY_COAST
 }
 WINDWARD_COAST = {
-	color = { 208 175 130 }
+	color = { 86 255 159 }
 	country_type = recognized
 	tier = principality
 	cultures = { kru }
 	capital = STATE_WINDWARD_COAST
 }
 SENEGAL = {
-	color = { 243 111 80 }
+	color = { 238 184 37 }
 	country_type = recognized
 	tier = principality
 	cultures = { wolof fulbe }
 	capital = STATE_SENEGAL
 }
 GAMBIA = {
-	color = { 55 175 116 }
+	color = { 253 130 84 }
 	country_type = recognized
 	tier = principality
 	cultures = { mande fulbe }
 	capital = STATE_GAMBIA
 }
 SIERRA_LEONE = {
-	color = { 200 180 160 }
+	color = { 74 241 145 }
 	country_type = recognized
 	tier = principality
 	cultures = { mande }
 	capital = STATE_SIERRA_LEONE
 }
 ZULULAND = {
-	color = { 52 200 54 }
+	color = { 253 125 66 }
 	country_type = recognized
 	tier = principality
 	cultures = { zulu }
 	capital = STATE_ZULULAND
 }
 VRYSTAAT = {
-	color = { 242 43 45 }
+	color = { 209 203 205 }
 	country_type = recognized
 	tier = principality
 	cultures = { sotho }
 	capital = STATE_VRYSTAAT
 }
 TRANSVAAL = {
-	color = { 110 165 206 }
+	color = { 48 84 77 }
 	country_type = recognized
 	tier = principality
 	cultures = { sotho }
 	capital = STATE_TRANSVAAL
 }
 EASTERN_NEW_GUINEA = {
-	color = { 203 95 92 }
+	color = { 163 184 205 }
 	country_type = recognized
 	tier = principality
 	cultures = { melanesian }
 	capital = STATE_EASTERN_NEW_GUINEA
 }
 SOLOMON_ISLANDS = {
-	color = { 132 204 255 }
+	color = { 121 133 148 }
 	country_type = recognized
 	tier = principality
 	cultures = { melanesian }
 	capital = STATE_SOLOMON_ISLANDS
 }
 BOUGAINVILLE = {
-	color = { 205 205 0 }
+	color = { 141 130 75 }
 	country_type = recognized
 	tier = principality
 	cultures = { melanesian }
 	capital = STATE_BOUGAINVILLE
 }
 NAURU = {
-	color = { 220 163 36 }
+	color = { 13 82 142 }
 	country_type = recognized
 	tier = principality
 	cultures = { melanesian }
 	capital = STATE_NAURU
 }
 FIJI = {
-	color = { 164 201 94 }
+	color = { 242 229 224 }
 	country_type = recognized
 	tier = principality
 	cultures = { melanesian }
 	capital = STATE_FIJI
 }
 VANUATU = {
-	color = { 237 222 205 }
+	color = { 123 138 139 }
 	country_type = recognized
 	tier = principality
 	cultures = { melanesian }
 	capital = STATE_VANUATU
 }
 KANAK = {
-	color = { 242 255 252 }
+	color = { 1 243 253 }
 	country_type = recognized
 	tier = principality
 	cultures = { melanesian }
 	capital = STATE_KANAK
 }
 TAHITI = {
-	color = { 195 252 57 }
+	color = { 250 249 225 }
 	country_type = recognized
 	tier = principality
 	cultures = { polynesian }
 	capital = STATE_TAHITI
 }
 TONGA = {
-	color = { 48 202 51 }
+	color = { 28 112 210 }
 	country_type = recognized
 	tier = principality
 	cultures = { polynesian }
 	capital = STATE_TONGA
 }
 HAIL = {
-	color = { 1 124 128 }
+	color = { 137 51 10 }
 	country_type = recognized
 	tier = principality
 	cultures = { bedouin }
 	capital = STATE_HAIL
 }
 NEJD = {
-	color = { 109 125 137 }
+	color = { 82 235 151 }
 	country_type = recognized
 	tier = principality
 	cultures = { bedouin }
 	capital = STATE_NEJD
 }
 TRANSJORDAN = {
-	color = { 141 118 1 }
+	color = { 228 203 83 }
 	country_type = recognized
 	tier = principality
 	cultures = { mashriqi bedouin }
 	capital = STATE_TRANSJORDAN
 }
 PALESTINE = {
-	color = { 210 159 34 }
+	color = { 255 244 234 }
 	country_type = recognized
 	tier = principality
 	cultures = { mashriqi }
 	capital = STATE_PALESTINE
 }
 LEBANON = {
-	color = { 240 209 164 }
+	color = { 253 252 254 }
 	country_type = recognized
 	tier = principality
 	cultures = { mashriqi }
 	capital = STATE_LEBANON
 }
 SYRIA = {
-	color = { 95 179 255 }
+	color = { 255 210 152 }
 	country_type = recognized
 	tier = principality
 	cultures = { mashriqi }
 	capital = STATE_SYRIA
 }
 ALEPPO = {
-	color = { 255 120 60 }
+	color = { 146 184 207 }
 	country_type = recognized
 	tier = principality
 	cultures = { mashriqi }
 	capital = STATE_ALEPPO
 }
 BAGHDAD = {
-	color = { 204 95 70 }
+	color = { 125 136 138 }
 	country_type = recognized
 	tier = principality
 	cultures = { mashriqi }
 	capital = STATE_BAGHDAD
 }
 MOSUL = {
-	color = { 155 99 34 }
+	color = { 186 236 251 }
 	country_type = recognized
 	tier = principality
 	cultures = { kurdish mashriqi }
 	capital = STATE_MOSUL
 }
 LARISTAN = {
-	color = { 98 182 255 }
+	color = { 224 239 243 }
 	country_type = recognized
 	tier = principality
 	cultures = { persian }
 	capital = STATE_LARISTAN
 }
-SISTAN = {
-	color = { 232 206 84 }
+KERMAN = {
+	color = { 107 141 40 }
 	country_type = recognized
 	tier = principality
-	cultures = { persian baluchi }
+	cultures = { persian }
+	capital = STATE_KERMAN
+}
+SISTAN = {
+	color = { 253 217 175 }
+	country_type = recognized
+	tier = principality
+	cultures = { baluchi }
 	capital = STATE_SISTAN
 }
 KHORASAN = {
-	color = { 201 99 15 }
+	color = { 57 150 64 }
 	country_type = recognized
 	tier = principality
 	cultures = { persian }
 	capital = STATE_KHORASAN
 }
 KHUZESTAN = {
-	color = { 143 70 0 }
+	color = { 0 178 242 }
 	country_type = recognized
 	tier = principality
-	cultures = { persian mashriqi }
+	cultures = { mashriqi }
 	capital = STATE_KHUZESTAN
 }
 FARS = {
-	color = { 237 89 61 }
+	color = { 143 76 57 }
 	country_type = recognized
 	tier = principality
 	cultures = { persian }
 	capital = STATE_FARS
 }
 ISFAHAN = {
-	color = { 251 60 61 }
+	color = { 227 166 101 }
 	country_type = recognized
 	tier = principality
 	cultures = { persian }
 	capital = STATE_ISFAHAN
 }
 MAZANDARAN = {
-	color = { 255 127 5 }
+	color = { 234 158 76 }
 	country_type = recognized
 	tier = principality
-	cultures = { persian }
+	cultures = { mazanderani }
 	capital = STATE_MAZANDARAN
 }
 IRAKAJEMI = {
-	color = { 0 134 135 }
+	color = { 139 137 136 }
 	country_type = recognized
 	tier = principality
 	cultures = { persian }
 	capital = STATE_IRAKAJEMI
 }
+SEMNAN = {
+	color = { 96 37 13 }
+	country_type = recognized
+	tier = principality
+	cultures = { persian }
+	capital = STATE_SEMNAN
+}
 TABRIZ = {
-	color = { 3 131 4 }
+	color = { 236 114 35 }
 	country_type = recognized
 	tier = principality
 	cultures = { azerbaijani }
 	capital = STATE_TABRIZ
 }
-LURISTAN = {
-	color = { 192 179 109 }
+URMIA = {
+	color = { 135 94 0 }
 	country_type = recognized
 	tier = principality
-	cultures = { persian kurdish }
+	cultures = { kurdish azerbaijani }
+	capital = STATE_URMIA
+}
+PERSIAN_KURDISTAN = {
+	color = { 107 209 165 }
+	country_type = recognized
+	tier = principality
+	cultures = { kurdish }
+	capital = STATE_PERSIAN_KURDISTAN
+}
+LURISTAN = {
+	color = { 248 166 93 }
+	country_type = recognized
+	tier = principality
+	cultures = { luri }
 	capital = STATE_LURISTAN
 }
 ARMENIA = {
-	color = { 70 109 141 }
+	color = { 198 197 166 }
 	country_type = recognized
 	tier = principality
-	cultures = { armenian }
+	cultures = { armenian azerbaijani }
 	capital = STATE_ARMENIA
 }
 AZERBAIJAN = {
-	color = { 169 215 226 }
+	color = { 65 102 228 }
 	country_type = recognized
 	tier = principality
 	cultures = { azerbaijani }
 	capital = STATE_AZERBAIJAN
 }
+ELIZAVETPOL = {
+	color = { 48 129 15 }
+	country_type = recognized
+	tier = principality
+	cultures = { azerbaijani armenian }
+	capital = STATE_ELIZAVETPOL
+}
 GREATER_CAUCASUS = {
-	color = { 240 232 238 }
+	color = { 209 200 185 }
 	country_type = recognized
 	tier = principality
 	cultures = { georgian }
 	capital = STATE_GREATER_CAUCASUS
 }
 MONTENEGRO = {
-	color = { 146 186 143 }
+	color = { 234 218 179 }
 	country_type = recognized
 	tier = principality
 	cultures = { serb }
 	capital = STATE_MONTENEGRO
 }
 NORTHERN_SERBIA = {
-	color = { 236 142 30 }
+	color = { 204 188 153 }
 	country_type = recognized
 	tier = principality
 	cultures = { serb }
 	capital = STATE_NORTHERN_SERBIA
 }
 SOUTHERN_SERBIA = {
-	color = { 210 151 10 }
+	color = { 196 114 108 }
 	country_type = recognized
 	tier = principality
 	cultures = { serb }
 	capital = STATE_SOUTHERN_SERBIA
 }
 HUDAVENDIGAR = {
-	color = { 189 210 241 }
+	color = { 180 215 236 }
 	country_type = recognized
 	tier = principality
 	cultures = { turkish }
 	capital = STATE_HUDAVENDIGAR
 }
 AYDIN = {
-	color = { 205 103 31 }
+	color = { 255 164 121 }
 	country_type = recognized
 	tier = principality
 	cultures = { turkish greek }
 	capital = STATE_AYDIN
 }
 KONYA = {
-	color = { 231 167 105 }
+	color = { 136 81 60 }
 	country_type = recognized
 	tier = principality
 	cultures = { turkish }
 	capital = STATE_KONYA
 }
 KASTAMONU = {
-	color = { 61 140 66 }
+	color = { 252 229 222 }
 	country_type = recognized
 	tier = principality
 	cultures = { turkish }
 	capital = STATE_KASTAMONU
 }
 CYPRUS = {
-	color = { 205 134 58 }
+	color = { 108 124 138 }
 	country_type = recognized
 	tier = principality
 	cultures = { greek }
 	capital = STATE_CYPRUS
 }
 TRABZON = {
-	color = { 181 238 185 }
+	color = { 245 252 206 }
 	country_type = recognized
 	tier = principality
 	cultures = { turkish }
 	capital = STATE_TRABZON
 }
 ERZURUM = {
-	color = { 207 92 90 }
+	color = { 112 114 203 }
 	country_type = recognized
 	tier = principality
 	cultures = { kurdish }
 	capital = STATE_ERZURUM
 }
 KARS = {
-	color = { 252 238 217 }
+	color = { 208 187 184 }
 	country_type = recognized
 	tier = principality
 	cultures = { turkish }
 	capital = STATE_KARS
 }
 CRETE = {
-	color = { 5 254 149 }
+	color = { 255 239 215 }
 	country_type = recognized
 	tier = principality
 	cultures = { greek turkish }
 	capital = STATE_CRETE
 }
 WEST_AEGEAN_ISLANDS = {
-	color = { 62 180 117 }
+	color = { 141 143 60 }
 	country_type = recognized
 	tier = principality
 	cultures = { greek }
 	capital = STATE_WEST_AEGEAN_ISLANDS
 }
 EAST_AEGEAN_ISLANDS = {
-	color = { 204 196 175 }
+	color = { 254 165 118 }
 	country_type = recognized
 	tier = principality
 	cultures = { greek }
 	capital = STATE_EAST_AEGEAN_ISLANDS
 }
 ANKARA = {
-	color = { 255 108 111 }
+	color = { 251 252 210 }
 	country_type = recognized
 	tier = principality
 	cultures = { turkish }
 	capital = STATE_ANKARA
 }
-WESTERN_AFGHANISTAN = {
-	color = { 234 154 117 }
+KANDAHAR = {
+	color = { 205 135 1 }
 	country_type = recognized
 	tier = principality
-	cultures = { pashtun tajik }
-	capital = STATE_WESTERN_AFGHANISTAN
+	cultures = { pashtun }
+	capital = STATE_KANDAHAR
+}
+KABUL = {
+	color = { 144 234 236 }
+	country_type = recognized
+	tier = principality
+	cultures = { pashtun }
+	capital = STATE_KABUL
+}
+HERAT = {
+	color = { 234 237 195 }
+	country_type = recognized
+	tier = principality
+	cultures = { persian }
+	capital = STATE_HERAT
+}
+NORTHERN_BALUCHISTAN = {
+	color = { 171 222 255 }
+	country_type = recognized
+	tier = principality
+	cultures = { baluchi }
+	capital = STATE_NORTHERN_BALUCHISTAN
+}
+BALKH = {
+	color = { 119 140 152 }
+	country_type = recognized
+	tier = principality
+	cultures = { tajik }
+	capital = STATE_BALKH
+}
+QUETTA = {
+	color = { 240 236 234 }
+	country_type = recognized
+	tier = principality
+	cultures = { pashtun }
+	capital = STATE_QUETTA
+}
+CENTRAL_HIGHLANDS = {
+	color = { 0 255 255 }
+	country_type = recognized
+	tier = principality
+	cultures = { hazara }
+	capital = STATE_CENTRAL_HIGHLANDS
+}
+PASHTUNISTAN = {
+	color = { 100 154 163 }
+	country_type = recognized
+	tier = principality
+	cultures = { pashtun panjabi }
+	capital = STATE_PASHTUNISTAN
 }
 DIYARBAKIR = {
-	color = { 174 240 60 }
+	color = { 4 204 214 }
 	country_type = recognized
 	tier = principality
 	cultures = { kurdish armenian }
 	capital = STATE_DIYARBAKIR
 }
-EASTERN_AFGHANISTAN = {
-	color = { 116 242 0 }
-	country_type = recognized
-	tier = principality
-	cultures = { pashtun tajik }
-	capital = STATE_EASTERN_AFGHANISTAN
-}
 BANGKOK = {
-	color = { 144 107 23 }
+	color = { 5 242 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { thai }
 	capital = STATE_BANGKOK
 }
 TONKIN = {
-	color = { 58 141 66 }
+	color = { 252 244 251 }
 	country_type = recognized
 	tier = principality
 	cultures = { vietnamese }
 	capital = STATE_TONKIN
 }
 ANNAM = {
-	color = { 137 123 101 }
+	color = { 204 160 34 }
 	country_type = recognized
 	tier = principality
 	cultures = { vietnamese }
 	capital = STATE_ANNAM
 }
 LAOS = {
-	color = { 251 249 240 }
+	color = { 82 147 201 }
 	country_type = recognized
 	tier = principality
 	cultures = { lao }
 	capital = STATE_LAOS
 }
 CHIANG_MAI = {
-	color = { 255 225 173 }
+	color = { 135 204 250 }
 	country_type = recognized
 	tier = principality
 	cultures = { thai shan }
 	capital = STATE_CHIANG_MAI
 }
 NAKHON_RATCHASIMA = {
-	color = { 104 210 3 }
+	color = { 197 231 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { lao thai }
 	capital = STATE_NAKHON_RATCHASIMA
 }
 SEOUL = {
-	color = { 207 206 165 }
+	color = { 136 128 110 }
 	country_type = recognized
 	tier = principality
 	cultures = { korean }
 	capital = STATE_SEOUL
 }
 BUSAN = {
-	color = { 254 234 222 }
+	color = { 253 145 2 }
 	country_type = recognized
 	tier = principality
 	cultures = { korean }
 	capital = STATE_BUSAN
 }
 YANGHO = {
-	color = { 53 210 46 }
+	color = { 205 206 176 }
 	country_type = recognized
 	tier = principality
 	cultures = { korean }
 	capital = STATE_YANGHO
 }
 SARIWON = {
-	color = { 252 231 202 }
+	color = { 96 172 233 }
 	country_type = recognized
 	tier = principality
 	cultures = { korean }
 	capital = STATE_SARIWON
 }
 PYONGYANG = {
-	color = { 4 99 144 }
+	color = { 195 194 170 }
 	country_type = recognized
 	tier = principality
 	cultures = { korean }
 	capital = STATE_PYONGYANG
 }
 SAKHALIN = {
-	color = { 254 226 174 }
+	color = { 246 250 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { ainu siberian }
 	capital = STATE_SAKHALIN
 }
 HOKKAIDO = {
-	color = { 243 239 207 }
+	color = { 80 138 142 }
 	country_type = recognized
 	tier = principality
 	cultures = { ainu }
 	capital = STATE_HOKKAIDO
 }
 TOHOKU = {
-	color = { 254 144 0 }
+	color = { 5 245 157 }
 	country_type = recognized
 	tier = principality
 	cultures = { japanese }
 	capital = STATE_TOHOKU
 }
 KANTO = {
-	color = { 208 100 4 }
+	color = { 239 227 134 }
 	country_type = recognized
 	tier = principality
 	cultures = { japanese }
 	capital = STATE_KANTO
 }
 CHUBU = {
-	color = { 255 92 0 }
+	color = { 206 207 195 }
 	country_type = recognized
 	tier = principality
 	cultures = { japanese }
 	capital = STATE_CHUBU
 }
 KANSAI = {
-	color = { 238 249 255 }
+	color = { 143 122 108 }
 	country_type = recognized
 	tier = principality
 	cultures = { japanese }
 	capital = STATE_KANSAI
 }
 KYUSHU = {
-	color = { 25 146 250 }
+	color = { 180 201 218 }
 	country_type = recognized
 	tier = principality
 	cultures = { japanese }
 	capital = STATE_KYUSHU
 }
 RYUKYU_ISLANDS = {
-	color = { 0 129 126 }
+	color = { 185 147 147 }
 	country_type = recognized
 	tier = principality
 	cultures = { japanese }
 	capital = STATE_RYUKYU_ISLANDS
 }
 CHUGOKU = {
-	color = { 255 162 1 }
+	color = { 193 252 198 }
 	country_type = recognized
 	tier = principality
 	cultures = { japanese }
 	capital = STATE_CHUGOKU
 }
 SHIKOKU = {
-	color = { 0 199 207 }
+	color = { 203 205 169 }
 	country_type = recognized
 	tier = principality
 	cultures = { japanese }
 	capital = STATE_SHIKOKU
 }
 LHASA = {
-	color = { 239 67 1 }
+	color = { 100 184 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { tibetan }
 	capital = STATE_LHASA
 }
 NGARI = {
-	color = { 200 202 4 }
+	color = { 51 157 197 }
 	country_type = recognized
 	tier = principality
 	cultures = { tibetan }
 	capital = STATE_NGARI
 }
 HIMALAYAS = {
-	color = { 255 1 0 }
+	color = { 134 141 126 }
 	country_type = recognized
 	tier = principality
 	cultures = { nepali tibetan }
 	capital = STATE_HIMALAYAS
 }
 DZUNGARIA = {
-	color = { 125 5 0 }
+	color = { 195 117 108 }
 	country_type = recognized
 	tier = principality
-	cultures = { uighur }
+	cultures = { han }
 	capital = STATE_DZUNGARIA
 }
 TIANSHAN = {
-	color = { 238 232 188 }
+	color = { 3 189 254 }
 	country_type = recognized
 	tier = principality
 	cultures = { uighur }
 	capital = STATE_TIANSHAN
 }
 SICHUAN = {
-	color = { 0 235 0 }
+	color = { 68 207 123 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_SICHUAN
 }
 YUNNAN = {
-	color = { 200 4 4 }
+	color = { 0 252 130 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_YUNNAN
 }
 GUIZHOU = {
-	color = { 163 179 209 }
+	color = { 236 229 144 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_GUIZHOU
 }
 SHAOZHOU = {
-	color = { 25 129 238 }
+	color = { 77 210 205 }
 	country_type = recognized
 	tier = principality
-	cultures = { yue han }
+	cultures = { yue }
 	capital = STATE_SHAOZHOU
 }
 ALXA = {
-	color = { 192 208 196 }
+	color = { 200 130 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { mongol }
 	capital = STATE_ALXA
 }
 HINGGAN = {
-	color = { 152 242 255 }
+	color = { 101 205 3 }
 	country_type = recognized
 	tier = principality
-	cultures = { mongol }
+	cultures = { mongol han }
 	capital = STATE_HINGGAN
 }
 GUANGXI = {
-	color = { 130 133 0 }
+	color = { 33 137 34 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_GUANGXI
 }
 BEIJING = {
-	color = { 117 118 193 }
+	color = { 0 97 3 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_BEIJING
 }
 SHENGJING = {
-	color = { 241 240 1 }
+	color = { 130 133 132 }
 	country_type = recognized
 	tier = principality
 	cultures = { han manchu }
 	capital = STATE_SHENGJING
 }
 OUTER_MANCHURIA = {
-	color = { 142 137 139 }
+	color = { 0 141 0 }
 	country_type = recognized
 	tier = principality
-	cultures = { manchu }
+	cultures = { siberian }
 	capital = STATE_OUTER_MANCHURIA
 }
 SOUTHERN_MANCHURIA = {
-	color = { 175 225 241 }
+	color = { 243 237 206 }
 	country_type = recognized
 	tier = principality
 	cultures = { manchu han }
 	capital = STATE_SOUTHERN_MANCHURIA
 }
 NORTHERN_MANCHURIA = {
-	color = { 134 110 87 }
+	color = { 136 115 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { manchu }
 	capital = STATE_NORTHERN_MANCHURIA
 }
 SHANXI = {
-	color = { 203 181 186 }
+	color = { 173 33 32 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_SHANXI
 }
 NINGXIA = {
-	color = { 186 237 253 }
+	color = { 152 105 31 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_NINGXIA
 }
 GANSU = {
-	color = { 243 148 117 }
+	color = { 0 179 238 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_GANSU
 }
 XIAN = {
-	color = { 139 104 110 }
+	color = { 237 236 204 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_XIAN
 }
 QINGHAI = {
-	color = { 102 146 233 }
+	color = { 84 255 155 }
 	country_type = recognized
 	tier = principality
 	cultures = { tibetan }
 	capital = STATE_QINGHAI
 }
 CHONGQING = {
-	color = { 92 119 139 }
+	color = { 233 67 2 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_CHONGQING
 }
 GUANGDONG = {
-	color = { 198 112 117 }
+	color = { 108 121 138 }
 	country_type = recognized
 	tier = principality
 	cultures = { yue }
 	capital = STATE_GUANGDONG
 }
 FUJIAN = {
-	color = { 242 56 54 }
+	color = { 254 73 2 }
 	country_type = recognized
 	tier = principality
 	cultures = { min }
 	capital = STATE_FUJIAN
 }
 ZHEJIANG = {
-	color = { 201 52 48 }
+	color = { 243 199 147 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_ZHEJIANG
 }
 NANJING = {
-	color = { 84 255 161 }
+	color = { 222 238 223 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_NANJING
 }
 JIANGSU = {
-	color = { 5 242 2 }
+	color = { 131 255 217 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_JIANGSU
 }
 HENAN = {
-	color = { 222 235 221 }
+	color = { 212 104 27 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_HENAN
 }
 ZHILI = {
-	color = { 0 186 253 }
+	color = { 100 185 254 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_ZHILI
 }
 JIANGXI = {
-	color = { 204 130 67 }
+	color = { 3 180 243 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_JIANGXI
 }
 SOUTHERN_ANHUI = {
-	color = { 239 159 0 }
+	color = { 183 243 55 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_SOUTHERN_ANHUI
 }
 NORTHERN_ANHUI = {
-	color = { 193 254 194 }
+	color = { 253 230 217 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_NORTHERN_ANHUI
 }
 WESTERN_HUBEI = {
-	color = { 136 55 55 }
+	color = { 126 141 130 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_WESTERN_HUBEI
 }
 EASTERN_HUBEI = {
-	color = { 218 18 64 }
+	color = { 135 35 5 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_EASTERN_HUBEI
 }
 HUNAN = {
-	color = { 191 255 188 }
+	color = { 201 43 38 }
 	country_type = recognized
 	tier = principality
 	cultures = { han }
 	capital = STATE_HUNAN
 }
 FORMOSA = {
-	color = { 253 168 83 }
+	color = { 193 247 206 }
 	country_type = recognized
 	tier = principality
 	cultures = { min }
 	capital = STATE_FORMOSA
 }
-SOUTHERN_FINLAND = {
-	color = { 189 133 14 }
+UUSIMAA = {
+	color = { 99 183 250 }
 	country_type = recognized
 	tier = principality
 	cultures = { finnish }
-	capital = STATE_SOUTHERN_FINLAND
+	capital = STATE_UUSIMAA
 }
 ALAND = {
-	color = { 206 48 50 }
+	color = { 144 239 240 }
 	country_type = recognized
 	tier = principality
 	cultures = { swedish }
 	capital = STATE_ALAND
 }
 WEST_KARELIA = {
-	color = { 255 233 135 }
+	color = { 75 133 178 }
 	country_type = recognized
 	tier = principality
 	cultures = { finnish }
 	capital = STATE_WEST_KARELIA
 }
 OSTROBOTHNIA = {
-	color = { 0 191 255 }
+	color = { 255 104 109 }
+	country_type = recognized
+	tier = principality
+	cultures = { finnish swedish }
+	capital = STATE_OSTROBOTHNIA
+}
+KUOPIO = {
+	color = { 181 27 36 }
 	country_type = recognized
 	tier = principality
 	cultures = { finnish }
-	capital = STATE_OSTROBOTHNIA
+	capital = STATE_KUOPIO
 }
-ESTONIA = {
-	color = { 242 223 209 }
+OULU = {
+	color = { 238 243 205 }
+	country_type = recognized
+	tier = principality
+	cultures = { finnish }
+	capital = STATE_OULU
+}
+TALINN = {
+	color = { 150 252 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { estonian }
-	capital = STATE_ESTONIA
+	capital = STATE_TALINN
 }
-LATVIA = {
-	color = { 171 27 28 }
+TARTU = {
+	color = { 176 242 57 }
+	country_type = recognized
+	tier = principality
+	cultures = { estonian }
+	capital = STATE_TARTU
+}
+RIGA = {
+	color = { 49 136 84 }
 	country_type = recognized
 	tier = principality
 	cultures = { latvian }
-	capital = STATE_LATVIA
+	capital = STATE_RIGA
 }
-LITHUANIA = {
-	color = { 45 140 92 }
+COURLAND = {
+	color = { 17 80 137 }
+	country_type = recognized
+	tier = principality
+	cultures = { latvian }
+	capital = STATE_COURLAND
+}
+KAUNAS = {
+	color = { 0 239 240 }
 	country_type = recognized
 	tier = principality
 	cultures = { lithuanian }
-	capital = STATE_LITHUANIA
+	capital = STATE_KAUNAS
 }
-CHUKOTKA = {
-	color = { 255 127 73 }
+VILNIUS = {
+	color = { 36 177 171 }
 	country_type = recognized
 	tier = principality
-	cultures = { siberian inuit }
+	cultures = { lithuanian }
+	capital = STATE_VILNIUS
+}
+CHUKOTKA = {
+	color = { 110 142 57 }
+	country_type = recognized
+	tier = principality
+	cultures = { siberian }
 	capital = STATE_CHUKOTKA
 }
 NENETSIA = {
-	color = { 134 115 0 }
+	color = { 104 127 139 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian ugrian }
 	capital = STATE_NENETSIA
 }
 EAST_KARELIA = {
-	color = { 251 48 43 }
+	color = { 255 216 2 }
 	country_type = recognized
 	tier = principality
-	cultures = { russian finnish }
+	cultures = { russian karelian }
 	capital = STATE_EAST_KARELIA
 }
+KOLA = {
+	color = { 235 210 184 }
+	country_type = recognized
+	tier = principality
+	cultures = { russian }
+	capital = STATE_KOLA
+}
 ARKHANGELSK = {
-	color = { 180 34 30 }
+	color = { 252 128 68 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_ARKHANGELSK
 }
 TARTARIA = {
-	color = { 173 255 51 }
+	color = { 0 254 152 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_TARTARIA
 }
 KHIVA = {
-	color = { 130 194 236 }
+	color = { 230 211 89 }
 	country_type = recognized
 	tier = principality
 	cultures = { uzbek }
 	capital = STATE_KHIVA
 }
 UZBEKIA = {
-	color = { 155 192 203 }
+	color = { 144 73 42 }
 	country_type = recognized
 	tier = principality
 	cultures = { uzbek }
 	capital = STATE_UZBEKIA
 }
 TAJIKISTAN = {
-	color = { 71 209 124 }
+	color = { 160 45 39 }
 	country_type = recognized
 	tier = principality
-	cultures = { tajik uzbek }
+	cultures = { tajik }
 	capital = STATE_TAJIKISTAN
 }
 KIRGHIZIA = {
-	color = { 255 253 238 }
+	color = { 243 236 208 }
 	country_type = recognized
 	tier = principality
 	cultures = { kirgiz uzbek }
 	capital = STATE_KIRGHIZIA
 }
 URALSK = {
-	color = { 255 249 252 }
+	color = { 107 118 138 }
 	country_type = recognized
 	tier = principality
 	cultures = { kazak }
 	capital = STATE_URALSK
 }
 TURKMENIA = {
-	color = { 0 169 153 }
+	color = { 128 135 134 }
 	country_type = recognized
 	tier = principality
-	cultures = { turkmen uzbek }
+	cultures = { turkmen }
 	capital = STATE_TURKMENIA
 }
 SEMIRECHE = {
-	color = { 242 232 210 }
+	color = { 254 123 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { kazak }
 	capital = STATE_SEMIRECHE
 }
 JETISY = {
-	color = { 69 204 207 }
+	color = { 203 83 60 }
 	country_type = recognized
 	tier = principality
-	cultures = { kazak }
+	cultures = { kazak uighur }
 	capital = STATE_JETISY
 }
 AKMOLINSK = {
-	color = { 143 50 37 }
+	color = { 242 151 4 }
 	country_type = recognized
 	tier = principality
 	cultures = { kazak }
 	capital = STATE_AKMOLINSK
 }
 KAMCHATKA = {
-	color = { 233 102 99 }
+	color = { 0 238 2 }
 	country_type = recognized
 	tier = principality
 	cultures = { siberian russian }
 	capital = STATE_KAMCHATKA
 }
 OKHOTSK = {
-	color = { 255 235 212 }
+	color = { 194 188 171 }
 	country_type = recognized
 	tier = principality
-	cultures = { yakut }
+	cultures = { siberian }
 	capital = STATE_OKHOTSK
 }
 YAKUTSK = {
-	color = { 203 180 136 }
+	color = { 88 141 79 }
 	country_type = recognized
 	tier = principality
 	cultures = { yakut }
 	capital = STATE_YAKUTSK
 }
 TRANS_BAIKAL = {
-	color = { 251 105 109 }
+	color = { 255 182 19 }
 	country_type = recognized
 	tier = principality
-	cultures = { russian manchu }
+	cultures = { russian }
 	capital = STATE_TRANS_BAIKAL
 }
 IRKUTSK = {
-	color = { 250 231 184 }
+	color = { 1 236 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_IRKUTSK
 }
 TOMSK = {
-	color = { 91 170 242 }
+	color = { 145 190 144 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_TOMSK
 }
 TUVA = {
-	color = { 0 207 201 }
+	color = { 255 94 75 }
 	country_type = recognized
 	tier = principality
 	cultures = { tuvan }
 	capital = STATE_TUVA
 }
 TOBOLSK = {
-	color = { 144 137 59 }
+	color = { 140 53 57 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_TOBOLSK
 }
 UPPER_YENISEYSK = {
-	color = { 238 123 0 }
+	color = { 36 69 137 }
 	country_type = recognized
 	tier = principality
-	cultures = { siberian }
+	cultures = { russian }
 	capital = STATE_UPPER_YENISEYSK
 }
 OB = {
-	color = { 209 89 92 }
+	color = { 118 199 203 }
 	country_type = recognized
 	tier = principality
 	cultures = { ugrian }
 	capital = STATE_OB
 }
 URAL = {
-	color = { 135 138 136 }
+	color = { 109 138 30 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_URAL
 }
 SAMARA = {
-	color = { 240 236 222 }
+	color = { 254 246 235 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_SAMARA
 }
 KAZAN = {
-	color = { 0 100 139 }
+	color = { 206 101 32 }
 	country_type = recognized
 	tier = principality
-	cultures = { russian }
+	cultures = { tatar russian }
 	capital = STATE_KAZAN
 }
 PERM = {
-	color = { 76 115 255 }
+	color = { 255 100 5 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_PERM
 }
 GALICH = {
-	color = { 158 201 55 }
+	color = { 0 194 137 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_GALICH
 }
-TVER = {
-	color = { 102 201 0 }
+NOVGOROD = {
+	color = { 245 219 175 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
-	capital = STATE_TVER
+	capital = STATE_NOVGOROD
 }
 MOSCOW = {
-	color = { 210 187 148 }
+	color = { 47 160 197 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_MOSCOW
 }
 DAGESTAN = {
-	color = { 255 241 147 }
+	color = { 75 143 206 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_caucasian }
 	capital = STATE_DAGESTAN
 }
 KUBAN = {
-	color = { 146 240 236 }
+	color = { 236 250 237 }
 	country_type = recognized
 	tier = principality
 	cultures = { circassian }
 	capital = STATE_KUBAN
 }
-ASTRAKHAN = {
-	color = { 95 36 18 }
+STAVROPOL = {
+	color = { 2 210 97 }
 	country_type = recognized
 	tier = principality
-	cultures = { kalmyk }
+	cultures = { russian ukrainian }
+	capital = STATE_STAVROPOL
+}
+ASTRAKHAN = {
+	color = { 0 202 201 }
+	country_type = recognized
+	tier = principality
+	cultures = { russian }
 	capital = STATE_ASTRAKHAN
 }
 CRIMEA = {
-	color = { 49 161 199 }
+	color = { 103 134 101 }
 	country_type = recognized
 	tier = principality
-	cultures = { tatar }
+	cultures = { tatar russian }
 	capital = STATE_CRIMEA
 }
-LUHANSK = {
-	color = { 162 186 208 }
+KHARKOV = {
+	color = { 158 82 46 }
 	country_type = recognized
 	tier = principality
 	cultures = { ukrainian }
-	capital = STATE_LUHANSK
+	capital = STATE_KHARKOV
 }
 KURSK = {
-	color = { 214 243 234 }
+	color = { 207 202 186 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian ukrainian }
 	capital = STATE_KURSK
 }
-NOVGOROD = {
-	color = { 174 228 243 }
+TVER = {
+	color = { 135 135 80 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
-	capital = STATE_NOVGOROD
+	capital = STATE_TVER
 }
 CHERSON = {
-	color = { 4 183 233 }
+	color = { 208 185 160 }
 	country_type = recognized
 	tier = principality
 	cultures = { ukrainian }
 	capital = STATE_CHERSON
 }
 BESSARABIA = {
-	color = { 243 233 135 }
+	color = { 255 113 82 }
 	country_type = recognized
 	tier = principality
 	cultures = { romanian }
 	capital = STATE_BESSARABIA
 }
-BRYANSK = {
-	color = { 0 252 255 }
+ORYOL = {
+	color = { 140 118 101 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
-	capital = STATE_BRYANSK
+	capital = STATE_ORYOL
 }
 SMOLENSK = {
-	color = { 139 83 63 }
+	color = { 180 243 184 }
 	country_type = recognized
 	tier = principality
 	cultures = { russian }
 	capital = STATE_SMOLENSK
 }
-ORSHA = {
-	color = { 177 218 226 }
+MOGILEV = {
+	color = { 238 178 10 }
 	country_type = recognized
 	tier = principality
 	cultures = { byelorussian }
-	capital = STATE_ORSHA
+	capital = STATE_MOGILEV
 }
 CAMPANIA = {
-	color = { 126 138 131 }
+	color = { 243 5 4 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_italian }
 	capital = STATE_CAMPANIA
 }
 ABRUZZO = {
-	color = { 109 131 144 }
+	color = { 132 205 246 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_italian }
 	capital = STATE_ABRUZZO
 }
 CALABRIA = {
-	color = { 255 67 67 }
+	color = { 155 250 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_italian }
 	capital = STATE_CALABRIA
 }
 APULIA = {
-	color = { 204 195 181 }
+	color = { 2 203 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_italian }
 	capital = STATE_APULIA
 }
 WEST_GALICIA = {
-	color = { 241 225 140 }
+	color = { 117 193 118 }
 	country_type = recognized
 	tier = principality
 	cultures = { polish }
 	capital = STATE_WEST_GALICIA
 }
 EAST_GALICIA = {
-	color = { 200 41 35 }
+	color = { 90 159 157 }
 	country_type = recognized
 	tier = principality
 	cultures = { ukrainian polish }
 	capital = STATE_EAST_GALICIA
 }
 WEST_SLOVAKIA = {
-	color = { 140 142 2 }
+	color = { 83 109 45 }
 	country_type = recognized
 	tier = principality
 	cultures = { slovak }
 	capital = STATE_WEST_SLOVAKIA
 }
 EAST_SLOVAKIA = {
-	color = { 150 252 148 }
+	color = { 113 126 136 }
 	country_type = recognized
 	tier = principality
 	cultures = { slovak }
 	capital = STATE_EAST_SLOVAKIA
 }
 DALMATIA = {
-	color = { 242 123 5 }
+	color = { 199 253 107 }
 	country_type = recognized
 	tier = principality
 	cultures = { croat }
 	capital = STATE_DALMATIA
 }
 CROATIA = {
-	color = { 128 255 0 }
+	color = { 140 62 42 }
 	country_type = recognized
 	tier = principality
 	cultures = { croat }
 	capital = STATE_CROATIA
 }
 SLAVONIA = {
-	color = { 171 255 51 }
+	color = { 194 179 108 }
 	country_type = recognized
 	tier = principality
 	cultures = { croat }
 	capital = STATE_SLAVONIA
 }
 BEKES = {
-	color = { 255 242 142 }
+	color = { 175 23 26 }
 	country_type = recognized
 	tier = principality
 	cultures = { romanian hungarian }
 	capital = STATE_BEKES
 }
 TRANSDANUBIA = {
-	color = { 109 198 109 }
+	color = { 101 142 39 }
 	country_type = recognized
 	tier = principality
 	cultures = { hungarian }
 	capital = STATE_TRANSDANUBIA
 }
 ISTRIA = {
-	color = { 200 191 166 }
+	color = { 142 143 121 }
 	country_type = recognized
 	tier = principality
 	cultures = { slovene }
 	capital = STATE_ISTRIA
 }
 LOMBARDY = {
-	color = { 4 137 0 }
+	color = { 186 214 239 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_italian }
 	capital = STATE_LOMBARDY
 }
 BOHEMIA = {
-	color = { 202 91 87 }
+	color = { 253 243 225 }
 	country_type = recognized
 	tier = principality
 	cultures = { czech south_german }
 	capital = STATE_BOHEMIA
 }
 MORAVIA = {
-	color = { 243 216 215 }
+	color = { 135 135 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { czech }
 	capital = STATE_MORAVIA
 }
 CENTRAL_HUNGARY = {
-	color = { 22 121 204 }
+	color = { 218 188 133 }
 	country_type = recognized
 	tier = principality
 	cultures = { hungarian }
 	capital = STATE_CENTRAL_HUNGARY
 }
 STYRIA = {
-	color = { 200 171 151 }
+	color = { 65 90 175 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_german }
 	capital = STATE_STYRIA
 }
 TYROL = {
-	color = { 95 182 250 }
+	color = { 135 126 119 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_german }
 	capital = STATE_TYROL
 }
 AUSTRIA = {
-	color = { 32 145 255 }
+	color = { 136 70 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_german }
 	capital = STATE_AUSTRIA
 }
 SOUTH_TYROL = {
-	color = { 209 38 42 }
+	color = { 83 234 146 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_german }
 	capital = STATE_SOUTH_TYROL
 }
 SLOVENIA = {
-	color = { 194 255 204 }
+	color = { 3 126 123 }
 	country_type = recognized
 	tier = principality
 	cultures = { slovene }
 	capital = STATE_SLOVENIA
 }
 DELVIDEK = {
-	color = { 42 68 139 }
+	color = { 57 91 167 }
 	country_type = recognized
 	tier = principality
 	cultures = { serb }
 	capital = STATE_DELVIDEK
 }
 POSEN = {
-	color = { 130 190 238 }
+	color = { 138 243 237 }
 	country_type = recognized
 	tier = principality
 	cultures = { polish north_german }
 	capital = STATE_POSEN
 }
 WESTPHALIA = {
-	color = { 123 236 0 }
+	color = { 239 199 1 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_WESTPHALIA
 }
 ANHALT = {
-	color = { 253 232 183 }
+	color = { 84 149 204 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_ANHALT
 }
 WEST_PRUSSIA = {
-	color = { 95 39 14 }
+	color = { 240 117 64 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german polish }
 	capital = STATE_WEST_PRUSSIA
 }
 EAST_PRUSSIA = {
-	color = { 30 182 168 }
+	color = { 241 244 220 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_EAST_PRUSSIA
 }
 RHINELAND = {
-	color = { 176 223 255 }
+	color = { 2 199 137 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german south_german }
 	capital = STATE_RHINELAND
 }
 NORTH_RHINE = {
-	color = { 64 136 115 }
+	color = { 124 254 3 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_NORTH_RHINE
 }
 RUHR = {
-	color = { 123 133 148 }
+	color = { 136 209 231 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_RUHR
 }
 SILESIA = {
-	color = { 44 75 74 }
+	color = { 103 167 205 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german polish }
 	capital = STATE_SILESIA
 }
 BRANDENBURG = {
-	color = { 255 238 218 }
+	color = { 114 241 201 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_BRANDENBURG
 }
 SCHLESWIG_HOLSTEIN = {
-	color = { 126 247 0 }
+	color = { 60 147 143 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_SCHLESWIG_HOLSTEIN
 }
 WURTTEMBERG = {
-	color = { 254 126 110 }
+	color = { 57 102 142 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_german }
 	capital = STATE_WURTTEMBERG
 }
 BADEN = {
-	color = { 210 203 166 }
+	color = { 137 38 39 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_german }
 	capital = STATE_BADEN
 }
 HANNOVER = {
-	color = { 143 121 99 }
+	color = { 3 133 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_HANNOVER
 }
 BAVARIA = {
-	color = { 239 222 200 }
+	color = { 251 239 231 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_german }
 	capital = STATE_BAVARIA
 }
 FRANCONIA = {
-	color = { 251 245 142 }
+	color = { 195 255 192 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_german }
 	capital = STATE_FRANCONIA
 }
 SAXONY = {
-	color = { 75 234 145 }
+	color = { 148 249 255 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_SAXONY
 }
 BRUNSWICK = {
-	color = { 234 178 179 }
+	color = { 159 216 233 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_BRUNSWICK
 }
 HESSE = {
-	color = { 155 255 255 }
+	color = { 235 127 97 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_HESSE
 }
 PIEDMONT = {
-	color = { 216 162 30 }
+	color = { 209 104 60 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_italian }
 	capital = STATE_PIEDMONT
 }
 SARDINIA = {
-	color = { 123 192 234 }
+	color = { 0 249 250 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_italian }
 	capital = STATE_SARDINIA
 }
 TARAPACA = {
-	color = { 85 107 47 }
+	color = { 209 199 160 }
 	country_type = recognized
 	tier = principality
 	cultures = { aimara }
 	capital = STATE_TARAPACA
 }
 ANTOFAGASTA = {
-	color = { 255 66 3 }
+	color = { 161 97 34 }
 	country_type = recognized
 	tier = principality
 	cultures = { aimara south_andean }
 	capital = STATE_ANTOFAGASTA
 }
 BREST = {
-	color = { 151 188 200 }
+	color = { 237 56 64 }
 	country_type = recognized
 	tier = principality
 	cultures = { byelorussian }
 	capital = STATE_BREST
 }
 GREATER_POLAND = {
-	color = { 174 228 252 }
+	color = { 143 107 19 }
 	country_type = recognized
 	tier = principality
 	cultures = { polish }
 	capital = STATE_GREATER_POLAND
 }
 LESSER_POLAND = {
-	color = { 240 221 127 }
+	color = { 232 150 34 }
 	country_type = recognized
 	tier = principality
 	cultures = { polish }
 	capital = STATE_LESSER_POLAND
 }
 MAZOVIA = {
-	color = { 3 192 202 }
+	color = { 240 216 187 }
 	country_type = recognized
 	tier = principality
 	cultures = { polish }
 	capital = STATE_MAZOVIA
 }
 VOLHYNIA = {
-	color = { 53 138 140 }
+	color = { 203 173 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { ukrainian }
 	capital = STATE_VOLHYNIA
 }
 KIEV = {
-	color = { 2 1 234 }
+	color = { 200 204 162 }
 	country_type = recognized
 	tier = principality
 	cultures = { ukrainian }
 	capital = STATE_KIEV
 }
 MECKLENBURG = {
-	color = { 210 110 35 }
+	color = { 203 168 0 }
 	country_type = recognized
 	tier = principality
 	cultures = { north_german }
 	capital = STATE_MECKLENBURG
 }
 MALTA = {
-	color = { 122 201 203 }
+	color = { 205 130 4 }
 	country_type = recognized
 	tier = principality
 	cultures = { maltese }
 	capital = STATE_MALTA
 }
 UMBRIA = {
-	color = { 136 139 133 }
+	color = { 202 201 112 }
 	country_type = recognized
 	tier = principality
 	cultures = { south_italian }
 	capital = STATE_UMBRIA
 }
 BANAT = {
-	color = { 255 244 215 }
+	color = { 97 203 1 }
 	country_type = recognized
 	tier = principality
 	cultures = { romanian }
 	capital = STATE_BANAT
 }
 CORSICA = {
-	color = { 185 129 12 }
+	color = { 0 197 139 }
 	country_type = recognized
 	tier = principality
 	cultures = { corsican }
 	capital = STATE_CORSICA
 }
-PASHTUNISTAN = {
-	color = { 252 251 209 }
-	country_type = recognized
-	tier = principality
-	cultures = { pashtun }
-	capital = STATE_PASHTUNISTAN
-}
 UTAH = {
-	color = { 159 78 41 }
+	color = { 205 180 135 }
 	country_type = recognized
 	tier = principality
 	cultures = { paiute }
 	capital = STATE_UTAH
 }
 SOUTH_CAROLINA = {
-	color = { 115 203 109 }
+	color = { 141 75 36 }
 	country_type = recognized
 	tier = principality
 	cultures = { afro_american dixie }
 	capital = STATE_SOUTH_CAROLINA
 }
 CHIAPAS = {
-	color = { 240 102 85 }
+	color = { 201 112 82 }
 	country_type = recognized
 	tier = principality
 	cultures = { mayan mexican }
 	capital = STATE_CHIAPAS
 }
 SAN_SALVADOR = {
-	color = { 136 141 116 }
+	color = { 210 84 55 }
 	country_type = recognized
 	tier = principality
 	cultures = { central_american }
 	capital = STATE_SAN_SALVADOR
 }
 ADANA = {
-	color = { 49 157 206 }
+	color = { 200 200 2 }
 	country_type = recognized
 	tier = principality
 	cultures = { turkish }
 	capital = STATE_ADANA
 }
 DEIR_EZ_ZOR = {
-	color = { 139 138 51 }
+	color = { 110 169 202 }
 	country_type = recognized
 	tier = principality
 	cultures = { mashriqi }
 	capital = STATE_DEIR_EZ_ZOR
 }
 BAJA_CALIFORNIA = {
-	color = { 146 210 201 }
+	color = { 190 242 252 }
 	country_type = recognized
 	tier = principality
 	cultures = { oodham mexican }
 	capital = STATE_BAJA_CALIFORNIA
 }
 CONNAUGHT = {
-	color = { 74 239 150 }
+	color = { 202 99 24 }
 	country_type = recognized
 	tier = principality
 	cultures = { irish }
 	capital = STATE_CONNAUGHT
+}
+FERGANA = {
+	color = { 253 249 206 }
+	country_type = recognized
+	tier = principality
+	cultures = { uzbek }
+	capital = STATE_FERGANA
+}
+MERZ = {
+	color = { 99 125 137 }
+	country_type = recognized
+	tier = principality
+	cultures = { turkmen }
+	capital = STATE_MERZ
+}
+SYRDARYA = {
+	color = { 255 122 77 }
+	country_type = recognized
+	tier = principality
+	cultures = { kazak }
+	capital = STATE_SYRDARYA
+}
+AKTOBE = {
+	color = { 251 252 205 }
+	country_type = recognized
+	tier = principality
+	cultures = { kazak }
+	capital = STATE_AKTOBE
+}
+KALMYKIA = {
+	color = { 239 122 62 }
+	country_type = recognized
+	tier = principality
+	cultures = { kalmyk }
+	capital = STATE_KALMYKIA
+}
+NORTH_CAUCASUS = {
+	color = { 207 136 65 }
+	country_type = recognized
+	tier = principality
+	cultures = { north_caucasian }
+	capital = STATE_NORTH_CAUCASUS
+}
+TAURIDA = {
+	color = { 0 125 132 }
+	country_type = recognized
+	tier = principality
+	cultures = { ukrainian }
+	capital = STATE_TAURIDA
+}
+CHERNIHIV = {
+	color = { 150 249 153 }
+	country_type = recognized
+	tier = principality
+	cultures = { ukrainian }
+	capital = STATE_CHERNIHIV
+}
+TAMBOV = {
+	color = { 254 0 0 }
+	country_type = recognized
+	tier = principality
+	cultures = { russian }
+	capital = STATE_TAMBOV
+}
+RYAZAN = {
+	color = { 136 135 132 }
+	country_type = recognized
+	tier = principality
+	cultures = { russian }
+	capital = STATE_RYAZAN
+}
+VITEBSK = {
+	color = { 189 187 111 }
+	country_type = recognized
+	tier = principality
+	cultures = { byelorussian }
+	capital = STATE_VITEBSK
+}
+PSKOV = {
+	color = { 176 227 252 }
+	country_type = recognized
+	tier = principality
+	cultures = { russian }
+	capital = STATE_PSKOV
+}
+YAROSLAVL = {
+	color = { 255 99 66 }
+	country_type = recognized
+	tier = principality
+	cultures = { russian }
+	capital = STATE_YAROSLAVL
+}
+NIZHNY_NOVGOROD = {
+	color = { 112 197 110 }
+	country_type = recognized
+	tier = principality
+	cultures = { russian }
+	capital = STATE_NIZHNY_NOVGOROD
+}
+CHUVASHIA = {
+	color = { 141 4 0 }
+	country_type = recognized
+	tier = principality
+	cultures = { chuvash russian }
+	capital = STATE_CHUVASHIA
+}
+VYATKA = {
+	color = { 240 222 129 }
+	country_type = recognized
+	tier = principality
+	cultures = { russian }
+	capital = STATE_VYATKA
+}
+UFA = {
+	color = { 251 194 32 }
+	country_type = recognized
+	tier = principality
+	cultures = { bashkir russian }
+	capital = STATE_UFA
+}
+SURGUT = {
+	color = { 0 176 235 }
+	country_type = recognized
+	tier = principality
+	cultures = { ugrian }
+	capital = STATE_SURGUT
+}
+KRASNOYARSK = {
+	color = { 141 55 58 }
+	country_type = recognized
+	tier = principality
+	cultures = { russian }
+	capital = STATE_KRASNOYARSK
+}
+ALTAI = {
+	color = { 105 136 30 }
+	country_type = recognized
+	tier = principality
+	cultures = { mongol }
+	capital = STATE_ALTAI
+}
+BURYATIA = {
+	color = { 241 150 115 }
+	country_type = recognized
+	tier = principality
+	cultures = { buryat russian }
+	capital = STATE_BURYATIA
+}
+KOLYMA = {
+	color = { 117 199 204 }
+	country_type = recognized
+	tier = principality
+	cultures = { yakut }
+	capital = STATE_KOLYMA
+}
+AMUR = {
+	color = { 143 91 67 }
+	country_type = recognized
+	tier = principality
+	cultures = { siberian }
+	capital = STATE_AMUR
+}
+CHELYABINSK = {
+	color = { 129 254 3 }
+	country_type = recognized
+	tier = principality
+	cultures = { russian }
+	capital = STATE_CHELYABINSK
 }

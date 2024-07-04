@@ -5,10 +5,7 @@ import org.victoriaThreeShatterer.combinator.combineStateData
 import org.victoriaThreeShatterer.configuration.getGeneralConfiguration
 import org.victoriaThreeShatterer.creators.*
 import org.victoriaThreeShatterer.parsers.customFiles.readColorPalette
-import org.victoriaThreeShatterer.parsers.gameFiles.dropAllBuildingData
-import org.victoriaThreeShatterer.parsers.gameFiles.getConsolidatedBuildingsMap
-import org.victoriaThreeShatterer.parsers.gameFiles.getConsolidatedPopMap
-import org.victoriaThreeShatterer.parsers.gameFiles.readStatesFile
+import org.victoriaThreeShatterer.parsers.gameFiles.*
 import org.victoriaThreeShatterer.utils.*
 
 const val patchVersion = "1-7-1"
@@ -28,7 +25,8 @@ fun main() {
     println("Start parsing files")
     val colorPalette = readColorPalette("src/main/resources/colorPalette.json")
     val stateMap = readStatesFile(gameFilesFolderPath.plus("00_states.txt"))
-    val compactPopMap = getConsolidatedPopMap(patchVersion)
+    //val compactPopMap = getConsolidatedPopMap(patchVersion)
+    val compactPopMap = getConsolidatedPopMapWithGenericRegionalMapping(patchVersion)
     var buildingsMap = getConsolidatedBuildingsMap(patchVersion)
     println("Done parsing files")
 

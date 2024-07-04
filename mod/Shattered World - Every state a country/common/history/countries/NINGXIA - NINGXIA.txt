@@ -1,5 +1,0 @@
-﻿COUNTRIES = {
-	c:NINGXIA = {
-	effect_starting_technology_tier_5_tech = yes
-	}
-}

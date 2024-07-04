@@ -1,5 +1,0 @@
-﻿COUNTRIES = {
-	c:SOUTH_ATLANTIC_ISLANDS = {
-	effect_starting_technology_tier_5_tech = yes
-	}
-}

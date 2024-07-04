@@ -9,30 +9,29 @@ import java.io.File
 
 fun createCountriesFiles(compactPopMap: MutableMap<String, List<PopulationData>>) {
 
-
     var text = ""
     text += format(0, "COUNTRIES = {", 1)
     compactPopMap.keys.forEach {
         text += format(1, "c:${it} = {", 1)
-        text += format(1, "${compactPopMap.get(it)!!.first().regionalMapping.technologyBase} = yes", 1)
+        text += format(2, "${compactPopMap.get(it)!!.first().regionalMapping.technologyBase} = yes", 1)
 
-        text += format(1, "activate_law = law_type:law_monarchy", 1)
-        text += format(1, "activate_law = law_type:law_autocracy", 1)
-        text += format(1, "activate_law = law_type:law_freedom_of_conscience", 1)
-        text += format(1, "activate_law = law_type:law_no_womens_rights", 1)
-        text += format(1, "activate_law = law_type:law_land_based_taxation", 1)
-        text += format(1, "activate_law = law_type:law_appointed_bureaucrats", 1)
-        text += format(1, "activate_law = law_type:law_national_supremacy", 1)
-        text += format(1, "activate_law = law_type:law_mercantilism", 1)
-        text += format(1, "activate_law = law_type:law_tenant_farmers", 1)
-        text += format(1, "activate_law = law_type:law_interventionism", 1)
-        text += format(1, "activate_law = law_type:law_professional_army", 1)
-        text += format(1, "activate_law = law_type:law_censorship", 1)
-        text += format(1, "activate_law = law_type:law_migration_controls", 1)
+        text += format(2, "activate_law = law_type:law_monarchy", 1)
+        text += format(2, "activate_law = law_type:law_autocracy", 1)
+        text += format(2, "activate_law = law_type:law_state_religion", 1)
+        text += format(2, "activate_law = law_type:law_no_womens_rights", 1)
+        text += format(2, "activate_law = law_type:law_land_based_taxation", 1)
+        text += format(2, "activate_law = law_type:law_hereditary_bureaucrats", 1)
+        text += format(2, "activate_law = law_type:law_national_supremacy", 1)
+        text += format(2, "activate_law = law_type:law_mercantilism", 1)
+        text += format(2, "activate_law = law_type:law_tenant_farmers", 1)
+        text += format(2, "activate_law = law_type:law_interventionism", 1)
+        text += format(2, "activate_law = law_type:law_professional_army", 1)
+        text += format(2, "activate_law = law_type:law_censorship", 1)
+        text += format(2, "activate_law = law_type:law_migration_controls", 1)
         text += format(1, "}", 1)
     }
     text += format(0, "}", 1)
-    printFile("game/common/history/countries/", "allCountries.txt", text)
+    printFile("game/common/history/countries/", "00_all_countries.txt", text)
 }
 
 fun createCountriesFilesProvincesMode(combinedStateData: MutableMap<String, CombinedStateData>) {

@@ -23,6 +23,9 @@ fun createFormables(stateMap: MutableMap<String, State>, colorPalette: List<RgbC
         text += format(1, "use_culture_states = yes", 1)
         text += format(1, "required_states_fraction = 0.51", 1)
         text += format(1, "ai_will_do = { always = yes }", 1)
+        text += format(1, "possible = {", 1)
+        text += format(2, "has_technology_researched = pan-nationalism", 1)
+        text += format(1, "}", 1)
         text += format(0, "}", 1)
     }
 

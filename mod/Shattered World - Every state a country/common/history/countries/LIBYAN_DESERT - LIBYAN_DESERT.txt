@@ -1,5 +1,0 @@
-﻿COUNTRIES = {
-	c:LIBYAN_DESERT = {
-	effect_starting_technology_tier_5_tech = yes
-	}
-}
