@@ -95,21 +95,26 @@ fun readPopsFile(path: String, regionalMapping: RegionalMapping): MutableMap<Str
             ).toSet()
 
         createPopBlock.forEach {
-            val culture = Regex("culture ?= ([a-z,_]*)").find(it.groupValues[1])!!.groupValues[1]
-            val amountOfPops = Regex("size = (\\d{1,20})").find(it.groupValues[1])!!.groupValues[1]
-            val religion = Regex("religion = ([a-z,_]*)").find(it.groupValues[1])?.groupValues?.get(1) ?: "none"
+            try {
+                val culture = Regex("culture ?= ([a-z,_]*)").find(it.groupValues[1])!!.groupValues[1]
+                val amountOfPops = Regex("size = (\\d{1,20})").find(it.groupValues[1])!!.groupValues[1]
+                val religion = Regex("religion = ([a-z,_]*)").find(it.groupValues[1])?.groupValues?.get(1) ?: "none"
 
-            // if an entry exists that matches state, culture and religion update it, else new
-            val mapKey = "${stateName}-${culture}-${religion}"
-            populationMap.get(mapKey)?.let {
-                populationMap.set(
+                // if an entry exists that matches state, culture and religion update it, else new
+                val mapKey = "${stateName}-${culture}-${religion}"
+                populationMap.get(mapKey)?.let {
+                    populationMap.set(
+                        mapKey,
+                        PopulationData(stateName, culture, amountOfPops.toInt() + it.popNumber, religion, regionalMapping)
+                    )
+                } ?: populationMap.set(
                     mapKey,
-                    PopulationData(stateName, culture, amountOfPops.toInt() + it.popNumber, religion, regionalMapping)
+                    PopulationData(stateName, culture, amountOfPops.toInt(), religion, regionalMapping)
                 )
-            } ?: populationMap.set(
-                mapKey,
-                PopulationData(stateName, culture, amountOfPops.toInt(), religion, regionalMapping)
-            )
+            } catch (e: Exception) {
+                println("Error parsing: $stateName")
+            }
+
         }
     }
 

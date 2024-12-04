@@ -1887,11 +1887,19 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
+	c:EASTERN_HIMALAYAS = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
 	c:BIHAR = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
-	c:NORTH_BENGAL = {
+	c:WEST_BENGAL = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	c:EAST_BENGAL = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
@@ -1911,7 +1919,7 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
-	c:CENTRAL_INDIA = {
+	c:MALWA = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
@@ -1923,11 +1931,7 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
-	c:NAGPUR = {
-		effect_starting_pop_wealth_low = yes
-		effect_starting_pop_literacy_baseline = yes
-	}
-	c:SOUTH_BENGAL = {
+	c:CENTRAL_PROVINCES = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
@@ -1972,6 +1976,22 @@
 		effect_starting_pop_literacy_baseline = yes
 	}
 	c:BOMBAY = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	c:KURNOOL = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	c:BUNDELKHAND = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	c:AGRA = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	c:HILL_PUNJAB = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
@@ -2167,11 +2187,15 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
-	c:BURMA = {
+	c:MANDALAY = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
 	c:PEGU = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	c:ARAKAN = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
@@ -2380,10 +2404,6 @@
 		effect_starting_pop_literacy_very_low = yes
 	}
 	c:SOUTH_ISLAND = {
-		effect_starting_pop_wealth_low = yes
-		effect_starting_pop_literacy_very_low = yes
-	}
-	c:URAL = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_very_low = yes
 	}
@@ -2632,6 +2652,10 @@
 		effect_starting_pop_literacy_very_low = yes
 	}
 	c:CHELYABINSK = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+	}
+	c:URAL = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_very_low = yes
 	}

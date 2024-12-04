@@ -494,6 +494,14 @@ NAT_HUNGARIAN = {
 		has_technology_researched = pan-nationalism
 	}
 }
+NAT_SZEKELY = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
 NAT_HAWAIIAN = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -1294,6 +1302,46 @@ NAT_MARATHI = {
 		has_technology_researched = pan-nationalism
 	}
 }
+NAT_CHHATTISGARHI = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_GONDI = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_DECCANI = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_BAGELI = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_BUNDELI = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
 NAT_KANNADA = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -1334,14 +1382,6 @@ NAT_GUJARATI = {
 		has_technology_researched = pan-nationalism
 	}
 }
-NAT_AVADHI = {
-	use_culture_states = yes
-	required_states_fraction = 0.51
-	ai_will_do = { always = yes }
-	possible = {
-		has_technology_researched = pan-nationalism
-	}
-}
 NAT_BIHARI = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -1366,7 +1406,23 @@ NAT_MANIPURI = {
 		has_technology_researched = pan-nationalism
 	}
 }
-NAT_KANAUJI = {
+NAT_NAGA = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_AVADHI = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_HINDUSTANI = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }
@@ -2223,6 +2279,30 @@ NAT_UDMURT = {
 	}
 }
 NAT_BASHKIR = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_PATHAN = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_LUSHAI = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_PAHARI = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }

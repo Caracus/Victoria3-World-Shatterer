@@ -1,1674 +1,1734 @@
 ﻿NAT_RUSSIAN = {
-	color = { 129 194 233 }
+	color = { 125 201 129 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { russian }
 }
 NAT_BYELORUSSIAN = {
-	color = { 136 64 1 }
+	color = { 253 247 255 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { byelorussian }
 }
 NAT_DIXIE = {
-	color = { 185 254 254 }
+	color = { 254 242 213 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { dixie }
 }
 NAT_AFRO_AMERICAN = {
-	color = { 134 204 250 }
+	color = { 253 187 17 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { afro_american }
 }
 NAT_CAJUN = {
-	color = { 240 153 115 }
+	color = { 132 131 5 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { cajun }
 }
 NAT_AFRO_ANTILLEAN = {
-	color = { 126 138 127 }
+	color = { 200 224 253 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { afro_antillean }
 }
 NAT_YANKEE = {
-	color = { 231 227 249 }
+	color = { 138 80 54 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { yankee }
 }
 NAT_IROQUOIAN = {
-	color = { 79 137 88 }
+	color = { 205 183 179 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { iroquoian }
 }
 NAT_MISRI = {
-	color = { 239 115 0 }
+	color = { 207 134 67 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { misri }
 }
 NAT_BRITISH = {
-	color = { 144 58 42 }
+	color = { 140 125 121 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { british }
 }
 NAT_FRENCH = {
-	color = { 170 215 230 }
+	color = { 5 190 252 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { french }
 }
 NAT_OCCITAN = {
-	color = { 251 241 228 }
+	color = { 101 207 172 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { occitan }
 }
 NAT_SPANISH = {
-	color = { 7 166 158 }
+	color = { 255 131 70 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { spanish }
 }
 NAT_DUTCH = {
-	color = { 33 137 233 }
+	color = { 240 238 204 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { dutch }
 }
 NAT_BALUCHI = {
-	color = { 184 139 140 }
+	color = { 240 117 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { baluchi }
 }
 NAT_PASHTUN = {
-	color = { 138 37 34 }
+	color = { 209 74 54 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { pashtun }
 }
 NAT_BENGALI = {
-	color = { 252 46 49 }
+	color = { 76 210 206 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bengali }
 }
 NAT_BULGARIAN = {
-	color = { 203 55 47 }
+	color = { 81 137 142 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bulgarian }
 }
 NAT_ROMANIAN = {
-	color = { 198 93 24 }
+	color = { 255 249 218 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { romanian }
 }
 NAT_TURKISH = {
-	color = { 107 123 139 }
+	color = { 152 252 149 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { turkish }
 }
 NAT_MASHRIQI = {
-	color = { 0 123 125 }
+	color = { 52 124 22 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mashriqi }
 }
 NAT_BEDOUIN = {
-	color = { 246 247 210 }
+	color = { 255 128 84 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bedouin }
 }
 NAT_GREEK = {
-	color = { 123 240 3 }
+	color = { 234 223 200 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { greek }
 }
 NAT_VIETNAMESE = {
-	color = { 47 74 78 }
+	color = { 179 225 255 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { vietnamese }
 }
 NAT_KHMER = {
-	color = { 193 202 193 }
+	color = { 239 197 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { khmer }
 }
 NAT_HAN = {
-	color = { 255 198 38 }
+	color = { 0 196 201 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { han }
 }
 NAT_UKRAINIAN = {
-	color = { 143 74 56 }
+	color = { 57 140 62 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { ukrainian }
 }
 NAT_NORTH_ITALIAN = {
-	color = { 1 255 132 }
+	color = { 255 162 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { north_italian }
 }
 NAT_NORTH_GERMAN = {
-	color = { 205 134 5 }
+	color = { 249 235 234 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { north_german }
 }
 NAT_INUIT = {
-	color = { 160 201 159 }
+	color = { 250 51 46 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { inuit }
 }
 NAT_SALISH = {
-	color = { 168 220 233 }
+	color = { 255 255 225 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { salish }
 }
 NAT_ATHABASKAN = {
-	color = { 163 82 41 }
+	color = { 193 203 190 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { athabaskan }
 }
 NAT_NEZ_PERCE = {
-	color = { 1 204 208 }
+	color = { 253 123 59 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { nez_perce }
 }
 NAT_PAIUTE = {
-	color = { 255 128 38 }
+	color = { 201 198 176 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { paiute }
 }
 NAT_SIOUAN = {
-	color = { 205 186 110 }
+	color = { 98 158 165 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { siouan }
 }
 NAT_DAKOTA = {
-	color = { 0 255 252 }
+	color = { 202 52 46 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { dakota }
 }
 NAT_CHEROKEE = {
-	color = { 255 65 65 }
+	color = { 80 234 147 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { cherokee }
 }
 NAT_ALGONQUIAN = {
-	color = { 201 107 54 }
+	color = { 0 173 240 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { algonquian }
 }
 NAT_CADDOAN = {
-	color = { 70 108 226 }
+	color = { 112 144 63 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { caddoan }
 }
 NAT_MUSKOGEAN = {
-	color = { 207 107 79 }
+	color = { 69 204 199 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { muskogean }
 }
 NAT_MEXICAN = {
-	color = { 94 118 142 }
+	color = { 242 63 5 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mexican }
 }
 NAT_COMANCHE = {
-	color = { 188 255 255 }
+	color = { 153 208 208 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { comanche }
 }
 NAT_ANGLO_CANADIAN = {
-	color = { 251 237 203 }
+	color = { 205 99 27 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { anglo_canadian }
 }
 NAT_CREE = {
-	color = { 0 108 138 }
+	color = { 152 197 201 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { cree }
 }
 NAT_METIS = {
-	color = { 0 234 119 }
+	color = { 30 149 251 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { metis }
 }
 NAT_FRANCO_CANADIAN = {
-	color = { 255 0 0 }
+	color = { 180 241 53 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { franco_canadian }
 }
 NAT_MAYAN = {
-	color = { 4 233 233 }
+	color = { 251 249 251 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mayan }
 }
 NAT_CENTRAL_AMERICAN = {
-	color = { 242 235 131 }
+	color = { 242 109 80 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { central_american }
 }
 NAT_MISKITO = {
-	color = { 210 145 12 }
+	color = { 182 35 36 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { miskito }
 }
 NAT_AFRO_CARIBENO = {
-	color = { 141 121 122 }
+	color = { 96 123 144 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { afro_caribeno }
 }
 NAT_CARIBENO = {
-	color = { 255 161 123 }
+	color = { 238 124 67 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { caribeno }
 }
 NAT_PLATINEAN = {
-	color = { 155 255 254 }
+	color = { 143 116 104 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { platinean }
 }
 NAT_NORTH_ANDEAN = {
-	color = { 222 170 100 }
+	color = { 197 255 67 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { north_andean }
 }
 NAT_QUECHUA = {
-	color = { 142 147 59 }
+	color = { 138 132 122 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { quechua }
 }
 NAT_SWEDISH = {
-	color = { 255 198 198 }
+	color = { 243 200 3 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { swedish }
 }
 NAT_SAMI = {
-	color = { 1 251 155 }
+	color = { 131 204 252 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sami }
 }
 NAT_SOUTH_ITALIAN = {
-	color = { 5 203 212 }
+	color = { 208 98 33 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { south_italian }
 }
 NAT_ALBANIAN = {
-	color = { 173 36 32 }
+	color = { 251 252 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { albanian }
 }
 NAT_BOSNIAK = {
-	color = { 242 42 45 }
+	color = { 239 236 207 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bosniak }
 }
 NAT_SERB = {
-	color = { 235 235 255 }
+	color = { 255 138 110 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { serb }
 }
 NAT_CROAT = {
-	color = { 254 44 45 }
+	color = { 200 88 74 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { croat }
 }
 NAT_HUNGARIAN = {
-	color = { 120 201 206 }
+	color = { 252 252 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { hungarian }
 }
+NAT_SZEKELY = {
+	color = { 83 255 154 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { szekely }
+}
 NAT_HAWAIIAN = {
-	color = { 67 126 180 }
+	color = { 254 167 74 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { hawaiian }
 }
 NAT_GALICIAN = {
-	color = { 252 132 85 }
+	color = { 219 182 135 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { galician }
 }
 NAT_BASQUE = {
-	color = { 205 181 154 }
+	color = { 235 199 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { basque }
 }
 NAT_CATALAN = {
-	color = { 251 133 2 }
+	color = { 209 50 52 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { catalan }
 }
 NAT_AUSTRALIAN = {
-	color = { 125 203 210 }
+	color = { 209 179 161 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { australian }
 }
 NAT_ABORIGINE = {
-	color = { 242 154 0 }
+	color = { 64 150 67 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { aborigine }
 }
 NAT_MAORI = {
-	color = { 153 250 255 }
+	color = { 238 219 206 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { maori }
 }
 NAT_MICRONESIAN = {
-	color = { 140 209 249 }
+	color = { 255 240 214 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { micronesian }
 }
 NAT_JAVAN = {
-	color = { 5 238 3 }
+	color = { 127 200 121 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { javan }
 }
 NAT_TAMIL = {
-	color = { 255 180 14 }
+	color = { 143 136 116 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tamil }
 }
 NAT_SINHALA = {
-	color = { 44 130 15 }
+	color = { 131 123 101 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sinhala }
 }
 NAT_MONGOL = {
-	color = { 168 44 41 }
+	color = { 0 104 142 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mongol }
 }
 NAT_YEMENITE = {
-	color = { 210 190 113 }
+	color = { 236 245 253 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { yemenite }
 }
 NAT_MAGHREBI = {
-	color = { 5 200 204 }
+	color = { 1 241 255 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { maghrebi }
 }
 NAT_BERBER = {
-	color = { 144 147 55 }
+	color = { 0 236 238 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { berber }
 }
 NAT_FULBE = {
-	color = { 255 115 84 }
+	color = { 134 54 42 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { fulbe }
 }
 NAT_MANDE = {
-	color = { 2 201 91 }
+	color = { 79 142 81 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mande }
 }
 NAT_DYULA = {
-	color = { 4 140 136 }
+	color = { 181 223 255 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { dyula }
 }
 NAT_KISSI = {
-	color = { 83 139 81 }
+	color = { 149 201 51 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kissi }
 }
 NAT_AKAN = {
-	color = { 237 117 62 }
+	color = { 121 202 205 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { akan }
 }
 NAT_MOSSI = {
-	color = { 81 255 154 }
+	color = { 145 208 207 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mossi }
 }
 NAT_EWE = {
-	color = { 105 210 173 }
+	color = { 132 142 135 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { ewe }
 }
 NAT_FON = {
-	color = { 151 191 205 }
+	color = { 220 179 131 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { fon }
 }
 NAT_YORUBA = {
-	color = { 189 243 103 }
+	color = { 107 131 141 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { yoruba }
 }
 NAT_SONGHAI = {
-	color = { 148 255 152 }
+	color = { 68 116 255 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { songhai }
 }
 NAT_FANG = {
-	color = { 255 197 37 }
+	color = { 13 77 138 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { fang }
 }
 NAT_EQUATORIAL_BANTU = {
-	color = { 137 242 237 }
+	color = { 96 123 144 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { equatorial_bantu }
 }
 NAT_BAKONGO = {
-	color = { 232 234 250 }
+	color = { 188 235 255 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bakongo }
 }
 NAT_TSWANA = {
-	color = { 255 235 139 }
+	color = { 224 253 250 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tswana }
 }
 NAT_HERERO = {
-	color = { 49 160 199 }
+	color = { 207 203 184 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { herero }
 }
 NAT_KHOISAN = {
-	color = { 0 139 68 }
+	color = { 141 130 80 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { khoisan }
 }
 NAT_NGUNI = {
-	color = { 51 104 137 }
+	color = { 18 83 136 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { nguni }
 }
 NAT_KAVANGO_BANTU = {
-	color = { 243 153 4 }
+	color = { 140 127 100 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kavango_bantu }
 }
 NAT_LUNDA = {
-	color = { 255 111 88 }
+	color = { 108 170 202 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { lunda }
 }
 NAT_CHEWA = {
-	color = { 252 131 117 }
+	color = { 207 84 58 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { chewa }
 }
 NAT_FRANCOPROVENCAL = {
-	color = { 189 208 233 }
+	color = { 250 127 4 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { francoprovencal }
 }
 NAT_KRU = {
-	color = { 246 239 215 }
+	color = { 251 94 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kru }
 }
 NAT_BASSA = {
-	color = { 48 75 74 }
+	color = { 242 255 236 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bassa }
 }
 NAT_NAVAJO = {
-	color = { 81 241 151 }
+	color = { 194 207 197 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { navajo }
 }
 NAT_APACHE = {
-	color = { 143 97 13 }
+	color = { 255 96 4 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { apache }
 }
 NAT_PUEBLO = {
-	color = { 215 104 26 }
+	color = { 203 205 192 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { pueblo }
 }
 NAT_HOKAN = {
-	color = { 140 73 24 }
+	color = { 1 229 240 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { hokan }
 }
 NAT_OODHAM = {
-	color = { 143 104 103 }
+	color = { 135 202 250 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { oodham }
 }
 NAT_NAHUA = {
-	color = { 139 80 57 }
+	color = { 255 124 5 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { nahua }
 }
 NAT_ZAPOTEC = {
-	color = { 157 208 85 }
+	color = { 143 70 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { zapotec }
 }
 NAT_MIXTEC = {
-	color = { 243 237 186 }
+	color = { 195 188 169 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mixtec }
 }
 NAT_AMAZONIAN = {
-	color = { 253 255 220 }
+	color = { 0 234 235 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { amazonian }
 }
 NAT_AFRO_CARIBBEAN = {
-	color = { 208 202 187 }
+	color = { 140 135 76 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { afro_caribbean }
 }
 NAT_GUAJIRO = {
-	color = { 0 209 214 }
+	color = { 255 241 218 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { guajiro }
 }
 NAT_CARIBAN = {
-	color = { 184 236 101 }
+	color = { 140 129 81 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { cariban }
 }
 NAT_MUISCA = {
-	color = { 203 2 5 }
+	color = { 188 237 107 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { muisca }
 }
 NAT_SOUTH_ANDEAN = {
-	color = { 151 206 158 }
+	color = { 218 182 135 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { south_andean }
 }
 NAT_AIMARA = {
-	color = { 122 139 153 }
+	color = { 122 134 140 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { aimara }
 }
 NAT_BRAZILIAN = {
-	color = { 234 120 68 }
+	color = { 0 135 73 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { brazilian }
 }
 NAT_AMAZONIC = {
-	color = { 251 155 117 }
+	color = { 255 4 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { amazonic }
 }
 NAT_AFRO_BRAZILIAN = {
-	color = { 121 233 4 }
+	color = { 71 109 235 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { afro_brazilian }
 }
 NAT_NORDESTINO = {
-	color = { 249 230 197 }
+	color = { 195 206 196 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { nordestino }
 }
 NAT_TUPINAMBA = {
-	color = { 253 253 243 }
+	color = { 112 202 118 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tupinamba }
 }
 NAT_PAULISTA = {
-	color = { 241 252 247 }
+	color = { 186 138 143 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { paulista }
 }
 NAT_GUARANI = {
-	color = { 214 185 137 }
+	color = { 28 114 206 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { guarani }
 }
 NAT_SULISTA = {
-	color = { 241 69 0 }
+	color = { 141 185 148 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sulista }
 }
 NAT_PATAGONIAN = {
-	color = { 249 255 249 }
+	color = { 253 65 61 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { patagonian }
 }
 NAT_ICELANDIC = {
-	color = { 87 173 237 }
+	color = { 67 214 205 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { icelandic }
 }
 NAT_BIDAN = {
-	color = { 140 23 29 }
+	color = { 115 140 158 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bidan }
 }
 NAT_TUAREG = {
-	color = { 28 146 252 }
+	color = { 170 242 234 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tuareg }
 }
 NAT_TEDA = {
-	color = { 202 173 120 }
+	color = { 127 140 136 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { teda }
 }
 NAT_BEJA = {
-	color = { 143 73 39 }
+	color = { 29 178 169 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { beja }
 }
 NAT_SUDANESE = {
-	color = { 71 129 181 }
+	color = { 2 128 132 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sudanese }
 }
 NAT_DINKA = {
-	color = { 206 80 88 }
+	color = { 253 254 242 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { dinka }
 }
 NAT_NUBA = {
-	color = { 92 126 134 }
+	color = { 0 151 203 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { nuba }
 }
 NAT_FUR = {
-	color = { 235 168 14 }
+	color = { 142 185 139 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { fur }
 }
 NAT_NUER = {
-	color = { 144 130 129 }
+	color = { 255 122 68 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { nuer }
 }
 NAT_OVIMBUNDU = {
-	color = { 250 232 178 }
+	color = { 200 201 173 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { ovimbundu }
 }
 NAT_TONGA = {
-	color = { 120 200 203 }
+	color = { 67 226 203 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tonga }
 }
 NAT_SHONA = {
-	color = { 196 109 109 }
+	color = { 33 134 235 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { shona }
 }
 NAT_MAKUA = {
-	color = { 0 199 87 }
+	color = { 0 195 141 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { makua }
 }
 NAT_SENA = {
-	color = { 243 197 0 }
+	color = { 137 123 105 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sena }
 }
 NAT_YAO = {
-	color = { 139 144 127 }
+	color = { 252 255 221 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { yao }
 }
 NAT_LOMWE = {
-	color = { 175 27 34 }
+	color = { 123 5 4 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { lomwe }
 }
 NAT_LACUSTRINE_BANTU = {
-	color = { 255 141 0 }
+	color = { 142 140 117 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { lacustrine_bantu }
 }
 NAT_XHOSA = {
-	color = { 142 121 102 }
+	color = { 168 252 44 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { xhosa }
 }
 NAT_BOER = {
-	color = { 233 231 218 }
+	color = { 251 190 12 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { boer }
 }
 NAT_SOTHO = {
-	color = { 247 218 176 }
+	color = { 137 88 69 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sotho }
 }
 NAT_WELSH = {
-	color = { 17 81 137 }
+	color = { 207 189 155 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { welsh }
 }
 NAT_SCOTTISH = {
-	color = { 29 115 205 }
+	color = { 137 238 236 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { scottish }
 }
 NAT_IRISH = {
-	color = { 252 127 0 }
+	color = { 252 168 76 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { irish }
 }
 NAT_FLEMISH = {
-	color = { 0 163 159 }
+	color = { 7 163 153 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { flemish }
 }
 NAT_SOUTH_GERMAN = {
-	color = { 128 134 128 }
+	color = { 150 247 250 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { south_german }
 }
 NAT_ALEMANNIC = {
-	color = { 127 143 129 }
+	color = { 68 201 125 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { alemannic }
 }
 NAT_BRETON = {
-	color = { 144 33 3 }
+	color = { 143 137 56 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { breton }
 }
 NAT_PORTUGUESE = {
-	color = { 239 141 35 }
+	color = { 2 159 209 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { portuguese }
 }
 NAT_WALLONIAN = {
-	color = { 3 240 120 }
+	color = { 206 107 2 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { wallonian }
 }
 NAT_DANISH = {
-	color = { 255 244 143 }
+	color = { 74 117 141 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { danish }
 }
 NAT_NORWEGIAN = {
-	color = { 241 202 0 }
+	color = { 159 212 241 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { norwegian }
 }
 NAT_ORIYA = {
-	color = { 234 43 48 }
+	color = { 140 137 128 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { oriya }
 }
 NAT_SINDI = {
-	color = { 207 202 190 }
+	color = { 254 196 39 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sindi }
 }
 NAT_RAJPUT = {
-	color = { 198 203 191 }
+	color = { 72 142 121 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { rajput }
 }
 NAT_TELEGU = {
-	color = { 194 244 251 }
+	color = { 99 126 140 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { telegu }
 }
 NAT_PANJABI = {
-	color = { 126 247 0 }
+	color = { 122 204 200 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { panjabi }
 }
 NAT_MARATHI = {
-	color = { 239 104 83 }
+	color = { 204 175 137 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { marathi }
 }
+NAT_CHHATTISGARHI = {
+	color = { 0 208 4 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { chhattisgarhi }
+}
+NAT_GONDI = {
+	color = { 235 100 97 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { gondi }
+}
+NAT_DECCANI = {
+	color = { 186 205 242 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { deccani }
+}
+NAT_BAGELI = {
+	color = { 238 226 209 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { bageli }
+}
+NAT_BUNDELI = {
+	color = { 163 177 206 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { bundeli }
+}
 NAT_KANNADA = {
-	color = { 206 194 111 }
+	color = { 240 251 244 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kannada }
 }
 NAT_MALAYALAM = {
-	color = { 129 136 135 }
+	color = { 249 251 210 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { malayalam }
 }
 NAT_KASHMIRI = {
-	color = { 143 228 233 }
+	color = { 0 201 206 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kashmiri }
 }
 NAT_TIBETAN = {
-	color = { 36 176 172 }
+	color = { 178 207 202 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tibetan }
 }
 NAT_GUJARATI = {
-	color = { 255 211 153 }
+	color = { 153 201 52 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { gujarati }
 }
-NAT_AVADHI = {
-	color = { 254 121 67 }
-	country_type = recognized
-	tier = kingdom
-	cultures = { avadhi }
-}
 NAT_BIHARI = {
-	color = { 203 252 109 }
+	color = { 104 147 236 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bihari }
 }
 NAT_ASSAMESE = {
-	color = { 3 99 141 }
+	color = { 250 0 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { assamese }
 }
 NAT_MANIPURI = {
-	color = { 48 139 82 }
+	color = { 5 253 150 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { manipuri }
 }
-NAT_KANAUJI = {
-	color = { 144 56 41 }
+NAT_NAGA = {
+	color = { 94 127 144 }
 	country_type = recognized
 	tier = kingdom
-	cultures = { kanauji }
+	cultures = { naga }
+}
+NAT_AVADHI = {
+	color = { 143 66 41 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { avadhi }
+}
+NAT_HINDUSTANI = {
+	color = { 65 127 179 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { hindustani }
 }
 NAT_BURMESE = {
-	color = { 84 144 82 }
+	color = { 134 134 132 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { burmese }
 }
 NAT_KAREN = {
-	color = { 255 132 0 }
+	color = { 236 126 123 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { karen }
 }
 NAT_THAI = {
-	color = { 142 53 31 }
+	color = { 97 41 15 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { thai }
 }
 NAT_KACHIN = {
-	color = { 33 142 254 }
+	color = { 0 159 209 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kachin }
 }
 NAT_SHAN = {
-	color = { 189 235 102 }
+	color = { 58 149 69 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { shan }
 }
 NAT_MON = {
-	color = { 250 226 182 }
+	color = { 78 117 141 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mon }
 }
 NAT_SUMATRAN = {
-	color = { 234 227 205 }
+	color = { 5 165 163 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sumatran }
 }
 NAT_BATAK = {
-	color = { 254 235 219 }
+	color = { 55 208 46 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { batak }
 }
 NAT_MELANESIAN = {
-	color = { 242 208 185 }
+	color = { 245 232 217 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { melanesian }
 }
 NAT_MOLUCCAN = {
-	color = { 241 234 0 }
+	color = { 123 201 201 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { moluccan }
 }
 NAT_BORNEAN = {
-	color = { 252 215 184 }
+	color = { 113 138 59 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bornean }
 }
 NAT_DAYAK = {
-	color = { 119 144 135 }
+	color = { 251 162 117 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { dayak }
 }
 NAT_BALINESE = {
-	color = { 247 255 252 }
+	color = { 233 232 206 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { balinese }
 }
 NAT_MALAY = {
-	color = { 250 217 188 }
+	color = { 252 233 199 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { malay }
 }
 NAT_FILIPINO = {
-	color = { 175 237 235 }
+	color = { 200 134 5 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { filipino }
 }
 NAT_MORO = {
-	color = { 143 85 48 }
+	color = { 173 227 255 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { moro }
 }
 NAT_MALAGASY = {
-	color = { 95 158 159 }
+	color = { 194 191 175 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { malagasy }
 }
 NAT_OROMO = {
-	color = { 58 149 61 }
+	color = { 65 148 69 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { oromo }
 }
 NAT_AMHARA = {
-	color = { 142 237 236 }
+	color = { 131 139 134 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { amhara }
 }
 NAT_SOMALI = {
-	color = { 252 238 209 }
+	color = { 1 142 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { somali }
 }
 NAT_KIKUYU = {
-	color = { 0 255 254 }
+	color = { 205 198 161 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kikuyu }
 }
 NAT_SIDAMA = {
-	color = { 56 98 144 }
+	color = { 226 169 101 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sidama }
 }
 NAT_TIGRAY = {
-	color = { 42 142 88 }
+	color = { 236 207 156 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tigray }
 }
 NAT_AFAR = {
-	color = { 0 179 233 }
+	color = { 252 67 62 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { afar }
 }
 NAT_SWAHILI = {
-	color = { 64 103 229 }
+	color = { 133 135 129 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { swahili }
 }
 NAT_MAASAI = {
-	color = { 144 120 4 }
+	color = { 142 79 62 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { maasai }
 }
 NAT_LUO = {
-	color = { 206 51 46 }
+	color = { 0 129 130 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { luo }
 }
 NAT_NILOTIC = {
-	color = { 59 86 170 }
+	color = { 45 132 22 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { nilotic }
 }
 NAT_SARA = {
-	color = { 238 126 100 }
+	color = { 19 80 136 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sara }
 }
 NAT_BAGUIRMI = {
-	color = { 194 191 165 }
+	color = { 198 210 188 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { baguirmi }
 }
 NAT_UNYAMWEZI = {
-	color = { 252 241 226 }
+	color = { 144 140 123 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { unyamwezi }
 }
 NAT_SUKUMA = {
-	color = { 236 129 129 }
+	color = { 247 255 255 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sukuma }
 }
 NAT_RUNDI = {
-	color = { 171 21 31 }
+	color = { 200 115 110 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { rundi }
 }
 NAT_RUANDA = {
-	color = { 115 241 202 }
+	color = { 142 71 17 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { ruanda }
 }
 NAT_HARATIN = {
-	color = { 35 179 166 }
+	color = { 255 250 141 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { haratin }
 }
 NAT_BAMBARA = {
-	color = { 206 202 190 }
+	color = { 235 199 146 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bambara }
 }
 NAT_SENUFO = {
-	color = { 233 212 164 }
+	color = { 68 212 207 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { senufo }
 }
 NAT_HAUSA = {
-	color = { 233 228 199 }
+	color = { 75 206 199 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { hausa }
 }
 NAT_TIV = {
-	color = { 207 85 90 }
+	color = { 204 178 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tiv }
 }
 NAT_IBO = {
-	color = { 69 125 184 }
+	color = { 137 137 60 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { ibo }
 }
 NAT_EDO = {
-	color = { 0 144 138 }
+	color = { 140 126 102 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { edo }
 }
 NAT_IBIBIO = {
-	color = { 200 151 32 }
+	color = { 253 61 62 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { ibibio }
 }
 NAT_KANURI = {
-	color = { 195 202 193 }
+	color = { 158 187 208 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kanuri }
 }
 NAT_LUBA = {
-	color = { 255 215 150 }
+	color = { 123 193 203 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { luba }
 }
 NAT_FLUVIAN_BANTU = {
-	color = { 106 140 103 }
+	color = { 63 113 242 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { fluvian_bantu }
 }
 NAT_AZANDE = {
-	color = { 155 197 204 }
+	color = { 243 123 63 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { azande }
 }
 NAT_MONGO = {
-	color = { 192 253 62 }
+	color = { 201 200 169 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mongo }
 }
 NAT_BAGANDA = {
-	color = { 178 26 30 }
+	color = { 210 106 60 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { baganda }
 }
 NAT_WOLOF = {
-	color = { 31 183 174 }
+	color = { 251 216 189 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { wolof }
 }
 NAT_ZULU = {
-	color = { 138 83 70 }
+	color = { 165 79 40 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { zulu }
 }
 NAT_POLYNESIAN = {
-	color = { 2 203 82 }
+	color = { 250 129 4 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { polynesian }
 }
 NAT_KURDISH = {
-	color = { 140 105 106 }
+	color = { 134 124 105 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kurdish }
 }
 NAT_ASSYRIAN = {
-	color = { 189 148 138 }
+	color = { 234 223 205 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { assyrian }
 }
 NAT_PERSIAN = {
-	color = { 241 153 114 }
+	color = { 239 212 175 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { persian }
 }
 NAT_TURKMEN = {
-	color = { 115 127 140 }
+	color = { 78 234 143 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { turkmen }
 }
 NAT_LURI = {
-	color = { 139 180 200 }
+	color = { 2 129 137 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { luri }
 }
 NAT_MAZANDERANI = {
-	color = { 181 243 54 }
+	color = { 204 206 205 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mazanderani }
 }
 NAT_ARMENIAN = {
-	color = { 208 89 93 }
+	color = { 123 192 202 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { armenian }
 }
 NAT_AZERBAIJANI = {
-	color = { 56 139 139 }
+	color = { 203 224 255 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { azerbaijani }
 }
 NAT_GEORGIAN = {
-	color = { 204 106 62 }
+	color = { 141 243 143 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { georgian }
 }
 NAT_TAJIK = {
-	color = { 0 252 0 }
+	color = { 216 170 32 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tajik }
 }
 NAT_HAZARA = {
-	color = { 242 132 124 }
+	color = { 34 143 254 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { hazara }
 }
 NAT_UZBEK = {
-	color = { 251 61 59 }
+	color = { 200 187 117 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { uzbek }
 }
 NAT_LAO = {
-	color = { 251 132 82 }
+	color = { 243 96 104 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { lao }
 }
 NAT_KHMU = {
-	color = { 255 227 203 }
+	color = { 62 85 175 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { khmu }
 }
 NAT_KOREAN = {
-	color = { 159 206 154 }
+	color = { 206 169 130 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { korean }
 }
 NAT_SIBERIAN = {
-	color = { 190 240 255 }
+	color = { 203 171 125 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { siberian }
 }
 NAT_AINU = {
-	color = { 204 169 3 }
+	color = { 160 208 156 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { ainu }
 }
 NAT_JAPANESE = {
-	color = { 137 35 0 }
+	color = { 233 242 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { japanese }
 }
 NAT_NEPALI = {
-	color = { 248 223 182 }
+	color = { 238 0 5 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { nepali }
 }
 NAT_UIGHUR = {
-	color = { 144 140 134 }
+	color = { 136 127 119 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { uighur }
 }
 NAT_YI = {
-	color = { 201 199 168 }
+	color = { 4 204 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { yi }
 }
 NAT_ZHUANG = {
-	color = { 140 123 99 }
+	color = { 209 76 54 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { zhuang }
 }
 NAT_YUE = {
-	color = { 253 248 148 }
+	color = { 71 204 204 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { yue }
 }
 NAT_HAKKA = {
-	color = { 250 255 253 }
+	color = { 203 80 60 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { hakka }
 }
 NAT_MANCHU = {
-	color = { 50 159 201 }
+	color = { 186 214 236 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { manchu }
 }
 NAT_MIN = {
-	color = { 67 210 130 }
+	color = { 235 234 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { min }
 }
 NAT_MIAO = {
-	color = { 240 235 192 }
+	color = { 67 201 131 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { miao }
 }
 NAT_YUANZHUMIN = {
-	color = { 252 2 0 }
+	color = { 109 139 36 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { yuanzhumin }
 }
 NAT_FINNISH = {
-	color = { 143 185 208 }
+	color = { 106 204 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { finnish }
 }
 NAT_ESTONIAN = {
-	color = { 104 210 0 }
+	color = { 237 227 165 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { estonian }
 }
 NAT_LATVIAN = {
-	color = { 254 195 33 }
+	color = { 111 125 144 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { latvian }
 }
 NAT_LITHUANIAN = {
-	color = { 138 132 82 }
+	color = { 242 48 46 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { lithuanian }
 }
 NAT_POLISH = {
-	color = { 99 33 22 }
+	color = { 237 236 174 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { polish }
 }
 NAT_UGRIAN = {
-	color = { 108 169 202 }
+	color = { 162 45 37 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { ugrian }
 }
 NAT_KARELIAN = {
-	color = { 252 61 61 }
+	color = { 101 210 166 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { karelian }
 }
 NAT_TATAR = {
-	color = { 241 214 207 }
+	color = { 100 118 140 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tatar }
 }
 NAT_KAZAK = {
-	color = { 141 76 57 }
+	color = { 4 252 255 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kazak }
 }
 NAT_KIRGIZ = {
-	color = { 204 201 178 }
+	color = { 254 63 65 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kirgiz }
 }
 NAT_YAKUT = {
-	color = { 210 202 0 }
+	color = { 19 77 144 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { yakut }
 }
 NAT_BURYAT = {
-	color = { 141 115 96 }
+	color = { 5 158 205 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { buryat }
 }
 NAT_TUVAN = {
-	color = { 3 136 142 }
+	color = { 201 179 159 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { tuvan }
 }
 NAT_NORTH_CAUCASIAN = {
-	color = { 240 235 0 }
+	color = { 196 251 189 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { north_caucasian }
 }
 NAT_CIRCASSIAN = {
-	color = { 0 143 141 }
+	color = { 179 23 34 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { circassian }
 }
 NAT_SLOVAK = {
-	color = { 215 110 26 }
+	color = { 171 255 47 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { slovak }
 }
 NAT_SLOVENE = {
-	color = { 240 237 201 }
+	color = { 219 15 58 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { slovene }
 }
 NAT_CZECH = {
-	color = { 237 242 0 }
+	color = { 181 240 53 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { czech }
 }
 NAT_SORB = {
-	color = { 156 253 151 }
+	color = { 32 174 173 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { sorb }
 }
 NAT_MALTESE = {
-	color = { 184 237 105 }
+	color = { 27 118 200 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { maltese }
 }
 NAT_CORSICAN = {
-	color = { 236 117 61 }
+	color = { 210 185 183 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { corsican }
 }
 NAT_KALMYK = {
-	color = { 139 102 109 }
+	color = { 176 195 226 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { kalmyk }
 }
 NAT_CHECHEN = {
-	color = { 255 150 18 }
+	color = { 1 204 0 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { chechen }
 }
 NAT_MORDVIN = {
-	color = { 127 140 144 }
+	color = { 255 251 208 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mordvin }
 }
 NAT_CHUVASH = {
-	color = { 88 255 156 }
+	color = { 157 246 152 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { chuvash }
 }
 NAT_MARI = {
-	color = { 127 250 0 }
+	color = { 151 203 153 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { mari }
 }
 NAT_UDMURT = {
-	color = { 255 170 5 }
+	color = { 135 99 13 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { udmurt }
 }
 NAT_BASHKIR = {
-	color = { 236 208 171 }
+	color = { 207 81 54 }
 	country_type = recognized
 	tier = kingdom
 	cultures = { bashkir }
+}
+NAT_PATHAN = {
+	color = { 56 84 174 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { pathan }
+}
+NAT_LUSHAI = {
+	color = { 0 136 64 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { lushai }
+}
+NAT_PAHARI = {
+	color = { 96 40 20 }
+	country_type = recognized
+	tier = kingdom
+	cultures = { pahari }
 }

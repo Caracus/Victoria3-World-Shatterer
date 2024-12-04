@@ -7551,6 +7551,22 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
+	c:EASTERN_HIMALAYAS = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
 	c:BIHAR = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
@@ -7567,7 +7583,23 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:NORTH_BENGAL = {
+	c:WEST_BENGAL = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:EAST_BENGAL = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -7647,7 +7679,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:CENTRAL_INDIA = {
+	c:MALWA = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -7695,23 +7727,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:NAGPUR = {
-		effect_starting_technology_tier_2_tech = yes
-		activate_law = law_type:law_monarchy
-		activate_law = law_type:law_autocracy
-		activate_law = law_type:law_state_religion
-		activate_law = law_type:law_no_womens_rights
-		activate_law = law_type:law_land_based_taxation
-		activate_law = law_type:law_hereditary_bureaucrats
-		activate_law = law_type:law_national_supremacy
-		activate_law = law_type:law_mercantilism
-		activate_law = law_type:law_tenant_farmers
-		activate_law = law_type:law_interventionism
-		activate_law = law_type:law_professional_army
-		activate_law = law_type:law_censorship
-		activate_law = law_type:law_migration_controls
-	}
-	c:SOUTH_BENGAL = {
+	c:CENTRAL_PROVINCES = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -7888,6 +7904,70 @@
 		activate_law = law_type:law_migration_controls
 	}
 	c:BOMBAY = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:KURNOOL = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:BUNDELKHAND = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:AGRA = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:HILL_PUNJAB = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -8671,7 +8751,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:BURMA = {
+	c:MANDALAY = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -8688,6 +8768,22 @@
 		activate_law = law_type:law_migration_controls
 	}
 	c:PEGU = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:ARAKAN = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -9520,22 +9616,6 @@
 		activate_law = law_type:law_migration_controls
 	}
 	c:SOUTH_ISLAND = {
-		effect_starting_technology_tier_2_tech = yes
-		activate_law = law_type:law_monarchy
-		activate_law = law_type:law_autocracy
-		activate_law = law_type:law_state_religion
-		activate_law = law_type:law_no_womens_rights
-		activate_law = law_type:law_land_based_taxation
-		activate_law = law_type:law_hereditary_bureaucrats
-		activate_law = law_type:law_national_supremacy
-		activate_law = law_type:law_mercantilism
-		activate_law = law_type:law_tenant_farmers
-		activate_law = law_type:law_interventionism
-		activate_law = law_type:law_professional_army
-		activate_law = law_type:law_censorship
-		activate_law = law_type:law_migration_controls
-	}
-	c:URAL = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -10528,6 +10608,22 @@
 		activate_law = law_type:law_migration_controls
 	}
 	c:CHELYABINSK = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:URAL = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy

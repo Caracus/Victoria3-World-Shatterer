@@ -59,7 +59,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:SOUTH_BENGAL = {
+	c:EAST_BENGAL = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -1514,7 +1514,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:NAGPUR = {
+	c:CENTRAL_PROVINCES = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -1549,7 +1549,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:CENTRAL_INDIA = {
+	c:MALWA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -1564,7 +1564,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:NORTH_BENGAL = {
+	c:WEST_BENGAL = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -1599,7 +1599,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:BURMA = {
+	c:MANDALAY = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -3295,6 +3295,36 @@
 		set_strategy = ai_strategy_nationalist_agenda
 	}
 	c:CHELYABINSK = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KURNOOL = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:BUNDELKHAND = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:AGRA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ARAKAN = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HILL_PUNJAB = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EASTERN_HIMALAYAS = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
