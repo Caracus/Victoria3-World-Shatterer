@@ -1,7 +1,9 @@
 package org.victoriaThreeShatterer.parsers.gameFiles
 
 import org.victoriaThreeShatterer.models.BuildingData
+import org.victoriaThreeShatterer.models.State
 import org.victoriaThreeShatterer.utils.readFileAsText
+import kotlin.collections.set
 
 fun getConsolidatedBuildingsMap(patchVersion: String): MutableMap<String, MutableList<BuildingData>> {
     var westEuropeBuildings = readBuildingsFile("src/main/resources/GameFiles/$patchVersion/buildings/00_west_europe.txt")
@@ -83,5 +85,15 @@ fun dropAllBuildingData(buildingMap: MutableMap<String, MutableList<BuildingData
     for (key in buildingMap.keys) {
         buildingMap[key] = mutableListOf()
     }
+    return buildingMap
+}
+
+fun initEmptyBuildings(stateMap: MutableMap<String, State>): MutableMap<String, MutableList<BuildingData>> {
+    val buildingMap = mutableMapOf<String, MutableList<BuildingData>>()
+    stateMap.keys.forEach {
+        val stateName = stateMap[it]!!.stateName
+        buildingMap[stateName] = mutableListOf()
+    }
+
     return buildingMap
 }

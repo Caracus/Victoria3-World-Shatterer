@@ -61,8 +61,7 @@ fun createCountriesFilesProvincesMode(combinedStateData: MutableMap<String, Comb
 fun createCountryDefinitionsFile(
     stateMap: MutableMap<String, State>,
     compactPopMap: MutableMap<String, List<PopulationData>>,
-    colorPalette: List<RgbColor>,
-    pathToVictoria3GameFolder: String
+    colorPalette: List<RgbColor>
 ) {
 
     var text = ""
@@ -105,16 +104,6 @@ fun createCountryDefinitionsFile(
 
         text += format(0, "}", 1)
     }
-
-    //add all possible countries to the end of file, so they are formable
-    /**
-    File(pathToVictoria3GameFolder.plus("common/country_definitions/")).walk().forEach {
-    if (it.isFile){
-    val textOfFile = it.readText(Charsets.UTF_8)
-    text += textOfFile
-    }
-    }
-     */
 
     printFile("game/common/country_definitions/", "00_countries.txt", text)
 }

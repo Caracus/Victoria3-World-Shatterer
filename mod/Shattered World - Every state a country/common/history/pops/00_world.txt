@@ -9915,16 +9915,16 @@
 		region_state:HIMALAYAS = {
 			create_pop = {
 				culture = nepali
-				size = 619204
+				size = 2786418
 			}
 			create_pop = {
 				culture = bihari
-				size = 172000
+				size = 688000
 				religion = animist
 			}
 			create_pop = {
 				culture = tibetan
-				size = 192008
+				size = 768008
 			}
 		}
 	}
@@ -10613,7 +10613,7 @@
 			}
 			create_pop = {
 				culture = afro_antillean
-				size = 801
+				size = 2801
 				religion = catholic
 			}
 		}
@@ -12674,7 +12674,7 @@
 			}
 			create_pop = {
 				culture = yue
-				size = 93200
+				size = 92204
 			}
 			create_pop = {
 				culture = tamil
@@ -13174,7 +13174,7 @@
 		region_state:NAURU = {
 			create_pop = {
 				culture = melanesian
-				size = 80000
+				size = 1251
 			}
 		}
 	}

@@ -113,6 +113,7 @@ fun readPopsFile(path: String, regionalMapping: RegionalMapping): MutableMap<Str
                 )
             } catch (e: Exception) {
                 println("Error parsing: $stateName")
+                println("Error message: ${e.message}")
             }
 
         }

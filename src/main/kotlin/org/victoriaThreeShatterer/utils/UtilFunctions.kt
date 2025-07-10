@@ -1,6 +1,5 @@
 package org.victoriaThreeShatterer.utils
 
-import org.victoriaThreeShatterer.gameFilesFolderPath
 import java.io.File
 
 //even tho the game engine does not need formatting it is here to prevent eye cancer
@@ -57,6 +56,7 @@ fun copyFormablesToMod(gamePath: String){
     gameCountryFormation.copyRecursively(modCountryFormation, true)
 }
 
+/**
 fun copyOriginalFilesFromGameToGameFiles (gamePath: String){
     //Buildings
     val gameBuildings = File(gamePath.plus("common/history/buildings"))
@@ -75,6 +75,7 @@ fun copyOriginalFilesFromGameToGameFiles (gamePath: String){
     val gameFilesStates = File(gameFilesFolderPath.plus("00_states.txt"))
     gameStates.copyTo(gameFilesStates, true)
 }
+*/
 
 fun removeComments(string: String): String {
     val regex = Regex("\\s*#.*?\n")
