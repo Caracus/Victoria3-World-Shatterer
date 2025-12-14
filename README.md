@@ -33,7 +33,7 @@ Best to hit me up via Steam, just leave a comment on my profile page or the mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2879990706
 
 ### Target victoria 3 version
-- 1.9.* (created on 1.9.6)
+- 1.12.* (created on 1.12.1)
 
-### Legacy contributions
-- Thanks to andrasmining for the update to 1.2.4 aswell as adding back vanilla formables
+### Legacy version contributions
+- Thanks to andrasmining for the update to 1.2.4

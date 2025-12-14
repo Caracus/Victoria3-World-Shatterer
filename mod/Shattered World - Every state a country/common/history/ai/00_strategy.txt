@@ -44,7 +44,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:ANDALUSIA = {
+	c:LOWER_ANDALUSIA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -394,7 +394,17 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:CUBA = {
+	c:WESTERN_CUBA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:EASTERN_CUBA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:CENTRAL_CUBA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -484,6 +494,11 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
+	c:BUKOVINA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
 	c:MOLDAVIA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
@@ -504,7 +519,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:CASTILE = {
+	c:OLD_CASTILE = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -514,7 +529,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:NAVARRA = {
+	c:BASQUE_COUNTRY = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -524,7 +539,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:BALEARES = {
+	c:BALEARIC_ISLANDS = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -644,7 +659,7 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:GHANA = {
+	c:GOLD_COAST = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -1389,12 +1404,12 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:GRANADA = {
+	c:UPPER_ANDALUSIA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:BADAJOZ = {
+	c:EXTREMADURA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -1404,7 +1419,22 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:TOLEDO = {
+	c:NEW_CASTILE = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:MURCIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:LEON = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:ENTRE_DOURO_E_MINHO = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -1949,11 +1979,6 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:GAMBIA = {
-		set_strategy = ai_strategy_industrial_expansion
-		set_strategy = ai_strategy_territorial_expansion 
-		set_strategy = ai_strategy_nationalist_agenda
-	}
 	c:SIERRA_LEONE = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
@@ -2159,12 +2184,17 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:NORTHERN_SERBIA = {
+	c:WESTERN_SERBIA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:SOUTHERN_SERBIA = {
+	c:EASTERN_SERBIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KOSOVO = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -2879,12 +2909,12 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:WEST_SLOVAKIA = {
+	c:SLOVAKIA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:EAST_SLOVAKIA = {
+	c:RUTHENIA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
@@ -3009,7 +3039,12 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:SILESIA = {
+	c:LOWER_SILESIA = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:UPPER_SILESIA = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda

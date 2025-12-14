@@ -198,6 +198,14 @@ NAT_KHMER = {
 		has_technology_researched = pan-nationalism
 	}
 }
+NAT_CHAMPA = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
 NAT_HAN = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -511,6 +519,22 @@ NAT_HAWAIIAN = {
 	}
 }
 NAT_GALICIAN = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_ASTURLEONESE = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_ARAGONESE = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }
@@ -1014,6 +1038,14 @@ NAT_BIDAN = {
 		has_technology_researched = pan-nationalism
 	}
 }
+NAT_HARATIN = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
 NAT_TUAREG = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -1166,6 +1198,14 @@ NAT_SOTHO = {
 		has_technology_researched = pan-nationalism
 	}
 }
+NAT_GRIQUA = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
 NAT_WELSH = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -1175,6 +1215,14 @@ NAT_WELSH = {
 	}
 }
 NAT_SCOTTISH = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_SCOTTISH_GAELIC = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }
@@ -1454,6 +1502,14 @@ NAT_THAI = {
 		has_technology_researched = pan-nationalism
 	}
 }
+NAT_MALAY = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
 NAT_KACHIN = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -1534,7 +1590,7 @@ NAT_BALINESE = {
 		has_technology_researched = pan-nationalism
 	}
 }
-NAT_MALAY = {
+NAT_FILIPINO_MESTIZO = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }
@@ -1542,7 +1598,15 @@ NAT_MALAY = {
 		has_technology_researched = pan-nationalism
 	}
 }
-NAT_FILIPINO = {
+NAT_VISAYAN = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_LUMAD = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }
@@ -1551,6 +1615,22 @@ NAT_FILIPINO = {
 	}
 }
 NAT_MORO = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_TAGALOG = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_ILOCANO = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }
@@ -1590,14 +1670,6 @@ NAT_SOMALI = {
 		has_technology_researched = pan-nationalism
 	}
 }
-NAT_KIKUYU = {
-	use_culture_states = yes
-	required_states_fraction = 0.51
-	ai_will_do = { always = yes }
-	possible = {
-		has_technology_researched = pan-nationalism
-	}
-}
 NAT_SIDAMA = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -1615,6 +1687,14 @@ NAT_TIGRAY = {
 	}
 }
 NAT_AFAR = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_KIKUYU = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }
@@ -1670,7 +1750,7 @@ NAT_BAGUIRMI = {
 		has_technology_researched = pan-nationalism
 	}
 }
-NAT_UNYAMWEZI = {
+NAT_NYAMWEZI = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }
@@ -1695,14 +1775,6 @@ NAT_RUNDI = {
 	}
 }
 NAT_RUANDA = {
-	use_culture_states = yes
-	required_states_fraction = 0.51
-	ai_will_do = { always = yes }
-	possible = {
-		has_technology_researched = pan-nationalism
-	}
-}
-NAT_HARATIN = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }
@@ -1934,6 +2006,14 @@ NAT_UZBEK = {
 		has_technology_researched = pan-nationalism
 	}
 }
+NAT_ZHUANG = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
 NAT_LAO = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -2006,14 +2086,6 @@ NAT_YI = {
 		has_technology_researched = pan-nationalism
 	}
 }
-NAT_ZHUANG = {
-	use_culture_states = yes
-	required_states_fraction = 0.51
-	ai_will_do = { always = yes }
-	possible = {
-		has_technology_researched = pan-nationalism
-	}
-}
 NAT_YUE = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -2070,6 +2142,14 @@ NAT_FINNISH = {
 		has_technology_researched = pan-nationalism
 	}
 }
+NAT_EAST_GERMAN = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
 NAT_ESTONIAN = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
@@ -2087,14 +2167,6 @@ NAT_LATVIAN = {
 	}
 }
 NAT_LITHUANIAN = {
-	use_culture_states = yes
-	required_states_fraction = 0.51
-	ai_will_do = { always = yes }
-	possible = {
-		has_technology_researched = pan-nationalism
-	}
-}
-NAT_POLISH = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }
@@ -2175,6 +2247,14 @@ NAT_NORTH_CAUCASIAN = {
 	}
 }
 NAT_CIRCASSIAN = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
+NAT_POLISH = {
 	use_culture_states = yes
 	required_states_fraction = 0.51
 	ai_will_do = { always = yes }

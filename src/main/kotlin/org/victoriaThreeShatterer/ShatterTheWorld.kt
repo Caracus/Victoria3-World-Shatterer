@@ -6,13 +6,13 @@ import org.victoriaThreeShatterer.parsers.gameFiles.*
 import org.victoriaThreeShatterer.utils.*
 
 // copy the buildings, pops and state file from the games history folder to the resources folder, then set the patch version
-const val patchVersion = "1-9-6"
+const val patchVersion = "1-12-1"
 
 fun main() {
 
     println("Start parsing files")
     val colorPalette = readColorPalette("src/main/resources/colorPalette.json")
-    val stateMap = readStatesFile("src/main/resources/GameFiles/$patchVersion/".plus("00_states.txt"))
+    val stateMap = readStatesFile("src/main/resources/GameFiles/$patchVersion/00_states.txt")
 
     val compactPopMap = getConsolidatedPopMap(patchVersion)
     //equalized start option, un/comment the other one

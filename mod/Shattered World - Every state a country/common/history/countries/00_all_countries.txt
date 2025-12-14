@@ -1471,7 +1471,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:TOLEDO = {
+	c:NEW_CASTILE = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -1519,7 +1519,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:CASTILE = {
+	c:OLD_CASTILE = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -1535,7 +1535,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:NAVARRA = {
+	c:BASQUE_COUNTRY = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -1583,7 +1583,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:BALEARES = {
+	c:BALEARIC_ISLANDS = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -1599,7 +1599,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:ANDALUSIA = {
+	c:LOWER_ANDALUSIA = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -1615,7 +1615,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:GRANADA = {
+	c:UPPER_ANDALUSIA = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -1631,7 +1631,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:BADAJOZ = {
+	c:EXTREMADURA = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -1648,6 +1648,54 @@
 		activate_law = law_type:law_migration_controls
 	}
 	c:VALENCIA = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:MURCIA = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:LEON = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:CANARY_ISLANDS = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -1711,6 +1759,22 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
+	c:ENTRE_DOURO_E_MINHO = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
 	c:CAPE_VERDE = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
@@ -1728,22 +1792,6 @@
 		activate_law = law_type:law_migration_controls
 	}
 	c:MADEIRA = {
-		effect_starting_technology_tier_2_tech = yes
-		activate_law = law_type:law_monarchy
-		activate_law = law_type:law_autocracy
-		activate_law = law_type:law_state_religion
-		activate_law = law_type:law_no_womens_rights
-		activate_law = law_type:law_land_based_taxation
-		activate_law = law_type:law_hereditary_bureaucrats
-		activate_law = law_type:law_national_supremacy
-		activate_law = law_type:law_mercantilism
-		activate_law = law_type:law_tenant_farmers
-		activate_law = law_type:law_interventionism
-		activate_law = law_type:law_professional_army
-		activate_law = law_type:law_censorship
-		activate_law = law_type:law_migration_controls
-	}
-	c:CANARY_ISLANDS = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -1967,7 +2015,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:NORTHERN_SERBIA = {
+	c:WESTERN_SERBIA = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -1983,7 +2031,23 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:SOUTHERN_SERBIA = {
+	c:EASTERN_SERBIA = {
+		effect_starting_technology_tier_2_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:KOSOVO = {
 		effect_starting_technology_tier_2_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -2303,7 +2367,23 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:SILESIA = {
+	c:LOWER_SILESIA = {
+		effect_starting_technology_tier_3_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:UPPER_SILESIA = {
 		effect_starting_technology_tier_3_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -2479,7 +2559,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:WEST_SLOVAKIA = {
+	c:SLOVAKIA = {
 		effect_starting_technology_tier_3_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -2495,7 +2575,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:EAST_SLOVAKIA = {
+	c:RUTHENIA = {
 		effect_starting_technology_tier_3_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -2528,6 +2608,22 @@
 		activate_law = law_type:law_migration_controls
 	}
 	c:NORTHERN_TRANSYLVANIA = {
+		effect_starting_technology_tier_3_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:BUKOVINA = {
 		effect_starting_technology_tier_3_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -3135,22 +3231,6 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:GAMBIA = {
-		effect_starting_technology_tier_6_tech = yes
-		activate_law = law_type:law_monarchy
-		activate_law = law_type:law_autocracy
-		activate_law = law_type:law_state_religion
-		activate_law = law_type:law_no_womens_rights
-		activate_law = law_type:law_land_based_taxation
-		activate_law = law_type:law_hereditary_bureaucrats
-		activate_law = law_type:law_national_supremacy
-		activate_law = law_type:law_mercantilism
-		activate_law = law_type:law_tenant_farmers
-		activate_law = law_type:law_interventionism
-		activate_law = law_type:law_professional_army
-		activate_law = law_type:law_censorship
-		activate_law = law_type:law_migration_controls
-	}
 	c:SIERRA_LEONE = {
 		effect_starting_technology_tier_6_tech = yes
 		activate_law = law_type:law_monarchy
@@ -3343,7 +3423,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:GHANA = {
+	c:GOLD_COAST = {
 		effect_starting_technology_tier_6_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -5503,7 +5583,39 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:CUBA = {
+	c:WESTERN_CUBA = {
+		effect_starting_technology_tier_4_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:EASTERN_CUBA = {
+		effect_starting_technology_tier_4_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:CENTRAL_CUBA = {
 		effect_starting_technology_tier_4_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy

@@ -367,7 +367,7 @@
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
-	c:TOLEDO = {
+	c:NEW_CASTILE = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
@@ -379,11 +379,11 @@
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
-	c:CASTILE = {
+	c:OLD_CASTILE = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
-	c:NAVARRA = {
+	c:BASQUE_COUNTRY = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
@@ -395,23 +395,35 @@
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
-	c:BALEARES = {
+	c:BALEARIC_ISLANDS = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
-	c:ANDALUSIA = {
+	c:LOWER_ANDALUSIA = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
-	c:GRANADA = {
+	c:UPPER_ANDALUSIA = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
-	c:BADAJOZ = {
+	c:EXTREMADURA = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
 	c:VALENCIA = {
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_middling = yes
+	}
+	c:MURCIA = {
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_middling = yes
+	}
+	c:LEON = {
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_middling = yes
+	}
+	c:CANARY_ISLANDS = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
@@ -427,15 +439,15 @@
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
+	c:ENTRE_DOURO_E_MINHO = {
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_middling = yes
+	}
 	c:CAPE_VERDE = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
 	c:MADEIRA = {
-		effect_starting_pop_wealth_medium = yes
-		effect_starting_pop_literacy_middling = yes
-	}
-	c:CANARY_ISLANDS = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
@@ -491,11 +503,15 @@
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
-	c:NORTHERN_SERBIA = {
+	c:WESTERN_SERBIA = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
-	c:SOUTHERN_SERBIA = {
+	c:EASTERN_SERBIA = {
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_middling = yes
+	}
+	c:KOSOVO = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_middling = yes
 	}
@@ -575,7 +591,11 @@
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_very_low = yes
 	}
-	c:SILESIA = {
+	c:LOWER_SILESIA = {
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_very_low = yes
+	}
+	c:UPPER_SILESIA = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_very_low = yes
 	}
@@ -619,11 +639,11 @@
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_very_low = yes
 	}
-	c:WEST_SLOVAKIA = {
+	c:SLOVAKIA = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_very_low = yes
 	}
-	c:EAST_SLOVAKIA = {
+	c:RUTHENIA = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_very_low = yes
 	}
@@ -632,6 +652,10 @@
 		effect_starting_pop_literacy_very_low = yes
 	}
 	c:NORTHERN_TRANSYLVANIA = {
+		effect_starting_pop_wealth_medium = yes
+		effect_starting_pop_literacy_very_low = yes
+	}
+	c:BUKOVINA = {
 		effect_starting_pop_wealth_medium = yes
 		effect_starting_pop_literacy_very_low = yes
 	}
@@ -783,10 +807,6 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
-	c:GAMBIA = {
-		effect_starting_pop_wealth_low = yes
-		effect_starting_pop_literacy_baseline = yes
-	}
 	c:SIERRA_LEONE = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
@@ -835,7 +855,7 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
-	c:GHANA = {
+	c:GOLD_COAST = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
@@ -1375,7 +1395,15 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_very_low = yes
 	}
-	c:CUBA = {
+	c:WESTERN_CUBA = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+	}
+	c:EASTERN_CUBA = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_very_low = yes
+	}
+	c:CENTRAL_CUBA = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_very_low = yes
 	}

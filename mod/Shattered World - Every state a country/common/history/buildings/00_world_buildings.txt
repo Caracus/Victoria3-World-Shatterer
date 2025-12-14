@@ -6,7 +6,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MINSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -20,7 +20,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LOUISIANA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -34,7 +34,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NEW_YORK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -48,7 +48,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VIRGINIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -62,7 +62,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LOWER_EGYPT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -76,7 +76,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HOME_COUNTIES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -90,7 +90,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LANCASHIRE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -104,7 +104,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PROVENCE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -118,21 +118,21 @@
 				add_ownership = {
 					country = {
 						country = "c:NORMANDY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_ANDALUSIA = {
-		region_state:ANDALUSIA = {
+	s:STATE_LOWER_ANDALUSIA = {
+		region_state:LOWER_ANDALUSIA = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:ANDALUSIA"
-						levels =  25
+						country = "c:LOWER_ANDALUSIA"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -146,7 +146,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HOLLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -160,7 +160,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BALUCHISTAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -174,7 +174,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_BENGAL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -188,7 +188,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DOBRUDJA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -202,7 +202,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BASRA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -216,7 +216,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EASTERN_THRACE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -230,7 +230,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MEKONG"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -244,7 +244,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SHANDONG"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -258,7 +258,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SUZHOU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -272,7 +272,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ROSTOV"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -286,7 +286,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VENETIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -300,7 +300,7 @@
 				add_ownership = {
 					country = {
 						country = "c:POMERANIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -314,7 +314,7 @@
 				add_ownership = {
 					country = {
 						country = "c:INGRIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -328,7 +328,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALASKA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -342,7 +342,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WASHINGTON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -356,7 +356,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OREGON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -370,7 +370,7 @@
 				add_ownership = {
 					country = {
 						country = "c:IDAHO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -384,7 +384,7 @@
 				add_ownership = {
 					country = {
 						country = "c:COLORADO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -398,7 +398,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WYOMING"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -412,7 +412,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MONTANA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -426,7 +426,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTH_DAKOTA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -440,7 +440,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTH_DAKOTA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -454,7 +454,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NEBRASKA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -468,7 +468,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KANSAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -482,7 +482,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OKLAHOMA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -496,7 +496,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ARKANSAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -510,7 +510,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MISSOURI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -524,7 +524,7 @@
 				add_ownership = {
 					country = {
 						country = "c:IOWA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -538,7 +538,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MINNESOTA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -552,7 +552,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WISCONSIN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -566,7 +566,7 @@
 				add_ownership = {
 					country = {
 						country = "c:INDIANA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -580,7 +580,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MICHIGAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -594,7 +594,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OHIO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -608,7 +608,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KENTUCKY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -622,7 +622,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TENNESSEE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -636,7 +636,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MISSISSIPPI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -650,7 +650,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALABAMA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -664,7 +664,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FLORIDA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -678,7 +678,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GEORGIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -692,7 +692,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DISTRICT_OF_COLUMBIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -706,7 +706,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_VIRGINIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -720,7 +720,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MARYLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -734,7 +734,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DELAWARE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -748,7 +748,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PENNSYLVANIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -762,7 +762,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NEW_JERSEY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -776,7 +776,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ILLINOIS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -790,7 +790,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CONNECTICUT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -804,7 +804,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RHODE_ISLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -818,7 +818,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MASSACHUSETTS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -832,7 +832,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VERMONT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -846,7 +846,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NEW_HAMPSHIRE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -860,7 +860,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MAINE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -874,7 +874,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTH_CAROLINA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -888,7 +888,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TEXAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -902,7 +902,7 @@
 				add_ownership = {
 					country = {
 						country = "c:YUKON_TERRITORY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -916,7 +916,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTHWEST_TERRITORIES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -930,7 +930,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NUNAVUT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -944,7 +944,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BRITISH_COLUMBIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -958,7 +958,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALBERTA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -972,7 +972,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SASKATCHEWAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -986,7 +986,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MANITOBA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1000,7 +1000,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ONTARIO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1014,7 +1014,7 @@
 				add_ownership = {
 					country = {
 						country = "c:QUEBEC"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1028,7 +1028,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NEWFOUNDLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1042,7 +1042,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GUATEMALA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1056,7 +1056,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HONDURAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1070,7 +1070,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NICARAGUA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1084,7 +1084,7 @@
 				add_ownership = {
 					country = {
 						country = "c:COSTA_RICA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1098,21 +1098,49 @@
 				add_ownership = {
 					country = {
 						country = "c:PANAMA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_CUBA = {
-		region_state:CUBA = {
+	s:STATE_WESTERN_CUBA = {
+		region_state:WESTERN_CUBA = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:CUBA"
-						levels =  25
+						country = "c:WESTERN_CUBA"
+						levels =  5
+					}
+				}
+				reserves = 1
+			}
+		}
+	}
+	s:STATE_EASTERN_CUBA = {
+		region_state:EASTERN_CUBA = {
+			create_building = {
+				building = "building_barracks"
+				add_ownership = {
+					country = {
+						country = "c:EASTERN_CUBA"
+						levels =  5
+					}
+				}
+				reserves = 1
+			}
+		}
+	}
+	s:STATE_CENTRAL_CUBA = {
+		region_state:CENTRAL_CUBA = {
+			create_building = {
+				building = "building_barracks"
+				add_ownership = {
+					country = {
+						country = "c:CENTRAL_CUBA"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1126,7 +1154,7 @@
 				add_ownership = {
 					country = {
 						country = "c:URUGUAY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1140,7 +1168,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ECUADOR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1154,7 +1182,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SANTO_DOMINGO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1168,7 +1196,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HAITI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1182,7 +1210,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GOTLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1196,7 +1224,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GOTALAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1210,7 +1238,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SCANIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1224,7 +1252,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORRLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1238,7 +1266,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SVEALAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1252,7 +1280,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SICILY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1266,7 +1294,7 @@
 				add_ownership = {
 					country = {
 						country = "c:IONIAN_ISLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1280,7 +1308,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PELOPONNESE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1294,7 +1322,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALBANIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1308,7 +1336,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BOSNIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1322,7 +1350,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTHERN_TRANSYLVANIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1336,7 +1364,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HAWAIIAN_ISLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1350,7 +1378,21 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTHERN_TRANSYLVANIA"
-						levels =  25
+						levels =  5
+					}
+				}
+				reserves = 1
+			}
+		}
+	}
+	s:STATE_BUKOVINA = {
+		region_state:BUKOVINA = {
+			create_building = {
+				building = "building_barracks"
+				add_ownership = {
+					country = {
+						country = "c:BUKOVINA"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1364,7 +1406,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MOLDAVIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1378,7 +1420,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WALLACHIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1392,7 +1434,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GALICIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1406,21 +1448,21 @@
 				add_ownership = {
 					country = {
 						country = "c:ASTURIAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_CASTILE = {
-		region_state:CASTILE = {
+	s:STATE_OLD_CASTILE = {
+		region_state:OLD_CASTILE = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:CASTILE"
-						levels =  25
+						country = "c:OLD_CASTILE"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1434,21 +1476,21 @@
 				add_ownership = {
 					country = {
 						country = "c:ARAGON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_NAVARRA = {
-		region_state:NAVARRA = {
+	s:STATE_BASQUE_COUNTRY = {
+		region_state:BASQUE_COUNTRY = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:NAVARRA"
-						levels =  25
+						country = "c:BASQUE_COUNTRY"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1462,21 +1504,21 @@
 				add_ownership = {
 					country = {
 						country = "c:CATALONIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_BALEARES = {
-		region_state:BALEARES = {
+	s:STATE_BALEARIC_ISLANDS = {
+		region_state:BALEARIC_ISLANDS = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:BALEARES"
-						levels =  25
+						country = "c:BALEARIC_ISLANDS"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1490,7 +1532,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NEW_SOUTH_WALES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1504,7 +1546,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VICTORIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1518,7 +1560,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TASMANIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1532,7 +1574,7 @@
 				add_ownership = {
 					country = {
 						country = "c:QUEENSLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1546,7 +1588,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTH_AUSTRALIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1560,7 +1602,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WESTERN_AUSTRALIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1574,7 +1616,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTHERN_TERRITORY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1588,7 +1630,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTH_ISLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1602,7 +1644,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTH_ISLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1616,7 +1658,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_MICRONESIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1630,7 +1672,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_MICRONESIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1644,7 +1686,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_JAVA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1658,7 +1700,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_JAVA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1672,7 +1714,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CENTRAL_JAVA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1686,7 +1728,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CEYLON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1700,7 +1742,7 @@
 				add_ownership = {
 					country = {
 						country = "c:URGA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1714,7 +1756,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ULIASTAI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1728,7 +1770,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OMAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1742,7 +1784,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ABU_DHABI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1756,7 +1798,7 @@
 				add_ownership = {
 					country = {
 						country = "c:YEMEN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1770,7 +1812,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HEDJAZ"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1784,7 +1826,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TUNISIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1798,21 +1840,21 @@
 				add_ownership = {
 					country = {
 						country = "c:GUINEA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_GHANA = {
-		region_state:GHANA = {
+	s:STATE_GOLD_COAST = {
+		region_state:GOLD_COAST = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:GHANA"
-						levels =  25
+						country = "c:GOLD_COAST"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1826,7 +1868,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TOGO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1840,7 +1882,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DAHOMEY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1854,7 +1896,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GABON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1868,7 +1910,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BOTSWANA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1882,7 +1924,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ZAMBIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1896,7 +1938,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CAMBODIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1910,7 +1952,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SAVOY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1924,7 +1966,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LIBERIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1938,7 +1980,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EMILIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1952,7 +1994,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TUSCANY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1966,7 +2008,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ROMAGNA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1980,7 +2022,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LAZIO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -1994,7 +2036,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NEVADA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2008,7 +2050,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ARIZONA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2022,7 +2064,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NEW_MEXICO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2036,7 +2078,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CALIFORNIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2050,7 +2092,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SONORA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2064,7 +2106,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHIHUAHUA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2078,7 +2120,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RIO_GRANDE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2092,7 +2134,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DURANGO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2106,7 +2148,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SINALOA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2120,7 +2162,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BAJIO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2134,7 +2176,7 @@
 				add_ownership = {
 					country = {
 						country = "c:YUCATAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2148,7 +2190,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MEXICO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2162,7 +2204,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VERACRUZ"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2176,7 +2218,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GUERRERO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2190,7 +2232,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OAXACA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2204,7 +2246,7 @@
 				add_ownership = {
 					country = {
 						country = "c:JALISCO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2218,7 +2260,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ZACATECAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2232,7 +2274,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GUAYANA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2246,7 +2288,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ZULIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2260,7 +2302,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MIRANDA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2274,7 +2316,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BOLIVAR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2288,7 +2330,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ANTIOQUIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2302,7 +2344,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GUAVIARE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2316,7 +2358,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CUNDINAMARCA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2330,7 +2372,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CAUCA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2344,7 +2386,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PASTAZA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2358,7 +2400,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CAJAMARCA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2372,7 +2414,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LIMA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2386,7 +2428,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ICA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2400,7 +2442,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AREQUIPA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2414,7 +2456,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PARA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2428,7 +2470,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MARANHAO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2442,7 +2484,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AMAZONAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2456,7 +2498,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ACRE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2470,7 +2512,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GOIAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2484,7 +2526,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MATO_GROSSO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2498,7 +2540,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RIO_GRANDE_DO_SUL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2512,7 +2554,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PARANA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2526,7 +2568,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SANTA_CATARINA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2540,7 +2582,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SAO_PAULO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2554,7 +2596,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MINAS_GERAIS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2568,7 +2610,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RIO_DE_JANEIRO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2582,7 +2624,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BAHIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2596,7 +2638,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RIO_GRANDE_DO_NORTE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2610,7 +2652,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CEARA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2624,7 +2666,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PIAUI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2638,7 +2680,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PERNAMBUCO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2652,7 +2694,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PARAIBA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2666,7 +2708,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALTO_PARAGUAY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2680,7 +2722,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BAJO_PARAGUAY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2694,7 +2736,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BUENOS_AIRES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2708,7 +2750,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PATAGONIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2722,7 +2764,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RIO_NEGRO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2736,7 +2778,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LA_PAMPA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2750,7 +2792,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SANTA_FE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2764,7 +2806,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CORRIENTES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2778,7 +2820,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TUCUMAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2792,7 +2834,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHACO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2806,7 +2848,7 @@
 				add_ownership = {
 					country = {
 						country = "c:JUJUY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2820,7 +2862,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SANTA_CRUZ"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2834,7 +2876,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LA_PAZ"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2848,7 +2890,7 @@
 				add_ownership = {
 					country = {
 						country = "c:POTOSI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2862,7 +2904,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SANTIAGO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2876,7 +2918,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LOS_RIOS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2890,7 +2932,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ARAUCANIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2904,7 +2946,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTH_ATLANTIC_ISLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2918,7 +2960,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ICELAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2932,7 +2974,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GREENLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2946,7 +2988,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_SAHARA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2960,7 +3002,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MARRAKECH"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2974,7 +3016,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FEZ"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -2988,7 +3030,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AL_RIF"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3002,7 +3044,7 @@
 				add_ownership = {
 					country = {
 						country = "c:INNER_MOROCCO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3016,7 +3058,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ORAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3030,7 +3072,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SAHARA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3044,7 +3086,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_SAHARA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3058,7 +3100,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALGIERS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3072,7 +3114,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CONSTANTINE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3086,7 +3128,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TRIPOLI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3100,7 +3142,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LIBYAN_DESERT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3114,7 +3156,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LIBYA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3128,7 +3170,7 @@
 				add_ownership = {
 					country = {
 						country = "c:UPPER_EGYPT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3142,7 +3184,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EGYPTIAN_DESERT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3156,7 +3198,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MIDDLE_EGYPT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3170,7 +3212,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MATRUH"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3184,7 +3226,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SINAI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3198,7 +3240,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DONGOLA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3212,7 +3254,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KORDOFAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3226,7 +3268,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DARFUR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3240,7 +3282,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BLUE_NILE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3254,7 +3296,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NEW_BRUNSWICK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3268,7 +3310,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTH_ANGOLA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3282,7 +3324,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTH_ANGOLA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3296,7 +3338,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_ANGOLA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3310,7 +3352,7 @@
 				add_ownership = {
 					country = {
 						country = "c:INDIAN_OCEAN_TERRITORY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3324,7 +3366,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LOURENCO_MARQUES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3338,7 +3380,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MOCAMBIQUE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3352,7 +3394,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ZAMBEZIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3366,7 +3408,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EASTERN_CAPE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3380,7 +3422,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CAPE_COLONY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3394,7 +3436,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTHERN_CAPE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3408,7 +3450,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WALES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3422,7 +3464,7 @@
 				add_ownership = {
 					country = {
 						country = "c:YORKSHIRE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3436,7 +3478,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HIGHLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3450,7 +3492,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MIDLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3464,7 +3506,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_ANGLIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3478,7 +3520,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_COUNTRY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3492,7 +3534,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LOWLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3506,7 +3548,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ULSTER"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3520,7 +3562,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MUNSTER"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3534,7 +3576,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LEINSTER"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3548,7 +3590,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LANGUEDOC"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3562,7 +3604,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RHONE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3576,7 +3618,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FRENCH_LOW_COUNTRIES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3590,7 +3632,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PICARDY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3604,7 +3646,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALSACE_LORRAINE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3618,7 +3660,7 @@
 				add_ownership = {
 					country = {
 						country = "c:POITOU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3632,7 +3674,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GUYENNE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3646,7 +3688,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AUVERGNE_LIMOUSIN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3660,7 +3702,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BRITTANY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3674,7 +3716,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BURGUNDY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3688,7 +3730,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHAMPAGNE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3702,7 +3744,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FRANCHE_COMTE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3716,7 +3758,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LORRAINE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3730,7 +3772,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AQUITAINE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3744,7 +3786,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MAINE_ANJOU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3758,7 +3800,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ORLEANS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3772,7 +3814,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ILE_DE_FRANCE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3786,7 +3828,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ELBE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3800,7 +3842,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BEIRA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3814,7 +3856,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ESTREMADURA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3828,7 +3870,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALENTEJO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3842,7 +3884,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MADEIRA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3856,7 +3898,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CAPE_VERDE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3870,7 +3912,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AZORES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3884,35 +3926,35 @@
 				add_ownership = {
 					country = {
 						country = "c:CANARY_ISLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_GRANADA = {
-		region_state:GRANADA = {
+	s:STATE_UPPER_ANDALUSIA = {
+		region_state:UPPER_ANDALUSIA = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:GRANADA"
-						levels =  25
+						country = "c:UPPER_ANDALUSIA"
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_BADAJOZ = {
-		region_state:BADAJOZ = {
+	s:STATE_EXTREMADURA = {
+		region_state:EXTREMADURA = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:BADAJOZ"
-						levels =  25
+						country = "c:EXTREMADURA"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3926,21 +3968,63 @@
 				add_ownership = {
 					country = {
 						country = "c:VALENCIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_TOLEDO = {
-		region_state:TOLEDO = {
+	s:STATE_NEW_CASTILE = {
+		region_state:NEW_CASTILE = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:TOLEDO"
-						levels =  25
+						country = "c:NEW_CASTILE"
+						levels =  5
+					}
+				}
+				reserves = 1
+			}
+		}
+	}
+	s:STATE_MURCIA = {
+		region_state:MURCIA = {
+			create_building = {
+				building = "building_barracks"
+				add_ownership = {
+					country = {
+						country = "c:MURCIA"
+						levels =  5
+					}
+				}
+				reserves = 1
+			}
+		}
+	}
+	s:STATE_LEON = {
+		region_state:LEON = {
+			create_building = {
+				building = "building_barracks"
+				add_ownership = {
+					country = {
+						country = "c:LEON"
+						levels =  5
+					}
+				}
+				reserves = 1
+			}
+		}
+	}
+	s:STATE_ENTRE_DOURO_E_MINHO = {
+		region_state:ENTRE_DOURO_E_MINHO = {
+			create_building = {
+				building = "building_barracks"
+				add_ownership = {
+					country = {
+						country = "c:ENTRE_DOURO_E_MINHO"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3954,7 +4038,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WALLONIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3968,7 +4052,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FLANDERS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3982,7 +4066,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FRIESLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -3996,7 +4080,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GELRE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4010,7 +4094,7 @@
 				add_ownership = {
 					country = {
 						country = "c:JUTLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4024,7 +4108,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ZEALAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4038,7 +4122,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WESTERN_NORWAY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4052,7 +4136,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTHERN_NORWAY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4066,7 +4150,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EASTERN_NORWAY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4080,7 +4164,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_SWITZERLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4094,7 +4178,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_SWITZERLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4108,7 +4192,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PUERTO_RICO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4122,7 +4206,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BAHAMAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4136,7 +4220,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BERMUDA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4150,7 +4234,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_INDIES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4164,7 +4248,7 @@
 				add_ownership = {
 					country = {
 						country = "c:JAMAICA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4178,7 +4262,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ORISSA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4192,7 +4276,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SINDH"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4206,7 +4290,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RAJPUTANA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4220,7 +4304,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CIRCARS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4234,7 +4318,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PUNJAB"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4248,7 +4332,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CENTRAL_PROVINCES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4262,7 +4346,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MYSORE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4276,7 +4360,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TRAVANCORE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4290,7 +4374,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MADRAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4304,7 +4388,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KASHMIR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4318,7 +4402,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HYDERABAD"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4332,7 +4416,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GUJARAT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4346,7 +4430,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MALWA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4360,7 +4444,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BOMBAY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4374,7 +4458,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BIHAR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4388,7 +4472,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_BENGAL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4402,7 +4486,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ASSAM"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4416,7 +4500,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AWADH"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4430,7 +4514,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DELHI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4444,7 +4528,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TENASSERIM"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4458,7 +4542,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KACHIN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4472,7 +4556,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SHAN_STATES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4486,7 +4570,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MANDALAY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4500,7 +4584,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PEGU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4514,7 +4598,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTH_SUMATRA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4528,7 +4612,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTH_SUMATRA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4542,7 +4626,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ACEH"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4556,7 +4640,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WESTERN_NEW_GUINEA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4570,7 +4654,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MOLUCCAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4584,7 +4668,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CELEBES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4598,7 +4682,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_BORNEO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4612,7 +4696,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_BORNEO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4626,7 +4710,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SUNDA_ISLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4640,7 +4724,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MALAYA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4654,7 +4738,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTH_BORNEO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4668,7 +4752,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MINDANAO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4682,7 +4766,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LUZON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4696,7 +4780,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VISAYAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4710,7 +4794,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ATTICA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4724,7 +4808,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SKOPIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4738,7 +4822,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MACEDONIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4752,7 +4836,7 @@
 				add_ownership = {
 					country = {
 						country = "c:THESSALIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4766,7 +4850,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WESTERN_THRACE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4780,7 +4864,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTHERN_THRACE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4794,7 +4878,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BULGARIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4808,7 +4892,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTH_MADAGASCAR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4822,7 +4906,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTH_MADAGASCAR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4836,7 +4920,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OROMIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4850,7 +4934,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AMHARA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4864,7 +4948,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GONDER"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4878,7 +4962,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KAZEMBE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4892,7 +4976,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ERITREA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4906,7 +4990,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOMALILAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4920,7 +5004,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NAMAQUALAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4934,7 +5018,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HEREROLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4948,7 +5032,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ZAMBEZI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4962,7 +5046,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KENYA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4976,7 +5060,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RIFT_VALLEY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -4990,7 +5074,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHAD"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5004,7 +5088,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WADDAI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5018,7 +5102,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LINDI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5032,7 +5116,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ZANZIBAR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5046,7 +5130,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TANGANYIKA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5060,7 +5144,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MAURITANIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5074,7 +5158,7 @@
 				add_ownership = {
 					country = {
 						country = "c:INNER_MAURITANIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5088,7 +5172,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EASTERN_MALI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5102,7 +5186,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WESTERN_MALI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5116,7 +5200,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TIMBUKTU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5130,7 +5214,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HAUSALAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5144,7 +5228,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BENIN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5158,7 +5242,7 @@
 				add_ownership = {
 					country = {
 						country = "c:YORUBA_STATES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5172,7 +5256,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NIGER_DELTA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5186,7 +5270,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OUTER_HAUSALAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5200,7 +5284,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NIGER"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5214,7 +5298,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BORNU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5228,7 +5312,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NIGERIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5242,7 +5326,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_HAUSALAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5256,7 +5340,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KATANGA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5270,7 +5354,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CONGO_ORIENTALE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5284,7 +5368,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KASAI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5298,7 +5382,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BAS_CONGO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5312,7 +5396,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EQUATEUR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5326,7 +5410,7 @@
 				add_ownership = {
 					country = {
 						country = "c:UGANDA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5340,7 +5424,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EQUATORIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5354,7 +5438,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VOLTA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5368,7 +5452,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTH_CAMEROON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5382,7 +5466,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTH_CAMEROON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5396,7 +5480,7 @@
 				add_ownership = {
 					country = {
 						country = "c:UBANGI_SHARI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5410,7 +5494,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CONGO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5424,7 +5508,7 @@
 				add_ownership = {
 					country = {
 						country = "c:IVORY_COAST"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5438,7 +5522,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WINDWARD_COAST"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5452,21 +5536,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SENEGAL"
-						levels =  25
-					}
-				}
-				reserves = 1
-			}
-		}
-	}
-	s:STATE_GAMBIA = {
-		region_state:GAMBIA = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = "c:GAMBIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5480,7 +5550,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SIERRA_LEONE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5494,7 +5564,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ZULULAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5508,7 +5578,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VRYSTAAT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5522,7 +5592,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TRANSVAAL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5536,7 +5606,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EASTERN_NEW_GUINEA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5550,7 +5620,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOLOMON_ISLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5564,7 +5634,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BOUGAINVILLE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5578,7 +5648,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NAURU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5592,7 +5662,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FIJI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5606,7 +5676,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VANUATU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5620,7 +5690,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KANAK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5634,7 +5704,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TAHITI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5648,7 +5718,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TONGA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5662,7 +5732,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HAIL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5676,7 +5746,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NEJD"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5690,7 +5760,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TRANSJORDAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5704,7 +5774,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PALESTINE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5718,7 +5788,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LEBANON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5732,7 +5802,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SYRIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5746,7 +5816,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALEPPO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5760,7 +5830,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BAGHDAD"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5774,7 +5844,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MOSUL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5788,7 +5858,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LARISTAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5802,7 +5872,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KERMAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5816,7 +5886,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SISTAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5830,7 +5900,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KHORASAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5844,7 +5914,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KHUZESTAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5858,7 +5928,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FARS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5872,7 +5942,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ISFAHAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5886,7 +5956,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MAZANDARAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5900,7 +5970,7 @@
 				add_ownership = {
 					country = {
 						country = "c:IRAKAJEMI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5914,7 +5984,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SEMNAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5928,7 +5998,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TABRIZ"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5942,7 +6012,7 @@
 				add_ownership = {
 					country = {
 						country = "c:URMIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5956,7 +6026,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PERSIAN_KURDISTAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5970,7 +6040,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LURISTAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5984,7 +6054,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ARMENIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -5998,7 +6068,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AZERBAIJAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6012,7 +6082,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ELIZAVETPOL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6026,7 +6096,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GREATER_CAUCASUS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6040,35 +6110,49 @@
 				add_ownership = {
 					country = {
 						country = "c:MONTENEGRO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_NORTHERN_SERBIA = {
-		region_state:NORTHERN_SERBIA = {
+	s:STATE_WESTERN_SERBIA = {
+		region_state:WESTERN_SERBIA = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:NORTHERN_SERBIA"
-						levels =  25
+						country = "c:WESTERN_SERBIA"
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_SOUTHERN_SERBIA = {
-		region_state:SOUTHERN_SERBIA = {
+	s:STATE_EASTERN_SERBIA = {
+		region_state:EASTERN_SERBIA = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:SOUTHERN_SERBIA"
-						levels =  25
+						country = "c:EASTERN_SERBIA"
+						levels =  5
+					}
+				}
+				reserves = 1
+			}
+		}
+	}
+	s:STATE_KOSOVO = {
+		region_state:KOSOVO = {
+			create_building = {
+				building = "building_barracks"
+				add_ownership = {
+					country = {
+						country = "c:KOSOVO"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6082,7 +6166,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HUDAVENDIGAR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6096,7 +6180,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AYDIN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6110,7 +6194,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KONYA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6124,7 +6208,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KASTAMONU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6138,7 +6222,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CYPRUS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6152,7 +6236,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TRABZON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6166,7 +6250,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ERZURUM"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6180,7 +6264,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KARS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6194,7 +6278,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CRETE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6208,7 +6292,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_AEGEAN_ISLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6222,7 +6306,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_AEGEAN_ISLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6236,7 +6320,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ANKARA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6250,7 +6334,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KANDAHAR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6264,7 +6348,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KABUL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6278,7 +6362,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HERAT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6292,7 +6376,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTHERN_BALUCHISTAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6306,7 +6390,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BALKH"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6320,7 +6404,7 @@
 				add_ownership = {
 					country = {
 						country = "c:QUETTA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6334,7 +6418,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CENTRAL_HIGHLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6348,7 +6432,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PASHTUNISTAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6362,7 +6446,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DIYARBAKIR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6376,7 +6460,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BANGKOK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6390,7 +6474,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TONKIN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6404,7 +6488,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ANNAM"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6418,7 +6502,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LAOS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6432,7 +6516,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHIANG_MAI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6446,7 +6530,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NAKHON_RATCHASIMA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6460,7 +6544,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SEOUL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6474,7 +6558,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BUSAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6488,7 +6572,7 @@
 				add_ownership = {
 					country = {
 						country = "c:YANGHO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6502,7 +6586,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SARIWON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6516,7 +6600,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PYONGYANG"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6530,7 +6614,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SAKHALIN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6544,7 +6628,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HOKKAIDO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6558,7 +6642,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TOHOKU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6572,7 +6656,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KANTO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6586,7 +6670,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHUBU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6600,7 +6684,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KANSAI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6614,7 +6698,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KYUSHU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6628,7 +6712,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RYUKYU_ISLANDS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6642,7 +6726,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHUGOKU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6656,7 +6740,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SHIKOKU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6670,7 +6754,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LHASA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6684,7 +6768,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NGARI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6698,7 +6782,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HIMALAYAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6712,7 +6796,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DZUNGARIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6726,7 +6810,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TIANSHAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6740,7 +6824,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SICHUAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6754,7 +6838,7 @@
 				add_ownership = {
 					country = {
 						country = "c:YUNNAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6768,7 +6852,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GUIZHOU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6782,7 +6866,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SHAOZHOU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6796,7 +6880,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALXA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6810,7 +6894,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HINGGAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6824,7 +6908,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GUANGXI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6838,7 +6922,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BEIJING"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6852,7 +6936,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SHENGJING"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6866,7 +6950,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OUTER_MANCHURIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6880,7 +6964,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTHERN_MANCHURIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6894,7 +6978,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTHERN_MANCHURIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6908,7 +6992,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SHANXI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6922,7 +7006,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NINGXIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6936,7 +7020,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GANSU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6950,7 +7034,7 @@
 				add_ownership = {
 					country = {
 						country = "c:XIAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6964,7 +7048,7 @@
 				add_ownership = {
 					country = {
 						country = "c:QINGHAI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6978,7 +7062,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHONGQING"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -6992,7 +7076,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GUANGDONG"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7006,7 +7090,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FUJIAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7020,7 +7104,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ZHEJIANG"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7034,7 +7118,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NANJING"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7048,7 +7132,7 @@
 				add_ownership = {
 					country = {
 						country = "c:JIANGSU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7062,7 +7146,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HENAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7076,7 +7160,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ZHILI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7090,7 +7174,7 @@
 				add_ownership = {
 					country = {
 						country = "c:JIANGXI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7104,7 +7188,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTHERN_ANHUI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7118,7 +7202,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTHERN_ANHUI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7132,7 +7216,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WESTERN_HUBEI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7146,7 +7230,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EASTERN_HUBEI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7160,7 +7244,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HUNAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7174,7 +7258,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FORMOSA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7188,7 +7272,7 @@
 				add_ownership = {
 					country = {
 						country = "c:UUSIMAA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7202,7 +7286,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7216,7 +7300,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_KARELIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7230,7 +7314,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OSTROBOTHNIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7244,7 +7328,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KUOPIO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7258,7 +7342,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OULU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7272,7 +7356,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TALINN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7286,7 +7370,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TARTU"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7300,7 +7384,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RIGA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7314,7 +7398,7 @@
 				add_ownership = {
 					country = {
 						country = "c:COURLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7328,7 +7412,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KAUNAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7342,7 +7426,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VILNIUS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7356,7 +7440,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHUKOTKA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7370,7 +7454,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NENETSIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7384,7 +7468,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_KARELIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7398,7 +7482,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KOLA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7412,7 +7496,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ARKHANGELSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7426,7 +7510,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TARTARIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7440,7 +7524,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KHIVA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7454,7 +7538,7 @@
 				add_ownership = {
 					country = {
 						country = "c:UZBEKIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7468,7 +7552,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TAJIKISTAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7482,7 +7566,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KIRGHIZIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7496,7 +7580,7 @@
 				add_ownership = {
 					country = {
 						country = "c:URALSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7510,7 +7594,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TURKMENIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7524,7 +7608,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SEMIRECHE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7538,7 +7622,7 @@
 				add_ownership = {
 					country = {
 						country = "c:JETISY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7552,7 +7636,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AKMOLINSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7566,7 +7650,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KAMCHATKA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7580,7 +7664,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OKHOTSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7594,7 +7678,7 @@
 				add_ownership = {
 					country = {
 						country = "c:YAKUTSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7608,7 +7692,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TRANS_BAIKAL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7622,7 +7706,7 @@
 				add_ownership = {
 					country = {
 						country = "c:IRKUTSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7636,7 +7720,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TOMSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7650,7 +7734,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TUVA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7664,7 +7748,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TOBOLSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7678,7 +7762,7 @@
 				add_ownership = {
 					country = {
 						country = "c:UPPER_YENISEYSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7692,7 +7776,7 @@
 				add_ownership = {
 					country = {
 						country = "c:OB"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7706,7 +7790,7 @@
 				add_ownership = {
 					country = {
 						country = "c:URAL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7720,7 +7804,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SAMARA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7734,7 +7818,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KAZAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7748,7 +7832,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PERM"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7762,7 +7846,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GALICH"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7776,7 +7860,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NOVGOROD"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7790,7 +7874,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MOSCOW"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7804,7 +7888,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DAGESTAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7818,7 +7902,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KUBAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7832,7 +7916,7 @@
 				add_ownership = {
 					country = {
 						country = "c:STAVROPOL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7846,7 +7930,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ASTRAKHAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7860,7 +7944,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CRIMEA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7874,7 +7958,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KHARKOV"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7888,7 +7972,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KURSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7902,7 +7986,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TVER"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7916,7 +8000,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHERSON"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7930,7 +8014,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BESSARABIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7944,7 +8028,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ORYOL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7958,7 +8042,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SMOLENSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7972,7 +8056,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MOGILEV"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -7986,7 +8070,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CAMPANIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8000,7 +8084,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ABRUZZO"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8014,7 +8098,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CALABRIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8028,7 +8112,7 @@
 				add_ownership = {
 					country = {
 						country = "c:APULIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8042,7 +8126,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_GALICIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8056,35 +8140,35 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_GALICIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_WEST_SLOVAKIA = {
-		region_state:WEST_SLOVAKIA = {
+	s:STATE_SLOVAKIA = {
+		region_state:SLOVAKIA = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:WEST_SLOVAKIA"
-						levels =  25
+						country = "c:SLOVAKIA"
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_EAST_SLOVAKIA = {
-		region_state:EAST_SLOVAKIA = {
+	s:STATE_RUTHENIA = {
+		region_state:RUTHENIA = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:EAST_SLOVAKIA"
-						levels =  25
+						country = "c:RUTHENIA"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8098,7 +8182,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DALMATIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8112,7 +8196,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CROATIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8126,7 +8210,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SLAVONIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8140,7 +8224,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BEKES"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8154,7 +8238,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TRANSDANUBIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8168,7 +8252,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ISTRIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8182,7 +8266,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LOMBARDY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8196,7 +8280,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BOHEMIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8210,7 +8294,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MORAVIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8224,7 +8308,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CENTRAL_HUNGARY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8238,7 +8322,7 @@
 				add_ownership = {
 					country = {
 						country = "c:STYRIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8252,7 +8336,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TYROL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8266,7 +8350,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AUSTRIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8280,7 +8364,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTH_TYROL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8294,7 +8378,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SLOVENIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8308,7 +8392,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DELVIDEK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8322,7 +8406,7 @@
 				add_ownership = {
 					country = {
 						country = "c:POSEN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8336,7 +8420,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WESTPHALIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8350,7 +8434,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ANHALT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8364,7 +8448,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WEST_PRUSSIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8378,7 +8462,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EAST_PRUSSIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8392,7 +8476,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RHINELAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8406,7 +8490,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTH_RHINE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8420,21 +8504,35 @@
 				add_ownership = {
 					country = {
 						country = "c:RUHR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
 			}
 		}
 	}
-	s:STATE_SILESIA = {
-		region_state:SILESIA = {
+	s:STATE_LOWER_SILESIA = {
+		region_state:LOWER_SILESIA = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:SILESIA"
-						levels =  25
+						country = "c:LOWER_SILESIA"
+						levels =  5
+					}
+				}
+				reserves = 1
+			}
+		}
+	}
+	s:STATE_UPPER_SILESIA = {
+		region_state:UPPER_SILESIA = {
+			create_building = {
+				building = "building_barracks"
+				add_ownership = {
+					country = {
+						country = "c:UPPER_SILESIA"
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8448,7 +8546,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BRANDENBURG"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8462,7 +8560,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SCHLESWIG_HOLSTEIN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8476,7 +8574,7 @@
 				add_ownership = {
 					country = {
 						country = "c:WURTTEMBERG"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8490,7 +8588,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BADEN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8504,7 +8602,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HANNOVER"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8518,7 +8616,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BAVARIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8532,7 +8630,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FRANCONIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8546,7 +8644,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SAXONY"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8560,7 +8658,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BRUNSWICK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8574,7 +8672,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HESSE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8588,7 +8686,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PIEDMONT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8602,7 +8700,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SARDINIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8616,7 +8714,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TARAPACA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8630,7 +8728,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ANTOFAGASTA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8644,7 +8742,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BREST"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8658,7 +8756,7 @@
 				add_ownership = {
 					country = {
 						country = "c:GREATER_POLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8672,7 +8770,7 @@
 				add_ownership = {
 					country = {
 						country = "c:LESSER_POLAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8686,7 +8784,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MAZOVIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8700,7 +8798,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VOLHYNIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8714,7 +8812,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KIEV"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8728,7 +8826,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MECKLENBURG"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8742,7 +8840,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MALTA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8756,7 +8854,7 @@
 				add_ownership = {
 					country = {
 						country = "c:UMBRIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8770,7 +8868,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BANAT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8784,7 +8882,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CORSICA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8798,7 +8896,7 @@
 				add_ownership = {
 					country = {
 						country = "c:UTAH"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8812,7 +8910,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SOUTH_CAROLINA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8826,7 +8924,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHIAPAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8840,7 +8938,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SAN_SALVADOR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8854,7 +8952,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ADANA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8868,7 +8966,7 @@
 				add_ownership = {
 					country = {
 						country = "c:DEIR_EZ_ZOR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8882,7 +8980,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BAJA_CALIFORNIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8896,7 +8994,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CONNAUGHT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8910,7 +9008,7 @@
 				add_ownership = {
 					country = {
 						country = "c:FERGANA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8924,7 +9022,7 @@
 				add_ownership = {
 					country = {
 						country = "c:MERZ"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8938,7 +9036,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SYRDARYA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8952,7 +9050,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AKTOBE"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8966,7 +9064,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KALMYKIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8980,7 +9078,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NORTH_CAUCASUS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -8994,7 +9092,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TAURIDA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9008,7 +9106,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHERNIHIV"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9022,7 +9120,7 @@
 				add_ownership = {
 					country = {
 						country = "c:TAMBOV"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9036,7 +9134,7 @@
 				add_ownership = {
 					country = {
 						country = "c:RYAZAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9050,7 +9148,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VITEBSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9064,7 +9162,7 @@
 				add_ownership = {
 					country = {
 						country = "c:PSKOV"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9078,7 +9176,7 @@
 				add_ownership = {
 					country = {
 						country = "c:YAROSLAVL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9092,7 +9190,7 @@
 				add_ownership = {
 					country = {
 						country = "c:NIZHNY_NOVGOROD"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9106,7 +9204,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHUVASHIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9120,7 +9218,7 @@
 				add_ownership = {
 					country = {
 						country = "c:VYATKA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9134,7 +9232,7 @@
 				add_ownership = {
 					country = {
 						country = "c:UFA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9148,7 +9246,7 @@
 				add_ownership = {
 					country = {
 						country = "c:SURGUT"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9162,7 +9260,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KRASNOYARSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9176,7 +9274,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ALTAI"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9190,7 +9288,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BURYATIA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9204,7 +9302,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KOLYMA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9218,7 +9316,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AMUR"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9232,7 +9330,7 @@
 				add_ownership = {
 					country = {
 						country = "c:CHELYABINSK"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9246,7 +9344,7 @@
 				add_ownership = {
 					country = {
 						country = "c:KURNOOL"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9260,7 +9358,7 @@
 				add_ownership = {
 					country = {
 						country = "c:BUNDELKHAND"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9274,7 +9372,7 @@
 				add_ownership = {
 					country = {
 						country = "c:AGRA"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9288,7 +9386,7 @@
 				add_ownership = {
 					country = {
 						country = "c:ARAKAN"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9302,7 +9400,7 @@
 				add_ownership = {
 					country = {
 						country = "c:HILL_PUNJAB"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1
@@ -9316,7 +9414,7 @@
 				add_ownership = {
 					country = {
 						country = "c:EASTERN_HIMALAYAS"
-						levels =  25
+						levels =  5
 					}
 				}
 				reserves = 1

@@ -1,8 +1,8 @@
 {
   "name" : "Shattered World - Every state a country",
   "id" : "",
-  "version" : "1.9.*",
-  "supported_game_version" : "1.9.*",
+  "version" : "1.12.*",
+  "supported_game_version" : "1.12.*",
   "short_description" : "",
   "tags" : [],
   "relationships" : [],
@@ -24,7 +24,6 @@
       "common/history/trade",
       "common/history/treaties",
       "common/history/military_formations",
-      "common/history/governments",
       "common/country_definitions",
       "common/country_formation",
 	"events/brazil"
