@@ -8927,7 +8927,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:HOKKAIDO = {
+	c:TOHOKU = {
 		effect_starting_technology_tier_5_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -8943,7 +8943,23 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:TOHOKU = {
+	c:HOKUSHINETSU = {
+		effect_starting_technology_tier_5_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:KYOTO = {
 		effect_starting_technology_tier_5_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -8975,7 +8991,7 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:CHUBU = {
+	c:TOKAI = {
 		effect_starting_technology_tier_5_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy
@@ -9023,22 +9039,6 @@
 		activate_law = law_type:law_censorship
 		activate_law = law_type:law_migration_controls
 	}
-	c:RYUKYU_ISLANDS = {
-		effect_starting_technology_tier_5_tech = yes
-		activate_law = law_type:law_monarchy
-		activate_law = law_type:law_autocracy
-		activate_law = law_type:law_state_religion
-		activate_law = law_type:law_no_womens_rights
-		activate_law = law_type:law_land_based_taxation
-		activate_law = law_type:law_hereditary_bureaucrats
-		activate_law = law_type:law_national_supremacy
-		activate_law = law_type:law_mercantilism
-		activate_law = law_type:law_tenant_farmers
-		activate_law = law_type:law_interventionism
-		activate_law = law_type:law_professional_army
-		activate_law = law_type:law_censorship
-		activate_law = law_type:law_migration_controls
-	}
 	c:CHUGOKU = {
 		effect_starting_technology_tier_5_tech = yes
 		activate_law = law_type:law_monarchy
@@ -9056,6 +9056,38 @@
 		activate_law = law_type:law_migration_controls
 	}
 	c:SHIKOKU = {
+		effect_starting_technology_tier_5_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:HOKKAIDO = {
+		effect_starting_technology_tier_5_tech = yes
+		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_no_womens_rights
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_national_supremacy
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_interventionism
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_migration_controls
+	}
+	c:RYUKYU_ISLANDS = {
 		effect_starting_technology_tier_5_tech = yes
 		activate_law = law_type:law_monarchy
 		activate_law = law_type:law_autocracy

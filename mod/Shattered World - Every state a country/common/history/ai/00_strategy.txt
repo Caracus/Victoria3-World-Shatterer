@@ -2379,12 +2379,22 @@
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
-	c:CHUBU = {
+	c:TOKAI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:HOKUSHINETSU = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda
 	}
 	c:KANSAI = {
+		set_strategy = ai_strategy_industrial_expansion
+		set_strategy = ai_strategy_territorial_expansion 
+		set_strategy = ai_strategy_nationalist_agenda
+	}
+	c:KYOTO = {
 		set_strategy = ai_strategy_industrial_expansion
 		set_strategy = ai_strategy_territorial_expansion 
 		set_strategy = ai_strategy_nationalist_agenda

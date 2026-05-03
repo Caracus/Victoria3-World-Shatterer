@@ -97,7 +97,7 @@ fun readPopsFile(path: String, regionalMapping: RegionalMapping): MutableMap<Str
         createPopBlock.forEach {
             try {
                 val culture = Regex("culture ?= ([a-z,_]*)").find(it.groupValues[1])!!.groupValues[1]
-                val amountOfPops = Regex("size = (\\d{1,20})").find(it.groupValues[1])!!.groupValues[1]
+                val amountOfPops = Regex("size ?= ?(\\d{1,20})").find(it.groupValues[1])!!.groupValues[1]
                 val religion = Regex("religion = ([a-z,_]*)").find(it.groupValues[1])?.groupValues?.get(1) ?: "none"
 
                 // if an entry exists that matches state, culture and religion update it, else new

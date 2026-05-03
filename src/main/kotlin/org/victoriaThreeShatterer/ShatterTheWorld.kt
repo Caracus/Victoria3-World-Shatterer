@@ -6,7 +6,7 @@ import org.victoriaThreeShatterer.parsers.gameFiles.*
 import org.victoriaThreeShatterer.utils.*
 
 // copy the buildings, pops and state file from the games history folder to the resources folder, then set the patch version
-const val patchVersion = "1-12-1"
+const val patchVersion = "1-13-3"
 
 fun main() {
 

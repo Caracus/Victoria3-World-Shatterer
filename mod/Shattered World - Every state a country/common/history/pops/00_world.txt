@@ -995,16 +995,21 @@
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 28000
+				size = 13000
 			}
 			create_pop = {
 				culture = czech
-				size = 1128496
+				size = 1203496
 				religion = catholic
 			}
 			create_pop = {
+				culture = czech
+				size = 5062
+				religion = protestant
+			}
+			create_pop = {
 				culture = polish
-				size = 56004
+				size = 181679
 			}
 		}
 	}
@@ -4020,7 +4025,7 @@
 		region_state:SENEGAL = {
 			create_pop = {
 				culture = fulbe
-				size = 778610
+				size = 235718
 			}
 			create_pop = {
 				culture = bidan
@@ -4031,8 +4036,16 @@
 				size = 335256
 			}
 			create_pop = {
+				culture = portuguese
+				size = 76
+			}
+			create_pop = {
+				culture = afro_brazilian
+				size = 142
+			}
+			create_pop = {
 				culture = mande
-				size = 326657
+				size = 200973
 			}
 			create_pop = {
 				culture = mande
@@ -4047,10 +4060,6 @@
 				culture = fulbe
 				size = 45703
 				religion = animist
-			}
-			create_pop = {
-				culture = portuguese
-				size = 34
 			}
 		}
 	}
@@ -11061,7 +11070,11 @@
 		region_state:CEYLON = {
 			create_pop = {
 				culture = sinhala
-				size = 855608
+				size = 891808
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 3001
 			}
 			create_pop = {
 				culture = tamil
@@ -11094,10 +11107,6 @@
 				culture = bedouin
 				size = 671
 				religion = sunni
-			}
-			create_pop = {
-				culture = lacustrine_bantu
-				size = 2301
 			}
 			create_pop = {
 				culture = french
@@ -13023,12 +13032,119 @@
 	s:STATE_SAKHALIN = {
 		region_state:SAKHALIN = {
 			create_pop = {
+				culture = siberian
+				size = 9594
+			}
+			create_pop = {
 				culture = ainu
-				size = 24004
+				size = 7927
+			}
+			create_pop = {
+				culture = ainu
+				size = 192
+				religion = orthodox
+			}
+			create_pop = {
+				culture = russian
+				size = 170
+			}
+			create_pop = {
+				culture = inuit
+				size = 126
+				religion = orthodox
 			}
 			create_pop = {
 				culture = siberian
-				size = 16000
+				size = 101
+				religion = orthodox
+			}
+			create_pop = {
+				culture = japanese
+				size = 39
+			}
+		}
+	}
+	s:STATE_TOHOKU = {
+		region_state:TOHOKU = {
+			create_pop = {
+				culture = japanese
+				size = 3157725
+			}
+		}
+	}
+	s:STATE_HOKUSHINETSU = {
+		region_state:HOKUSHINETSU = {
+			create_pop = {
+				culture = japanese
+				size = 4138700
+			}
+		}
+	}
+	s:STATE_KYOTO = {
+		region_state:KYOTO = {
+			create_pop = {
+				culture = japanese
+				size = 1377948
+			}
+		}
+	}
+	s:STATE_KANTO = {
+		region_state:KANTO = {
+			create_pop = {
+				culture = japanese
+				size = 5004465
+			}
+		}
+	}
+	s:STATE_TOKAI = {
+		region_state:TOKAI = {
+			create_pop = {
+				culture = japanese
+				size = 4192918
+			}
+		}
+	}
+	s:STATE_KANSAI = {
+		region_state:KANSAI = {
+			create_pop = {
+				culture = japanese
+				size = 3986882
+			}
+		}
+	}
+	s:STATE_KYUSHU = {
+		region_state:KYUSHU = {
+			create_pop = {
+				culture = japanese
+				size = 4137366
+			}
+			create_pop = {
+				culture = ryukyuan
+				size = 2312
+			}
+			create_pop = {
+				culture = han
+				size = 2009
+			}
+			create_pop = {
+				culture = dutch
+				size = 20
+			}
+		}
+	}
+	s:STATE_CHUGOKU = {
+		region_state:CHUGOKU = {
+			create_pop = {
+				culture = japanese
+				size = 4077516
+			}
+		}
+	}
+	s:STATE_SHIKOKU = {
+		region_state:SHIKOKU = {
+			create_pop = {
+				culture = japanese
+				size = 2319419
 			}
 		}
 	}
@@ -13040,114 +13156,28 @@
 			}
 			create_pop = {
 				culture = japanese
-				size = 31933
-			}
-		}
-	}
-	s:STATE_TOHOKU = {
-		region_state:TOHOKU = {
-			create_pop = {
-				culture = japanese
-				size = 2374632
-			}
-			create_pop = {
-				culture = japanese
-				size = 917280
-				religion = shinto
-			}
-		}
-	}
-	s:STATE_KANTO = {
-		region_state:KANTO = {
-			create_pop = {
-				culture = japanese
-				size = 4050072
-			}
-			create_pop = {
-				culture = japanese
-				size = 1123204
-				religion = shinto
-			}
-		}
-	}
-	s:STATE_CHUBU = {
-		region_state:CHUBU = {
-			create_pop = {
-				culture = japanese
-				size = 4127776
-			}
-			create_pop = {
-				culture = japanese
-				size = 1745764
-				religion = shinto
-			}
-		}
-	}
-	s:STATE_KANSAI = {
-		region_state:KANSAI = {
-			create_pop = {
-				culture = japanese
-				size = 6178176
-			}
-			create_pop = {
-				culture = japanese
-				size = 1686204
-				religion = shinto
-			}
-		}
-	}
-	s:STATE_KYUSHU = {
-		region_state:KYUSHU = {
-			create_pop = {
-				culture = japanese
-				size = 3170167
-			}
-			create_pop = {
-				culture = micronesian
-				size = 132
-			}
-			create_pop = {
-				culture = japanese
-				size = 1067036
-				religion = shinto
-			}
-			create_pop = {
-				culture = han
-				size = 18712
+				size = 32833
 			}
 		}
 	}
 	s:STATE_RYUKYU_ISLANDS = {
 		region_state:RYUKYU_ISLANDS = {
 			create_pop = {
-				culture = japanese
-				size = 259181
-			}
-		}
-	}
-	s:STATE_CHUGOKU = {
-		region_state:CHUGOKU = {
-			create_pop = {
-				culture = japanese
-				size = 2024340
+				culture = ryukyuan
+				size = 263153
 			}
 			create_pop = {
-				culture = japanese
-				size = 744588
-				religion = shinto
+				culture = ryukyuan
+				size = 35222
+				religion = confucian
 			}
-		}
-	}
-	s:STATE_SHIKOKU = {
-		region_state:SHIKOKU = {
 			create_pop = {
-				culture = japanese
-				size = 1161416
+				culture = han
+				size = 231
 			}
 			create_pop = {
 				culture = japanese
-				size = 352420
-				religion = shinto
+				size = 12340
 			}
 		}
 	}
@@ -13169,6 +13199,10 @@
 			create_pop = {
 				culture = korean
 				size = 2409741
+			}
+			create_pop = {
+				culture = japanese
+				size = 1210
 			}
 			create_pop = {
 				culture = korean
@@ -13826,15 +13860,19 @@
 		region_state:NEW_SOUTH_WALES = {
 			create_pop = {
 				culture = aborigine
-				size = 63200
+				size = 78439
 			}
 			create_pop = {
 				culture = australian
-				size = 101384
+				size = 77117
 			}
 			create_pop = {
 				culture = irish
-				size = 16080
+				size = 57604
+			}
+			create_pop = {
+				culture = scottish
+				size = 128
 			}
 		}
 	}
@@ -13842,11 +13880,19 @@
 		region_state:VICTORIA = {
 			create_pop = {
 				culture = aborigine
-				size = 31118
+				size = 49261
 			}
 			create_pop = {
 				culture = australian
-				size = 24676
+				size = 32824
+			}
+			create_pop = {
+				culture = irish
+				size = 16578
+			}
+			create_pop = {
+				culture = scottish
+				size = 52
 			}
 		}
 	}
@@ -13866,11 +13912,19 @@
 		region_state:QUEENSLAND = {
 			create_pop = {
 				culture = aborigine
-				size = 59200
+				size = 81261
 			}
 			create_pop = {
 				culture = australian
-				size = 4000
+				size = 10452
+			}
+			create_pop = {
+				culture = irish
+				size = 5628
+			}
+			create_pop = {
+				culture = scottish
+				size = 34
 			}
 		}
 	}
@@ -13878,11 +13932,19 @@
 		region_state:SOUTH_AUSTRALIA = {
 			create_pop = {
 				culture = australian
-				size = 10800
+				size = 6767
+			}
+			create_pop = {
+				culture = irish
+				size = 3436
 			}
 			create_pop = {
 				culture = aborigine
-				size = 81500
+				size = 122336
+			}
+			create_pop = {
+				culture = scottish
+				size = 300
 			}
 		}
 	}
@@ -13890,11 +13952,19 @@
 		region_state:WESTERN_AUSTRALIA = {
 			create_pop = {
 				culture = aborigine
-				size = 95056
+				size = 99414
 			}
 			create_pop = {
 				culture = australian
-				size = 3004
+				size = 11703
+			}
+			create_pop = {
+				culture = irish
+				size = 6301
+			}
+			create_pop = {
+				culture = scottish
+				size = 484
 			}
 		}
 	}
@@ -13902,7 +13972,11 @@
 		region_state:NORTHERN_TERRITORY = {
 			create_pop = {
 				culture = aborigine
-				size = 41500
+				size = 100999
+			}
+			create_pop = {
+				culture = australian
+				size = 3600
 			}
 		}
 	}

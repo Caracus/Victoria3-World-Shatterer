@@ -2062,6 +2062,14 @@ NAT_JAPANESE = {
 		has_technology_researched = pan-nationalism
 	}
 }
+NAT_RYUKYUAN = {
+	use_culture_states = yes
+	required_states_fraction = 0.51
+	ai_will_do = { always = yes }
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+}
 NAT_NEPALI = {
 	use_culture_states = yes
 	required_states_fraction = 0.51

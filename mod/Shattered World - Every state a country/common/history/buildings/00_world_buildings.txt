@@ -6663,13 +6663,27 @@
 			}
 		}
 	}
-	s:STATE_CHUBU = {
-		region_state:CHUBU = {
+	s:STATE_TOKAI = {
+		region_state:TOKAI = {
 			create_building = {
 				building = "building_barracks"
 				add_ownership = {
 					country = {
-						country = "c:CHUBU"
+						country = "c:TOKAI"
+						levels =  5
+					}
+				}
+				reserves = 1
+			}
+		}
+	}
+	s:STATE_HOKUSHINETSU = {
+		region_state:HOKUSHINETSU = {
+			create_building = {
+				building = "building_barracks"
+				add_ownership = {
+					country = {
+						country = "c:HOKUSHINETSU"
 						levels =  5
 					}
 				}
@@ -6684,6 +6698,20 @@
 				add_ownership = {
 					country = {
 						country = "c:KANSAI"
+						levels =  5
+					}
+				}
+				reserves = 1
+			}
+		}
+	}
+	s:STATE_KYOTO = {
+		region_state:KYOTO = {
+			create_building = {
+				building = "building_barracks"
+				add_ownership = {
+					country = {
+						country = "c:KYOTO"
 						levels =  5
 					}
 				}

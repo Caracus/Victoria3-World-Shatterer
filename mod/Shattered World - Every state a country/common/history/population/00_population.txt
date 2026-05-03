@@ -2231,11 +2231,15 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
-	c:HOKKAIDO = {
+	c:TOHOKU = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
-	c:TOHOKU = {
+	c:HOKUSHINETSU = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	c:KYOTO = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
@@ -2243,7 +2247,7 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
-	c:CHUBU = {
+	c:TOKAI = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
@@ -2255,15 +2259,19 @@
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
-	c:RYUKYU_ISLANDS = {
-		effect_starting_pop_wealth_low = yes
-		effect_starting_pop_literacy_baseline = yes
-	}
 	c:CHUGOKU = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
 	c:SHIKOKU = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	c:HOKKAIDO = {
+		effect_starting_pop_wealth_low = yes
+		effect_starting_pop_literacy_baseline = yes
+	}
+	c:RYUKYU_ISLANDS = {
 		effect_starting_pop_wealth_low = yes
 		effect_starting_pop_literacy_baseline = yes
 	}
